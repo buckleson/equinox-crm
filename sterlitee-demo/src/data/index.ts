@@ -28,7 +28,7 @@ export const EXECS = [
 const EN = EXECS.map(e => e.name)
 
 export interface Activity { when: string; text: string }
-export interface Lead { id: string; name: string; phone: string; email: string; source: string; budget: number; config: string; project: string; status: string; exec: string; city: string; created: string }
+export interface Lead { id: string; name: string; phone: string; email: string; source: string; budget: number; config: string; project: string; status: string; exec: string; city: string; created: string; partner?: string }
 const phone = () => '+91 ' + pick(['98','99','97','88','70','91','80']) + ri(100, 999) + ' ' + ri(10000, 99999)
 export const leads: Lead[] = Array.from({ length: 150 }, (_, i) => {
   const n = name(); const config = wpick(CONFIGS, [10, 30, 30, 10, 8, 12]); const project = config === 'Plot' ? 'Sterlitee Greens' : config === 'Villa' ? 'Sterlitee Greens' : wpick(PROJECTS, [45, 30, 10, 15])
@@ -89,12 +89,33 @@ const TT = ['Call back to share price sheet','Send brochure and floor plans on W
 export const tasks: Task[] = Array.from({ length: 24 }, (_, i) => ({ id: 'T-' + (7001 + i), title: pick(TT), lead: pick(leads).name, due: dateAgo(ri(-7, 4), 12), exec: pick(EN), done: r() < 0.3, priority: pick(['High','Medium','Low']) }))
 
 export const members = [
-  { name: 'Sales Admin', email: 'admin@sterlitee.example', role: 'Admin' },
-  { name: 'Aditya Rane', email: 'aditya@sterlitee.example', role: 'Sales Manager' },
-  { name: 'Shruti Phadke', email: 'shruti@sterlitee.example', role: 'Sales Executive' },
-  { name: 'Rajesh Naidu', email: 'rajesh@sterlitee.example', role: 'Sales Executive' },
-  { name: 'Meghna Salvi', email: 'meghna@sterlitee.example', role: 'Accounts' },
+  { name: 'Sales Admin', email: 'admin@sterlitee.in', role: 'Admin' },
+  { name: 'Aditya Rane', email: 'aditya@sterlitee.in', role: 'Sales Manager' },
+  { name: 'Shruti Phadke', email: 'shruti@sterlitee.in', role: 'Sales Executive' },
+  { name: 'Rajesh Naidu', email: 'rajesh@sterlitee.in', role: 'Sales Executive' },
+  { name: 'Kunal Bhatt', email: 'kunal@sterlitee.in', role: 'Sales Executive' },
+  { name: 'Farah Sheikh', email: 'farah@sterlitee.in', role: 'Sales Executive' },
+  { name: 'Meghna Salvi', email: 'meghna@sterlitee.in', role: 'Accounts' },
+  { name: 'Rakesh Joshi', email: 'partner@sterlitee.in', role: 'Channel Partner' },
 ]
+
+export const DEMO_EXEC = 'Shruti Phadke'
+partners[0].contact = 'Rakesh Joshi'
+export const DEMO_PARTNER = partners[0]
+{
+  const cp = leads.filter(l => l.source === 'Channel Partner')
+  cp.forEach((l, i) => { l.partner = i < 12 ? DEMO_PARTNER.firm : partners[1 + (i % (partners.length - 1))].firm })
+  cp.slice(0, 3).forEach(l => { l.status = 'Booked' })
+  leads.forEach((l, i) => { if (i % 6 === 1) l.exec = DEMO_EXEC })
+  deals.forEach((d, i) => { if (i % 6 === 2) d.exec = DEMO_EXEC })
+  tasks.forEach((t, i) => { if (i % 4 === 1) t.exec = DEMO_EXEC })
+  const mine = visits.filter((_, i) => i % 6 === 3)
+  mine.forEach(v => { v.exec = DEMO_EXEC })
+  mine.slice(0, 3).forEach((v, i) => { v.when = '2026-11-22T' + ['11', '14', '16'][i] + ':00:00.000Z'; v.status = 'Scheduled'; v.feedback = '—' })
+  const mt = tasks.filter(t => t.exec === DEMO_EXEC)
+  mt.slice(0, 3).forEach((t, i) => { t.due = '2026-11-22T0' + (4 + i) + ':30:00.000Z'; t.done = false })
+  visits.sort((a, b) => b.when.localeCompare(a.when))
+}
 
 export function activities(kind: string, rec: Record<string, any>): Activity[] {
   const base = rec.created ?? rec.when ?? rec.due ?? dateAgo(10)

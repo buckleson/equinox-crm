@@ -1,7 +1,11 @@
 import { useMemo, useState, useEffect } from 'react'
-import { LayoutDashboard, Users, Handshake, Building2, CalendarCheck, Briefcase, Wallet, CheckSquare, UserCog, Settings as SettingsIcon, Search, Plus, X, ArrowUp, ArrowDown, Filter, ArrowUpDown, LayoutGrid, Table2, ChevronDown } from 'lucide-react'
+import { LayoutDashboard, Users, Handshake, Building2, CalendarCheck, Briefcase, Wallet, CheckSquare, UserCog, Settings as SettingsIcon, Search, Plus, X, ArrowUp, ArrowDown, Filter, ArrowUpDown, LayoutGrid, Table2, ChevronDown, ChevronUp, LogOut, ShieldCheck, Sun } from 'lucide-react'
 import * as D from './data'
 import { inr, inrShort, fmtDate, fmtDT } from './data/util'
+import { Chip, TopBar, Logo, initials } from './ui'
+import { Login } from './auth/Login'
+import { ROLES, PAGE_LABELS, canCreate, canView, isPageId, readStoredRole, scopeRows, storeRole, type PageId, type Role, type RoleId } from './auth/roles'
+import { AccessDenied, AdminConsole, CollectionsOverview, MyDay, PartnerPortal } from './pages/Homes'
 
 type Row = Record<string, any>
 type Col = { key: string; label: string; w?: number; kind?: 'chip' | 'money' | 'date' | 'datetime' | 'text' | 'num' | 'phone'; fmt?: (v: any, row: Row) => string }
@@ -34,11 +38,6 @@ const DEALS: Cfg = { id: 'deals', label: 'Deals', singular: 'Deal', kind: 'deal'
   cols: [{ key: 'id', label: 'Deal', w: 80 }, { key: 'customer', label: 'Customer', w: 170 }, { key: 'unit', label: 'Unit', w: 210 }, { key: 'project', label: 'Project', w: 170 }, { key: 'value', label: 'Value', w: 130, kind: 'money', fmt: v => inrShort(v) }, { key: 'stage', label: 'Stage', w: 130, kind: 'chip' }, { key: 'exec', label: 'Exec', w: 130 }, { key: 'created', label: 'Created', w: 110, kind: 'date' }],
   fields: [txt('customer', 'Customer'), txt('unit', 'Unit'), sel('project', 'Project', D.PROJECTS), num('value', 'Value (₹)'), sel('stage', 'Stage', D.DEAL_STAGES), sel('exec', 'Exec', EN)] }
 
-const CHIP: Record<string, string> = { New: 'blue', Contacted: 'purple', 'Site Visit Scheduled': 'orange', 'Site Visit Done': 'turquoise', Negotiation: 'yellow', Booked: 'green', Lost: 'red', Available: 'green', Blocked: 'yellow', Sold: 'gray', Scheduled: 'blue', Completed: 'green', 'No-show': 'red', Rescheduled: 'orange', Paid: 'green', Due: 'yellow', Overdue: 'red', Enquiry: 'blue', 'Site Visit': 'purple', 'Token Paid': 'orange', Agreement: 'turquoise', Registration: 'pink', Possession: 'green' }
-const PAL = ['blue', 'purple', 'orange', 'turquoise', 'pink', 'gray', 'yellow']
-const chipColor = (v: string) => CHIP[v] ?? PAL[[...String(v)].reduce((s, c) => s + c.charCodeAt(0), 0) % PAL.length]
-const Chip = ({ v }: { v: string }) => <span className={'chip c-' + chipColor(v)}><i />{v}</span>
-
 function show(c: Col, row: Row) {
   const v = row[c.key]
   if (c.fmt) return c.fmt(v, row)
@@ -51,13 +50,11 @@ function cell(c: Col, row: Row) {
   if (c.kind === 'chip') return <Chip v={String(row[c.key])} />
   return <span className={c.kind === 'num' || c.kind === 'money' ? 'num' : ''}>{show(c, row)}</span>
 }
-const initials = (n: string) => n.split(' ').map(x => x[0]).slice(0, 2).join('')
-
-function Logo({ size = 22 }: { size?: number }) {
-  return <svg width={size} height={size} viewBox="0 0 32 32"><rect width="32" height="32" rx="7" fill="#1E3A5F" /><path d="M21.5 10.5c-1-1.6-3-2.5-5.2-2.5-3 0-5 1.6-5 3.9 0 2.4 2 3.2 4.9 4 2.5.7 3.4 1.2 3.4 2.2 0 1.1-1.2 1.8-2.9 1.8-1.7 0-3.1-.8-3.9-2" fill="none" stroke="#C9A227" strokeWidth="2.8" strokeLinecap="round" /></svg>
-}
-
-const NAV = [
+const NAV: { id: PageId; label: string; icon: typeof Users }[] = [
+  { id: 'admin-console', label: 'Admin Console', icon: ShieldCheck },
+  { id: 'my-day', label: 'My Day', icon: Sun },
+  { id: 'collections-overview', label: 'Collections Overview', icon: Wallet },
+  { id: 'partner-portal', label: 'Partner Portal', icon: Briefcase },
   { id: 'dashboard', label: 'Dashboard', icon: LayoutDashboard },
   { id: 'leads', label: 'Leads', icon: Users },
   { id: 'deals', label: 'Deals', icon: Handshake },
@@ -67,55 +64,91 @@ const NAV = [
   { id: 'payments', label: 'Collections', icon: Wallet },
   { id: 'tasks', label: 'Tasks', icon: CheckSquare },
   { id: 'team', label: 'Sales Team', icon: UserCog },
+  { id: 'settings', label: 'Settings', icon: SettingsIcon },
 ]
 
 function useHash() {
-  const get = () => location.hash.replace(/^#\/?/, '') || 'dashboard'
+  const get = () => location.hash.replace(/^#\/?/, '')
   const [h, setH] = useState(get)
   useEffect(() => { const f = () => setH(get()); window.addEventListener('hashchange', f); return () => window.removeEventListener('hashchange', f) }, [])
   return h
 }
 
+const go = (page: string) => { location.hash = '#/' + page }
+
 export default function App() {
-  const page = useHash()
+  const hash = useHash()
+  const [roleId, setRoleId] = useState<RoleId | null>(readStoredRole)
+  const [menu, setMenu] = useState(false)
+  const [newOn, setNewOn] = useState<string | null>(null)
   const [store, setStore] = useState<Record<string, Row[]>>(() => Object.fromEntries([...CFGS, DEALS].map(c => [c.id, c.seed])))
   const [tasks, setTasks] = useState<Row[]>(D.tasks)
+  const role = ROLES.find(r => r.id === roleId) ?? null
+  const signIn = (next: Role) => { storeRole(next.id); setRoleId(next.id); setMenu(false); go(next.home) }
+  const signOut = () => { storeRole(null); setRoleId(null); setMenu(false); go('login') }
+  useEffect(() => { if (!role && hash !== 'login') go('login') }, [role, hash])
+  if (!role || hash === 'login') return <Login onSignIn={signIn} />
+  const page = hash || role.home
   const cfg = [...CFGS, DEALS].find(c => c.id === page)
-  const cur = NAV.find(n => n.id === page)
+  const known = isPageId(page)
+  const allowed = known && canView(role, page)
+  const homeLabel = PAGE_LABELS[role.home]
+  const navItems = (ids: PageId[]) => NAV.filter(n => ids.includes(n.id) && n.id !== role.home && canView(role, n.id))
+  const workspace = navItems(['dashboard', 'leads', 'deals', 'inventory', 'visits', 'partners', 'payments', 'tasks', 'team'])
+  const admin = navItems(['settings'])
+  const homeNav = NAV.find(n => n.id === role.home)!
+  const link = (n: typeof NAV[number]) => <a key={n.id} href={'#/' + n.id} className={'nav' + (page === n.id ? ' on' : '')}><n.icon size={16} />{n.label}</a>
+  const tasksScoped = scopeRows(role, 'tasks', tasks)
   return (
     <div className="app">
       <aside className="side">
         <div className="ws"><Logo /><span>Sterlitee Realty</span><ChevronDown size={14} /></div>
         <nav>
+          <div className="nav-h">Home</div>
+          {link(homeNav)}
           <div className="nav-h">Workspace</div>
-          {NAV.map(n => <a key={n.id} href={'#/' + n.id} className={'nav' + (page === n.id ? ' on' : '')}><n.icon size={16} />{n.label}</a>)}
-          <div className="nav-h">Admin</div>
-          <a href="#/settings" className={'nav' + (page === 'settings' ? ' on' : '')}><SettingsIcon size={16} />Settings</a>
+          {workspace.map(link)}
+          {admin.length > 0 && <div className="nav-h">Admin</div>}
+          {admin.map(link)}
         </nav>
-        <div className="me"><span className="av">SA</span><div><b>Sales Admin</b><small>Sterlitee Realty</small></div></div>
+        <div className="me-wrap">
+          {menu && <div className="menu">
+            <div className="nav-h">Switch role</div>
+            {ROLES.map(r => <button key={r.id} className={'menu-i' + (r.id === role.id ? ' on' : '')} onClick={() => signIn(r)}><span>{r.label}</span><small>{r.person}</small></button>)}
+          </div>}
+          <div className="me">
+            <span className="av">{initials(role.person)}</span>
+            <div><b>{role.person}</b><Chip v={role.label} /></div>
+            <button className="ico" title="Switch role" onClick={() => setMenu(m => !m)}>{menu ? <ChevronDown size={14} /> : <ChevronUp size={14} />}</button>
+          </div>
+          <button className="btn wide" onClick={signOut}><LogOut size={14} />Switch role</button>
+        </div>
       </aside>
       <main className="main">
-        {page === 'dashboard' && <Dashboard store={store} />}
-        {cfg && <ObjectView key={cfg.id} cfg={cfg} rows={store[cfg.id]} setRows={(f) => setStore(s => ({ ...s, [cfg.id]: f(s[cfg.id]) }))} />}
-        {page === 'tasks' && <Tasks tasks={tasks} setTasks={setTasks} />}
-        {page === 'team' && <Team />}
-        {page === 'settings' && <Settings />}
-        {!cfg && !cur && page !== 'settings' && <div className="pad">Not found</div>}
+        {!known && <div className="pad">Not found</div>}
+        {known && !allowed && <AccessDenied homeLabel={homeLabel} onHome={() => go(role.home)} />}
+        {allowed && page === 'admin-console' && <AdminConsole store={store} />}
+        {allowed && page === 'my-day' && <MyDay store={{ ...store, tasks }} role={role} />}
+        {allowed && page === 'collections-overview' && <CollectionsOverview store={store} onOpenCollections={() => go('payments')} />}
+        {allowed && page === 'partner-portal' && <PartnerPortal store={store} role={role} onSubmitLead={() => { setNewOn('leads'); go('leads') }} />}
+        {allowed && page === 'dashboard' && <Dashboard store={store} />}
+        {allowed && cfg && <ObjectView key={cfg.id} cfg={cfg} role={role} rows={scopeRows(role, cfg.id as PageId, store[cfg.id])} setRows={(f) => setStore(s => ({ ...s, [cfg.id]: f(s[cfg.id]) }))} startOpen={newOn === cfg.id} onModalClosed={() => setNewOn(null)} />}
+        {allowed && page === 'tasks' && <Tasks tasks={tasksScoped} allTasks={tasks} setTasks={setTasks} role={role} />}
+        {allowed && page === 'team' && <Team />}
+        {allowed && page === 'settings' && <Settings />}
       </main>
     </div>
   )
 }
 
-function TopBar({ title, icon, children }: { title: string; icon?: React.ReactNode; children?: React.ReactNode }) {
-  return <div className="top"><div className="crumb">{icon}<b>{title}</b></div><div className="top-r">{children}</div></div>
-}
-
-function ObjectView({ cfg, rows, setRows }: { cfg: Cfg; rows: Row[]; setRows: (f: (r: Row[]) => Row[]) => void }) {
+function ObjectView({ cfg, role, rows, setRows, startOpen, onModalClosed }: { cfg: Cfg; role: Role; rows: Row[]; setRows: (f: (r: Row[]) => Row[]) => void; startOpen: boolean; onModalClosed: () => void }) {
   const [q, setQ] = useState('')
   const [status, setStatus] = useState('')
   const [sort, setSort] = useState<{ k: string; d: 1 | -1 } | null>(null)
   const [open, setOpen] = useState<Row | null>(null)
-  const [modal, setModal] = useState(false)
+  const [modal, setModal] = useState(startOpen)
+  const editable = canCreate(role, cfg.id as PageId)
+  const closeModal = () => { setModal(false); onModalClosed() }
   const [mode, setMode] = useState<'table' | 'board'>(cfg.id === 'deals' ? 'board' : 'table')
   const list = useMemo(() => {
     const s = q.toLowerCase()
@@ -124,6 +157,8 @@ function ObjectView({ cfg, rows, setRows }: { cfg: Cfg; rows: Row[]; setRows: (f
     return out
   }, [rows, q, status, sort, cfg])
   const Icon = NAV.find(n => n.id === cfg.id)!.icon
+  const forcedValues: Row = role.id === 'partner' && cfg.id === 'leads' ? { source: 'Channel Partner', partner: D.DEMO_PARTNER.firm } : role.id === 'executive' && ['leads', 'visits'].includes(cfg.id) ? { exec: role.person } : {}
+  const forced = Object.keys(forcedValues).filter(k => k !== 'partner')
   const move = (id: string, stage: string) => setRows(rs => rs.map(r => r.id === id ? { ...r, stage } : r))
   return (
     <>
@@ -133,17 +168,17 @@ function ObjectView({ cfg, rows, setRows }: { cfg: Cfg; rows: Row[]; setRows: (f
         <div className="search"><Search size={14} /><input placeholder="Search…" value={q} onChange={e => setQ(e.target.value)} /></div>
         {cfg.statusKey && <label className="sel"><Filter size={14} /><select value={status} onChange={e => setStatus(e.target.value)}><option value="">All {cfg.statusKey === "stage" ? "stages" : "statuses"}</option>{cfg.statusOpts!.map(o => <option key={o}>{o}</option>)}</select></label>}
         <label className="sel"><ArrowUpDown size={14} /><select value={sort ? sort.k + '|' + sort.d : ''} onChange={e => { const [k, d] = e.target.value.split('|'); setSort(k ? { k, d: Number(d) as 1 | -1 } : null) }}><option value="">Sort</option>{cfg.cols.flatMap(c => [<option key={c.key + 1} value={c.key + '|1'}>{c.label} ↑</option>, <option key={c.key + 2} value={c.key + '|-1'}>{c.label} ↓</option>])}</select></label>
-        <button className="btn pri" onClick={() => setModal(true)}><Plus size={14} />New</button>
+        {editable && <button className="btn pri" onClick={() => setModal(true)}><Plus size={14} />New</button>}
       </TopBar>
       {cfg.id === 'deals' && mode === 'board' ? (
         <div className="board">
           {D.DEAL_STAGES.map(st => {
             const cards = list.filter(r => r.stage === st)
             return (
-              <div key={st} className="col" onDragOver={e => e.preventDefault()} onDrop={e => { move(e.dataTransfer.getData('id'), st) }}>
+              <div key={st} className="col" onDragOver={e => e.preventDefault()} onDrop={e => { if (editable) move(e.dataTransfer.getData('id'), st) }}>
                 <div className="col-h"><Chip v={st} /><span className="count">{cards.length}</span><span className="sum">{inrShort(cards.reduce((s, c) => s + c.value, 0))}</span></div>
                 {cards.map(c => (
-                  <div key={c.id} className="card" draggable onDragStart={e => e.dataTransfer.setData('id', c.id)} onClick={() => setOpen(c)}>
+                  <div key={c.id} className="card" draggable={editable} onDragStart={e => e.dataTransfer.setData('id', c.id)} onClick={() => setOpen(c)}>
                     <div className="card-t">{c.unit}</div>
                     <div className="card-s">{c.customer}</div>
                     <div className="card-f"><b>{inrShort(c.value)}</b><span className="av sm" title={c.exec}>{initials(c.exec)}</span></div>
@@ -163,7 +198,7 @@ function ObjectView({ cfg, rows, setRows }: { cfg: Cfg; rows: Row[]; setRows: (f
         </div>
       )}
       {open && <Drawer cfg={cfg} row={rows.find(r => r.id === open.id) ?? open} onClose={() => setOpen(null)} />}
-      {modal && <NewModal cfg={cfg} onClose={() => setModal(false)} onSave={row => { const n = rows.length + 1 + Math.floor(Math.random() * 0); setRows(rs => [{ ...row, id: cfg.prefix + (9000 + n) }, ...rs]); setModal(false) }} />}
+      {modal && editable && <NewModal cfg={cfg} hidden={forced} onClose={closeModal} onSave={row => { setRows(rs => [{ ...row, ...forcedValues, id: cfg.prefix + Date.now().toString().slice(-6) }, ...rs]); closeModal() }} />}
     </>
   )
 }
@@ -183,7 +218,8 @@ function Drawer({ cfg, row, onClose }: { cfg: Cfg; row: Row; onClose: () => void
   )
 }
 
-function NewModal({ cfg, onClose, onSave }: { cfg: Cfg; onClose: () => void; onSave: (r: Row) => void }) {
+function NewModal({ cfg, hidden, onClose, onSave }: { cfg: Cfg; hidden: string[]; onClose: () => void; onSave: (r: Row) => void }) {
+  const fields = cfg.fields.filter(f => !hidden.includes(f.key))
   const [v, setV] = useState<Row>(() => Object.fromEntries(cfg.fields.map(f => [f.key, f.type === 'select' ? f.options![0] : f.type === 'number' ? 0 : ''])))
   const save = () => {
     const row: Row = { ...v, created: new Date().toISOString(), when: new Date().toISOString(), due: new Date().toISOString(), paid: 0, leads: 0, bookings: 0, sba: v.sba ?? 0 }
@@ -194,7 +230,7 @@ function NewModal({ cfg, onClose, onSave }: { cfg: Cfg; onClose: () => void; onS
     <div className="ov" onMouseDown={onClose}>
       <div className="modal" onMouseDown={e => e.stopPropagation()}>
         <div className="mo-h">New {cfg.singular}<button className="ico" onClick={onClose}><X size={16} /></button></div>
-        <div className="mo-b">{cfg.fields.map(f => (
+        <div className="mo-b">{fields.map(f => (
           <label key={f.key} className="in"><span>{f.label}</span>
             {f.type === 'select' ? <select value={v[f.key]} onChange={e => setV({ ...v, [f.key]: e.target.value })}>{f.options!.map(o => <option key={o}>{o}</option>)}</select>
               : <input type={f.type === 'number' ? 'number' : 'text'} value={v[f.key]} onChange={e => setV({ ...v, [f.key]: f.type === 'number' ? Number(e.target.value) : e.target.value })} />}
@@ -233,13 +269,13 @@ function Dashboard({ store }: { store: Record<string, Row[]> }) {
   )
 }
 
-function Tasks({ tasks, setTasks }: { tasks: Row[]; setTasks: (t: Row[]) => void }) {
+function Tasks({ tasks, allTasks, setTasks, role }: { tasks: Row[]; allTasks: Row[]; setTasks: (t: Row[]) => void; role: Role }) {
   const [q, setQ] = useState('')
   const list = tasks.filter(t => (t.title + t.lead + t.exec).toLowerCase().includes(q.toLowerCase()))
   return (<>
     <TopBar title="Tasks" icon={<CheckSquare size={16} />}><div className="search"><Search size={14} /><input placeholder="Search…" value={q} onChange={e => setQ(e.target.value)} /></div>
-      <button className="btn pri" onClick={() => { const t = prompt('Task title'); if (t) setTasks([{ id: 'T-' + Date.now(), title: t, lead: '—', due: new Date().toISOString(), exec: 'Sales Admin', done: false, priority: 'Medium' }, ...tasks]) }}><Plus size={14} />New</button></TopBar>
-    <div className="pad"><div className="panel tasks">{list.map(t => <label key={t.id} className={'task' + (t.done ? ' done' : '')}><input type="checkbox" checked={t.done} onChange={() => setTasks(tasks.map(x => x.id === t.id ? { ...x, done: !x.done } : x))} /><span className="tt">{t.title}</span><span className="muted">{t.lead}</span><Chip v={t.priority} /><span className="muted">{t.exec}</span><span className="muted">{fmtDate(t.due)}</span></label>)}</div></div>
+      {canCreate(role, 'tasks') && <button className="btn pri" onClick={() => { const t = prompt('Task title'); if (t) setTasks([{ id: 'T-' + Date.now(), title: t, lead: '—', due: new Date().toISOString(), exec: role.person, done: false, priority: 'Medium' }, ...allTasks]) }}><Plus size={14} />New</button>}</TopBar>
+    <div className="pad"><div className="panel tasks">{list.map(t => <label key={t.id} className={'task' + (t.done ? ' done' : '')}><input type="checkbox" checked={t.done} onChange={() => setTasks(allTasks.map(x => x.id === t.id ? { ...x, done: !x.done } : x))} /><span className="tt">{t.title}</span><span className="muted">{t.lead}</span><Chip v={t.priority} /><span className="muted">{t.exec}</span><span className="muted">{fmtDate(t.due)}</span></label>)}</div></div>
   </>)
 }
 
