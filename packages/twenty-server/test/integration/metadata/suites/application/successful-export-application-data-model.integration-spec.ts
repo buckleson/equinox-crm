@@ -1543,7 +1543,7 @@ const NOTIFY_WORKFLOW_ID = '7e3d1c2b-0111-4a7b-8c9d-0e1f2a3b4c5d';
 const NIGHTLY_WORKFLOW_ID = '7e3d1c2b-0112-4a7b-8c9d-0e1f2a3b4c5d';
 const INTAKE_WORKFLOW_ID = '7e3d1c2b-0113-4a7b-8c9d-0e1f2a3b4c5d';
 const OUTREACH_WORKFLOW_ID = '7e3d1c2b-0114-4a7b-8c9d-0e1f2a3b4c5d';
-const SEEDED_CONNECTED_ACCOUNT_HANDLE = 'tim@apple.dev';
+const SEEDED_CONNECTED_ACCOUNT_HANDLE = 'admin@sterlitee.in';
 const workflowNodeIdentifier = (suffix: number) =>
   `7e3d1c2b-${(200 + suffix).toString().padStart(4, '0')}-4a7b-8c9d-0e1f2a3b4c5d`;
 

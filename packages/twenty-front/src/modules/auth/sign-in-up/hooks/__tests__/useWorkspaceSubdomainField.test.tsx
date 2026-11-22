@@ -81,7 +81,7 @@ describe('useWorkspaceSubdomainField', () => {
         availabilityMock('apple', {
           isValid: true,
           available: true,
-          suggestedSubdomain: 'apple',
+          suggestedSubdomain: 'sterlitee',
           suggestedSubdomains: ['apple'],
         }),
       ]),

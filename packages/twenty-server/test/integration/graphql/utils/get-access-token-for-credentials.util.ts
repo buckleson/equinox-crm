@@ -13,8 +13,8 @@ type GetAccessTokenForCredentialsArgs = {
 // Mints a token by logging a seeded user in, instead of a pre-baked test-tokens.json entry
 export const getAccessTokenForCredentials = async ({
   email,
-  password = 'tim@apple.dev',
-  workspaceSubdomain = 'apple',
+  password = 'Sterlitee@123',
+  workspaceSubdomain = 'sterlitee',
 }: GetAccessTokenForCredentialsArgs): Promise<string> => {
   const origin = buildWorkspaceOriginForSubdomain(workspaceSubdomain);
 

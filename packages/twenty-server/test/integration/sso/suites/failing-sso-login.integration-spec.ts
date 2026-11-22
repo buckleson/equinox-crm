@@ -26,7 +26,7 @@ import { v4 as uuidv4 } from 'uuid';
 import { SsoIdentityProviderStatus } from 'src/engine/core-modules/sso/workspace-sso-identity-provider.entity';
 
 const APPLE_SUBDOMAIN = 'apple';
-const YCOMBINATOR_SUBDOMAIN = 'yc';
+const YCOMBINATOR_SUBDOMAIN = 'sterlitee-partners';
 const DEFAULT_SUBDOMAIN = 'app';
 
 // The OIDC strategy keys the login session by identity provider id

@@ -168,7 +168,7 @@ describe('connectedAccountResolver (e2e)', () => {
       );
 
       expect(account).toBeDefined();
-      expect(account.handle).toBe('jane.austen@apple.dev');
+      expect(account.handle).toBe('meghna.salvi@sterlitee.in');
       expect(account).not.toHaveProperty('accessToken');
       expect(account).not.toHaveProperty('refreshToken');
       expect(account).not.toHaveProperty('connectionParameters');

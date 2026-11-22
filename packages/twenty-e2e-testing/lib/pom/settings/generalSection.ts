@@ -9,7 +9,7 @@ export class GeneralSection {
 
   constructor(public readonly page: Page) {
     this.page = page;
-    this.workspaceNameField = page.getByPlaceholder('Apple');
+    this.workspaceNameField = page.getByPlaceholder('Sterlitee Realty');
     this.supportSwitch = page.getByRole('checkbox').nth(1);
     this.deleteWorkspaceButton = page.getByRole('button', {
       name: 'Delete workspace',

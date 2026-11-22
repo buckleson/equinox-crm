@@ -102,6 +102,6 @@ describe('workspace-scoped user sessions API (integration)', () => {
     );
 
     expect(ycResponse.body.errors).toBeUndefined();
-    expect(ycResponse.body.data.currentUser.email).toBe('tim@apple.dev');
+    expect(ycResponse.body.data.currentUser.email).toBe('admin@sterlitee.in');
   });
 });

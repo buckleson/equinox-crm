@@ -284,7 +284,7 @@ describe('PROPOSE_TOOL_CALL_PAUSING_TOOL', () => {
     const EMAIL_INPUT = {
       toolName: 'send_email',
       arguments: {
-        recipients: { to: 'tim@apple.dev', cc: '', bcc: '' },
+        recipients: { to: 'admin@sterlitee.in', cc: '', bcc: '' },
         subject: 'Renewal',
         body: { type: 'doc', content: [] },
         connectedAccountId: '20202020-0f8a-4f3e-9c1b-7a2d4e6f8a01',

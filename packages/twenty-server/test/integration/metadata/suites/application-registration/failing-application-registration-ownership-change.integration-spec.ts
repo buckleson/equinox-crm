@@ -62,7 +62,7 @@ const ownershipChangeTestCases: EachTestingContext<OwnershipChangeTestContext>[]
           transferApplicationRegistrationOwnership({
             input: {
               applicationRegistrationId,
-              targetWorkspaceSubdomain: 'yc',
+              targetWorkspaceSubdomain: 'sterlitee-partners',
             },
             token,
             expectToFail: true,

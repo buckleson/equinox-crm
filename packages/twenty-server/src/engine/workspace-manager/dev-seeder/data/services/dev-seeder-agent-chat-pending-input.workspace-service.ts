@@ -88,17 +88,17 @@ const ONBOARDING_OWNER_QUESTIONS: AskQuestionItem[] = [
     header: 'Owner',
     question: 'Who should own the Linear onboarding?',
     options: [
-      { label: 'Jony', description: 'Designs the rollout with their team' },
-      { label: 'Phil', description: 'Runs the technical setup' },
+      { label: 'Aditya', description: 'Designs the rollout with their team' },
+      { label: 'Shruti', description: 'Runs the technical setup' },
     ],
   },
 ];
 
 const AIRBNB_FOLLOW_UP_EMAIL: SeededEmail = {
   to: 'partnerships@airbnb.com',
-  cc: 'tim@apple.dev',
+  cc: 'admin@sterlitee.in',
   subject: 'Next steps after our demo',
-  html: '<p>Hi Airbnb team,</p><p>Thanks for your time on Tuesday. As promised, here is a summary of what we covered: shared inboxes for your host support team, and workflows that route requests by region.</p><p>Would next Thursday work for a technical deep dive with your IT team?</p><p>Best,<br>Jony</p>',
+  html: '<p>Hi Airbnb team,</p><p>Thanks for your time on Tuesday. As promised, here is a summary of what we covered: shared inboxes for your host support team, and workflows that route requests by region.</p><p>Would next Thursday work for a technical deep dive with your IT team?</p><p>Best,<br>Aditya</p>',
 };
 
 const STRIPE_QUOTE_EMAIL: SeededEmail = {
@@ -111,7 +111,7 @@ const STRIPE_QUOTE_EMAIL: SeededEmail = {
 const IPAD_DEAL_HANDOVER_CALL = proposeRecordCall({
   toolName: 'update_one_opportunity',
   toolLabel: 'Update opportunity',
-  summary: 'Mark the iPad deployment deal as won and hand it to Phil',
+  summary: 'Mark the iPad deployment deal as won and hand it to Shruti',
   template: 'recordUpdate',
   objectNameSingular: 'opportunity',
   recordId: OPPORTUNITY_DATA_SEED_IDS.ID_1,
@@ -190,7 +190,7 @@ const FIGMA_CALL_FIELDS: RequestFormField[] = [
 const LINEAR_WELCOME_EMAIL: SeededEmail = {
   to: 'ops@linear.app',
   subject: 'Welcome to Twenty, Linear',
-  html: '<p>Hi Linear team,</p><p>Welcome aboard! Phil will run your onboarding: expect a kickoff invite from him this week, with SSO and your data import on the agenda.</p><p>Best,<br>Tim</p>',
+  html: '<p>Hi Linear team,</p><p>Welcome aboard! Shruti will run your onboarding: expect a kickoff invite from him this week, with SSO and your data import on the agenda.</p><p>Best,<br>Tim</p>',
 };
 
 const FIGMA_WELCOME_EMAIL: SeededEmail = {
@@ -249,11 +249,11 @@ const CONVERSATIONS_TO_SEED: ConversationToSeed[] = [
         toolName: 'send_email',
         arguments: buildSendEmailArguments({
           ...STRIPE_QUOTE_EMAIL,
-          cc: 'phil.schiler@apple.dev',
+          cc: 'shruti.phadke@sterlitee.in',
         }),
       },
       reply:
-        'Sent. I copied Phil so he can follow up on the signature. Want me to set a reminder for Friday if Stripe hasn’t signed?',
+        'Sent. I copied Shruti so he can follow up on the signature. Want me to set a reminder for Friday if Stripe hasn’t signed?',
     },
     sharedWith: { member: 'PHIL', accessLevel: RecordShareAccessLevel.READ },
   },
@@ -267,7 +267,7 @@ const CONVERSATIONS_TO_SEED: ConversationToSeed[] = [
     answer: {
       response: { selectedOptionIndices: [1] },
       reply:
-        'Phil owns the Linear onboarding. I will create the kickoff, the SSO setup and the data import tasks for him.',
+        'Shruti owns the Linear onboarding. I will create the kickoff, the SSO setup and the data import tasks for him.',
     },
     sharedWith: { member: 'PHIL', accessLevel: RecordShareAccessLevel.READ },
   },
@@ -289,7 +289,7 @@ const CONVERSATIONS_TO_SEED: ConversationToSeed[] = [
     title: 'Close the iPad deployment deal',
     askedBy: 'TIM',
     prompt:
-      'Google signed the iPad deployment. Update the deal and hand it to Phil for onboarding.',
+      'Google signed the iPad deployment. Update the deal and hand it to Shruti for onboarding.',
     intro: 'Here is the change. Approve it and I will update the deal:',
     calls: [IPAD_DEAL_HANDOVER_CALL],
     sharedWith: { member: 'PHIL', accessLevel: RecordShareAccessLevel.READ },
@@ -343,7 +343,7 @@ const CONVERSATIONS_TO_SEED: ConversationToSeed[] = [
         summary: 'Pipeline import first, SSO the week after.',
       },
       reply:
-        'Logged the call on Figma with a note. I also created a task for Phil to schedule the SSO setup next week.',
+        'Logged the call on Figma with a note. I also created a task for Shruti to schedule the SSO setup next week.',
     },
   },
 ];

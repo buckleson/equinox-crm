@@ -108,7 +108,7 @@ describe('Account operations with an application token should fail', () => {
   beforeAll(async () => {
     // The seeded tokens are signed offline, so no session row exists until
     // someone signs in; Jony has no seeded second factor to answer.
-    await getAccessTokenForCredentials({ email: 'jony.ive@apple.dev' });
+    await getAccessTokenForCredentials({ email: 'aditya.rane@sterlitee.in' });
 
     const [liveSession] = await getCoreRepository<UserSessionEntity>(
       UserSessionEntity,

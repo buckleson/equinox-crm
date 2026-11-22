@@ -56,11 +56,11 @@ const seedId = (name: string, workspaceId: string) =>
 const INITIATORS = {
   TIM: {
     workspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    name: 'Tim Apple',
+    name: 'Sales Admin',
   },
   PHIL: {
     workspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
-    name: 'Phil Schiler',
+    name: 'Shruti Phadke',
   },
 } as const;
 
@@ -80,8 +80,8 @@ const QUALIFICATION_QUESTIONS: AskQuestionItem[] = [
     header: 'Owner',
     question: 'Who should own the follow-up?',
     options: [
-      { label: 'Tim', description: 'Account executive' },
-      { label: 'Phil', description: 'Solutions engineer' },
+      { label: 'Sales Admin', description: 'Account executive' },
+      { label: 'Shruti', description: 'Solutions engineer' },
     ],
   },
   {
@@ -99,7 +99,7 @@ const QUALIFICATION_QUESTIONS: AskQuestionItem[] = [
 const RENEWAL_REMINDER_EMAIL: SeededEmail = {
   to: 'procurement@stripe.com',
   subject: 'Your Twenty renewal on October 31',
-  html: '<p>Hi Stripe team,</p><p>Your Twenty subscription renews on October 31 for another year at the same price. If you want to add seats or change plans before then, just reply to this email.</p><p>Best,<br>Phil</p>',
+  html: '<p>Hi Stripe team,</p><p>Your Twenty subscription renews on October 31 for another year at the same price. If you want to add seats or change plans before then, just reply to this email.</p><p>Best,<br>Shruti</p>',
 };
 
 type AgentWorkflowToSeed = {

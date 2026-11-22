@@ -4,7 +4,7 @@ import { BillingPartnerCodeService } from 'src/engine/core-modules/billing/servi
 
 const WORKSPACE_ID = '20202020-0000-4000-8000-000000000001';
 const STRIPE_CUSTOMER_ID = 'cus_123';
-const CUSTOMER_EMAIL = 'tim@apple.dev';
+const CUSTOMER_EMAIL = 'admin@sterlitee.in';
 
 const buildService = ({
   existingPartnerCode = null,

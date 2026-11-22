@@ -102,7 +102,7 @@ const uploadBuiltHandlerFile = async ({
 describe('RouteTrigger suspended workspace (integration)', () => {
   const baseUrl = `http://localhost:${APP_PORT}`;
   const bareHost = `localhost:${APP_PORT}`;
-  const workspaceHost = `apple.localhost:${APP_PORT}`;
+  const workspaceHost = `sterlitee.localhost:${APP_PORT}`;
   let applicationAccessToken: string;
 
   beforeAll(async () => {

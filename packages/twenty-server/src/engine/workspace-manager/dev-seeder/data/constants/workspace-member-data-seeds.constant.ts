@@ -44,52 +44,52 @@ export const RANDOM_WORKSPACE_MEMBER_IDS = randomWorkspaceMemberIds;
 const originalWorkspaceMembers: WorkspaceMemberDataSeed[] = [
   {
     id: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    nameFirstName: 'Tim',
-    nameLastName: 'Apple',
+    nameFirstName: 'Sales',
+    nameLastName: 'Admin',
     locale: 'en',
-    colorScheme: 'System',
-    userEmail: 'tim@apple.dev',
+    colorScheme: 'Light',
+    userEmail: 'admin@sterlitee.in',
     userId: USER_DATA_SEED_IDS.TIM,
   },
   {
     id: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
-    nameFirstName: 'Jony',
-    nameLastName: 'Ive',
+    nameFirstName: 'Aditya',
+    nameLastName: 'Rane',
     locale: 'en',
-    colorScheme: 'System',
-    userEmail: 'jony.ive@apple.dev',
+    colorScheme: 'Light',
+    userEmail: 'aditya.rane@sterlitee.in',
     userId: USER_DATA_SEED_IDS.JONY,
   },
   {
     id: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
-    nameFirstName: 'Phil',
-    nameLastName: 'Schiler',
+    nameFirstName: 'Shruti',
+    nameLastName: 'Phadke',
     locale: 'en',
-    colorScheme: 'System',
-    userEmail: 'phil.schiler@apple.dev',
+    colorScheme: 'Light',
+    userEmail: 'shruti.phadke@sterlitee.in',
     userId: USER_DATA_SEED_IDS.PHIL,
   },
   {
     id: WORKSPACE_MEMBER_DATA_SEED_IDS.JANE,
-    nameFirstName: 'Jane',
-    nameLastName: 'Austen',
+    nameFirstName: 'Meghna',
+    nameLastName: 'Salvi',
     locale: 'en',
-    colorScheme: 'System',
-    userEmail: 'jane.austen@apple.dev',
+    colorScheme: 'Light',
+    userEmail: 'meghna.salvi@sterlitee.in',
     userId: USER_DATA_SEED_IDS.JANE,
   },
 ];
 
-// Scott only belongs to the Apple workspace (he has no YCombinator
+// Rohan only belongs to the Sterlitee Realty workspace (he has no Sterlitee Partners
 // user-workspace), so he must never leak into other workspaces' member seeds.
-const appleOnlyWorkspaceMembers: WorkspaceMemberDataSeed[] = [
+const realtyOnlyWorkspaceMembers: WorkspaceMemberDataSeed[] = [
   {
     id: WORKSPACE_MEMBER_DATA_SEED_IDS.SCOTT,
-    nameFirstName: 'Scott',
-    nameLastName: 'Forstall',
+    nameFirstName: 'Rohan',
+    nameLastName: 'Kulkarni',
     locale: 'en',
-    colorScheme: 'System',
-    userEmail: 'scott.forstall@apple.dev',
+    colorScheme: 'Light',
+    userEmail: 'rohan.kulkarni@sterlitee.in',
     userId: USER_DATA_SEED_IDS.SCOTT,
   },
 ];
@@ -103,18 +103,18 @@ export const getWorkspaceMemberDataSeeds = (
   workspaceId: string,
 ): WorkspaceMemberDataSeed[] => {
   // In test environment, only return original members to avoid conflicts
-  // (Scott is appended for Apple to back the impersonation escalation test).
+  // (Rohan is appended for Sterlitee Realty to back the impersonation escalation test).
   if (process.env.NODE_ENV === 'test') {
     return workspaceId === SEED_APPLE_WORKSPACE_ID
-      ? [...originalWorkspaceMembers, ...appleOnlyWorkspaceMembers]
+      ? [...originalWorkspaceMembers, ...realtyOnlyWorkspaceMembers]
       : originalWorkspaceMembers;
   }
 
   if (workspaceId === SEED_APPLE_WORKSPACE_ID) {
-    // Apple workspace gets all workspace members (original + random + Scott)
-    return [...WORKSPACE_MEMBER_DATA_SEEDS, ...appleOnlyWorkspaceMembers];
+    // Sterlitee Realty workspace gets all workspace members (original + random + Rohan)
+    return [...WORKSPACE_MEMBER_DATA_SEEDS, ...realtyOnlyWorkspaceMembers];
   } else if (workspaceId === SEED_YCOMBINATOR_WORKSPACE_ID) {
-    // YC workspace gets all 4 original workspace members
+    // Partners workspace gets all 4 original workspace members
     return originalWorkspaceMembers;
   }
 

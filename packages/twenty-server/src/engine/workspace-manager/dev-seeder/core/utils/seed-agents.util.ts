@@ -292,7 +292,7 @@ const seedChatMessages = async ({
         orderIndex: 0,
         type: 'text',
         textContent:
-          'Hello! I can help you analyze startup trends and portfolio performance. From your YCombinator workspace data, I can see strong performance in AI/ML startups, particularly in the B2B SaaS space. Several companies are showing 40%+ month-over-month growth. Would you like me to provide specific company performance metrics or focus on broader industry trends?',
+          'Hello! I can help you analyze startup trends and portfolio performance. From your Sterlitee workspace data, I can see strong performance in AI/ML startups, particularly in the B2B SaaS space. Several companies are showing 40%+ month-over-month growth. Would you like me to provide specific company performance metrics or focus on broader industry trends?',
         createdAt: new Date(baseTime.getTime() + 3 * 60 * 1000),
       },
       {

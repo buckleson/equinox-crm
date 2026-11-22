@@ -8,12 +8,12 @@ const ORIGIN = new URL(SERVER_URL);
 
 ORIGIN.hostname =
   process.env.IS_MULTIWORKSPACE_ENABLED === 'true'
-    ? `apple.${ORIGIN.hostname}`
+    ? `sterlitee.${ORIGIN.hostname}`
     : ORIGIN.hostname;
 
 const auth = {
-  email: 'tim@apple.dev',
-  password: 'tim@apple.dev',
+  email: 'admin@sterlitee.in',
+  password: 'Sterlitee@123',
 };
 
 describe('AuthResolve (integration)', () => {

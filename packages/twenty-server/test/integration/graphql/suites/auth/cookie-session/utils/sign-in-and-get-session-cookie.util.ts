@@ -30,8 +30,8 @@ export const signInAndGetSessionCookie = async (): Promise<string> => {
         }
       `,
       variables: {
-        email: 'tim@apple.dev',
-        password: 'tim@apple.dev',
+        email: 'admin@sterlitee.in',
+        password: 'Sterlitee@123',
         origin,
       },
     })

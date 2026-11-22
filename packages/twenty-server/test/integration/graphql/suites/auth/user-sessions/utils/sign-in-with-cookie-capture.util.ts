@@ -55,9 +55,9 @@ type SignInOptions = RequestHeaders & {
 // tokens) and returns the raw supertest response of the final exchange, so
 // callers can assert on set-cookie headers, not just the GraphQL body.
 export const signInWithCookieCapture = async ({
-  email = 'tim@apple.dev',
-  password = 'tim@apple.dev',
-  workspaceSubdomain = 'apple',
+  email = 'admin@sterlitee.in',
+  password = 'Sterlitee@123',
+  workspaceSubdomain = 'sterlitee',
   originHeader,
   cookieHeader,
   omitSessionCookieOptIn,

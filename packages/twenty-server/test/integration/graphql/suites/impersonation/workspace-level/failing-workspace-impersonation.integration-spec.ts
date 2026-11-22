@@ -29,7 +29,7 @@ describe('Workspace-level impersonation - authorization denials (integration)', 
   // be blocked from impersonating an admin (Jony) by the escalation check.
   it('rejects a non-admin with the impersonate permission impersonating an admin', async () => {
     const scottAccessToken = await getAccessTokenForCredentials({
-      email: 'scott.forstall@apple.dev',
+      email: 'rohan.kulkarni@sterlitee.in',
     });
 
     const { errors } = await impersonate({

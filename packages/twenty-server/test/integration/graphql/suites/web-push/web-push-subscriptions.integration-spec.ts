@@ -92,8 +92,8 @@ describe('web push subscriptions (integration)', () => {
   });
 
   it('should store the subscription on the current session and move it to the next user of the browser', async () => {
-    const tim = await signInSession('tim@apple.dev');
-    const jony = await signInSession('jony.ive@apple.dev');
+    const tim = await signInSession('admin@sterlitee.in');
+    const jony = await signInSession('aditya.rane@sterlitee.in');
 
     await upsertWebPushSubscription({
       cookieHeader: tim.cookieHeader,
@@ -115,7 +115,7 @@ describe('web push subscriptions (integration)', () => {
   });
 
   it('should keep one subscription per session when the browser rotates its endpoint', async () => {
-    const tim = await signInSession('tim@apple.dev');
+    const tim = await signInSession('admin@sterlitee.in');
 
     await upsertWebPushSubscription({
       cookieHeader: tim.cookieHeader,
@@ -134,7 +134,7 @@ describe('web push subscriptions (integration)', () => {
   });
 
   it('should refuse a key this server did not issue', async () => {
-    const tim = await signInSession('tim@apple.dev');
+    const tim = await signInSession('admin@sterlitee.in');
 
     const response = await upsertWebPushSubscription({
       cookieHeader: tim.cookieHeader,

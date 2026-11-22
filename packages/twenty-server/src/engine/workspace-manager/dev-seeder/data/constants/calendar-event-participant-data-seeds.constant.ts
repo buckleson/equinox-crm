@@ -129,22 +129,22 @@ const CREATE_WORKSPACE_MEMBER_EVENT_PARTICIPANT = (
   switch (WORKSPACE_MEMBER_ID) {
     case WORKSPACE_MEMBER_DATA_SEED_IDS.TIM:
       return {
-        handle: 'tim@apple.com',
-        displayName: 'Tim Apple',
+        handle: 'admin@sterlitee.in',
+        displayName: 'Sales Admin',
         personId: null,
         workspaceMemberId: WORKSPACE_MEMBER_ID,
       };
     case WORKSPACE_MEMBER_DATA_SEED_IDS.JONY:
       return {
-        handle: 'jony.ive@apple.com',
-        displayName: 'Jony Ive',
+        handle: 'aditya.rane@sterlitee.in',
+        displayName: 'Aditya Rane',
         personId: null,
         workspaceMemberId: WORKSPACE_MEMBER_ID,
       };
     case WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL:
       return {
-        handle: 'phil.schiller@apple.com',
-        displayName: 'Phil Schiller',
+        handle: 'shruti.phadke@sterlitee.in',
+        displayName: 'Shruti Phadke',
         personId: null,
         workspaceMemberId: WORKSPACE_MEMBER_ID,
       };

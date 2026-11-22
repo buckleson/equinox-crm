@@ -37,7 +37,7 @@ describe('successful session cookie authentication (integration)', () => {
     expect(response.body.errors).toBeUndefined();
     expect(response.body.data.currentUser).toMatchObject({
       id: USER_DATA_SEED_IDS.TIM,
-      email: 'tim@apple.dev',
+      email: 'admin@sterlitee.in',
     });
   });
 });

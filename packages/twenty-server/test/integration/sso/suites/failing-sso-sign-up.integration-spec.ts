@@ -17,7 +17,7 @@ import { WorkspaceActivationStatus } from 'twenty-shared/workspace';
 import { SEED_YCOMBINATOR_WORKSPACE_ID } from 'src/engine/workspace-manager/dev-seeder/core/constants/seeder-workspaces.constant';
 
 const APPLE_SUBDOMAIN = 'apple';
-const YCOMBINATOR_SUBDOMAIN = 'yc';
+const YCOMBINATOR_SUBDOMAIN = 'sterlitee-partners';
 
 describe('SSO sign-up should fail', () => {
   const testIdentityProvider = getSsoTestIdentityProvider();

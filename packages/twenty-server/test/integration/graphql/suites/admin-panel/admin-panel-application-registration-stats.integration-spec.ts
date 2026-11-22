@@ -15,8 +15,8 @@ import {
 
 // displayNames of the seeded workspaces (see seeder-workspaces.constant.ts).
 // They drive the ASC ordering and the searchTerm-by-workspace-name assertions.
-const APPLE_WORKSPACE_DISPLAY_NAME = 'Apple';
-const YCOMBINATOR_WORKSPACE_DISPLAY_NAME = 'YCombinator';
+const APPLE_WORKSPACE_DISPLAY_NAME = 'Sterlitee Realty';
+const YCOMBINATOR_WORKSPACE_DISPLAY_NAME = 'Sterlitee Partners';
 
 const FIND_STATS = gql`
   query FindAdminApplicationRegistrationStats($id: String!) {

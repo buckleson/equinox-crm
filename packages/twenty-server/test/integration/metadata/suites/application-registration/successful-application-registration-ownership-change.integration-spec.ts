@@ -35,7 +35,7 @@ describe('Application registration ownership change with a user session', () => 
     const { data } = await transferApplicationRegistrationOwnership({
       input: {
         applicationRegistrationId,
-        targetWorkspaceSubdomain: 'yc',
+        targetWorkspaceSubdomain: 'sterlitee-partners',
       },
       expectToFail: false,
     });

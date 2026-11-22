@@ -137,7 +137,7 @@ References: [Recall Desktop SDK](https://docs.recall.ai/docs/desktop-sdk), [plat
 
 The local test server runs in Docker as `twenty-app-dev-test` at
 `http://localhost:2021`. Its seeded workspace is **Apple**; both the login email
-and password are `tim@apple.dev`. Seeded meetings are sample data, not a live
+and password are `admin@sterlitee.in`. Seeded meetings are sample data, not a live
 Google or Microsoft calendar connection.
 
 From `packages/twenty-apps/public/companion`:

@@ -186,7 +186,7 @@ export const WorkspaceInviteTeam = ({ roles }: WorkspaceInviteTeamProps) => {
                 <SettingsTextInput
                   instanceId="workspace-invite-team-emails"
                   placeholder={doNotTranslate(
-                    'tim@apple.com, jony.ive@apple.dev',
+                    'admin@sterlitee.in, aditya.rane@sterlitee.in',
                   )}
                   value={value}
                   onChange={onChange}

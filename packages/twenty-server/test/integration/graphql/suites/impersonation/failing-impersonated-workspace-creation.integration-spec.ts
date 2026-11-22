@@ -132,7 +132,7 @@ describe('Impersonation - workspace creation denial (integration)', () => {
     const loginToken = forgeLegacyHs256Token<LoginTokenJwtPayload>(
       {
         type: JwtTokenTypeEnum.LOGIN,
-        sub: 'scott.forstall@apple.dev',
+        sub: 'rohan.kulkarni@sterlitee.in',
         workspaceId: SEED_APPLE_WORKSPACE_ID,
         authProvider: AuthProviderEnum.Impersonation,
         jti: randomUUID(),

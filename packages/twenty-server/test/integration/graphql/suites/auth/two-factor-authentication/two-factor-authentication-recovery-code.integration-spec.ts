@@ -32,8 +32,8 @@ import { USER_DATA_SEED_IDS } from 'src/engine/workspace-manager/dev-seeder/core
 
 const TOTP_STEP_DURATION_MS = 30_000;
 const MINIMUM_STEP_REMAINING_MS = 5_000;
-const JONY_EMAIL = 'jony.ive@apple.dev';
-const SEEDED_PASSWORD = 'tim@apple.dev';
+const JONY_EMAIL = 'aditya.rane@sterlitee.in';
+const SEEDED_PASSWORD = 'Sterlitee@123';
 
 type TwoFactorAuthenticationMethodRow = Record<string, unknown>;
 

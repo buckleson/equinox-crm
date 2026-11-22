@@ -140,7 +140,7 @@ describe('On-demand logic function execution from a session', () => {
         input: {
           applicationRegistrationId:
             installedApplication.applicationRegistrationId,
-          targetWorkspaceSubdomain: 'yc',
+          targetWorkspaceSubdomain: 'sterlitee-partners',
         },
         expectToFail: false,
       });

@@ -144,29 +144,29 @@ const CREATE_WORKSPACE_MEMBER_PARTICIPANT = (
       return {
         workspaceMemberId: WORKSPACE_MEMBER_ID,
         personId: personIds[0],
-        displayName: 'Tim Apple',
-        handle: 'tim@apple.dev',
+        displayName: 'Sales Admin',
+        handle: 'admin@sterlitee.in',
       };
     case WORKSPACE_MEMBER_DATA_SEED_IDS.JONY:
       return {
         workspaceMemberId: WORKSPACE_MEMBER_ID,
         personId: personIds[1] || personIds[0],
-        displayName: 'Jony Ive',
-        handle: 'jony@apple.dev',
+        displayName: 'Aditya Rane',
+        handle: 'aditya.rane@sterlitee.in',
       };
     case WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL:
       return {
         workspaceMemberId: WORKSPACE_MEMBER_ID,
         personId: personIds[2] || personIds[0],
-        displayName: 'Phil Schiller',
-        handle: 'phil@apple.dev',
+        displayName: 'Shruti Phadke',
+        handle: 'shruti.phadke@sterlitee.in',
       };
     default:
       return {
         workspaceMemberId: WORKSPACE_MEMBER_ID,
         personId: personIds[0],
         displayName: 'Workspace Member',
-        handle: 'member@apple.dev',
+        handle: 'member@sterlitee.in',
       };
   }
 };

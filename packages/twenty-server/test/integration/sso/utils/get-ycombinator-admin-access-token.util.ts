@@ -2,6 +2,6 @@ import { getAccessTokenForCredentials } from 'test/integration/graphql/utils/get
 
 export const getYcombinatorAdminAccessToken = () =>
   getAccessTokenForCredentials({
-    email: 'tim@apple.dev',
-    workspaceSubdomain: 'yc',
+    email: 'admin@sterlitee.in',
+    workspaceSubdomain: 'sterlitee-partners',
   });

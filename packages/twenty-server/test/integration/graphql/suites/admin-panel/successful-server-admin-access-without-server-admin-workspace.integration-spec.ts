@@ -19,7 +19,7 @@ const workspaceTestCases: EachTestingContext<WorkspaceTestContext>[] = [
     title: 'the Apple workspace',
     context: {
       getAccessToken: () =>
-        getAccessTokenForCredentials({ email: 'tim@apple.dev' }),
+        getAccessTokenForCredentials({ email: 'admin@sterlitee.in' }),
     },
   },
   {

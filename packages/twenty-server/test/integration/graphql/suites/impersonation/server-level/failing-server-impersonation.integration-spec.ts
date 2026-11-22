@@ -25,7 +25,7 @@ describe('Server-level impersonation - authorization denials (integration)', () 
 
   it('rejects a non-admin with only the workspace impersonate permission from impersonating across workspaces', async () => {
     const scottAccessToken = await getAccessTokenForCredentials({
-      email: 'scott.forstall@apple.dev',
+      email: 'rohan.kulkarni@sterlitee.in',
     });
 
     const { errors } = await impersonate({

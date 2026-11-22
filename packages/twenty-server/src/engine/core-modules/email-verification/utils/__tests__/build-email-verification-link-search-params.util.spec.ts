@@ -5,12 +5,12 @@ describe('buildEmailVerificationLinkSearchParams', () => {
     expect(
       buildEmailVerificationLinkSearchParams({
         emailVerificationToken: 'token',
-        email: 'tim@apple.dev',
+        email: 'admin@sterlitee.in',
         affiliatePartnerName: 'northwind',
       }),
     ).toEqual({
       emailVerificationToken: 'token',
-      email: 'tim@apple.dev',
+      email: 'admin@sterlitee.in',
       via: 'northwind',
     });
   });
@@ -19,12 +19,12 @@ describe('buildEmailVerificationLinkSearchParams', () => {
     expect(
       buildEmailVerificationLinkSearchParams({
         emailVerificationToken: 'token',
-        email: 'tim@apple.dev',
+        email: 'admin@sterlitee.in',
         verifyEmailRedirectPath: '/plan-required',
       }),
     ).toEqual({
       emailVerificationToken: 'token',
-      email: 'tim@apple.dev',
+      email: 'admin@sterlitee.in',
       nextPath: '/plan-required',
     });
   });
@@ -33,9 +33,9 @@ describe('buildEmailVerificationLinkSearchParams', () => {
     expect(
       buildEmailVerificationLinkSearchParams({
         emailVerificationToken: 'token',
-        email: 'tim@apple.dev',
+        email: 'admin@sterlitee.in',
         affiliatePartnerName: '',
       }),
-    ).toEqual({ emailVerificationToken: 'token', email: 'tim@apple.dev' });
+    ).toEqual({ emailVerificationToken: 'token', email: 'admin@sterlitee.in' });
   });
 });

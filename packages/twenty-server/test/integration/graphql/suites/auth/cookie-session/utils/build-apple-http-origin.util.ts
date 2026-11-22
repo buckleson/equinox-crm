@@ -3,7 +3,7 @@ export const buildAppleHttpOrigin = (): string => {
 
   origin.hostname =
     process.env.IS_MULTIWORKSPACE_ENABLED === 'true'
-      ? `apple.${origin.hostname}`
+      ? `sterlitee.${origin.hostname}`
       : origin.hostname;
 
   return origin.origin;

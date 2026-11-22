@@ -224,7 +224,7 @@ describe('resolveProposedToolCall', () => {
 
   it('proposes an email with a document body the person can edit, or send as a draft', async () => {
     const toolArguments = {
-      recipients: { to: 'tim@apple.dev', cc: '', bcc: '' },
+      recipients: { to: 'admin@sterlitee.in', cc: '', bcc: '' },
       subject: 'Renewal',
       body: EMAIL_BODY,
     };
@@ -257,7 +257,7 @@ describe('resolveProposedToolCall', () => {
         input: {
           toolName: 'send_email',
           arguments: {
-            recipients: { to: 'tim@apple.dev', cc: '', bcc: '' },
+            recipients: { to: 'admin@sterlitee.in', cc: '', bcc: '' },
             subject: 'Renewal',
             body: { type: 'paragraph' },
           },
@@ -275,7 +275,7 @@ describe('resolveProposedToolCall', () => {
         input: {
           toolName: 'send_email',
           arguments: {
-            recipients: { to: 'tim@apple.dev', cc: '', bcc: '' },
+            recipients: { to: 'admin@sterlitee.in', cc: '', bcc: '' },
             subject: 'Renewal',
             body: { type: 'html', html: '<p>Quote attached</p>' },
             files: [

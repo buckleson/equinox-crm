@@ -38,13 +38,13 @@ import { v4 as uuidv4 } from 'uuid';
 import { SEED_YCOMBINATOR_WORKSPACE_ID } from 'src/engine/workspace-manager/dev-seeder/core/constants/seeder-workspaces.constant';
 import { USER_DATA_SEED_IDS } from 'src/engine/workspace-manager/dev-seeder/core/utils/seed-users.util';
 
-const YCOMBINATOR_SUBDOMAIN = 'yc';
-const YCOMBINATOR_INVITE_HASH = 'yc.dev-invite-hash';
+const YCOMBINATOR_SUBDOMAIN = 'sterlitee-partners';
+const YCOMBINATOR_INVITE_HASH = 'sterlitee-partners.dev-invite-hash';
 
 // Phil is a member of both Apple and YCombinator; Scott is a member of Apple only.
-const YC_MEMBER_EMAIL = 'phil.schiler@apple.dev';
-const NON_YC_MEMBER_EMAIL = 'scott.forstall@apple.dev';
-const YC_ADMIN_EMAIL = 'tim@apple.dev';
+const YC_MEMBER_EMAIL = 'shruti.phadke@sterlitee.in';
+const NON_YC_MEMBER_EMAIL = 'rohan.kulkarni@sterlitee.in';
+const YC_ADMIN_EMAIL = 'admin@sterlitee.in';
 const UNVERIFIED_ACCOUNT_PASSWORD = 'Password123!';
 
 describe('SAML callback sign-in', () => {

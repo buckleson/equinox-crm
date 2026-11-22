@@ -1286,7 +1286,7 @@ describe('fromFlatWorkflowToWorkflowManifest on versions built in the workflow b
   it('exports an email step written without files', () => {
     const input = {
       connectedAccountId: '{{trigger.properties.after.accountId}}',
-      recipients: { to: 'tim@apple.dev', cc: '', bcc: '' },
+      recipients: { to: 'admin@sterlitee.in', cc: '', bcc: '' },
       subject: 'Hello',
     };
     const [step] = exportBuilderVersion({

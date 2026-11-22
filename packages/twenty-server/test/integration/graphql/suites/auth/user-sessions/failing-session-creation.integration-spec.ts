@@ -54,8 +54,8 @@ describe('failing user session creation on auth exchanges (integration)', () => 
     const workspaceOrigin = buildAppleWorkspaceOrigin();
     const loginTokenResponse = await postMetadataOperationWithHeaders(
       getLoginTokenFromCredentialsQueryFactory({
-        email: 'tim@apple.dev',
-        password: 'tim@apple.dev',
+        email: 'admin@sterlitee.in',
+        password: 'Sterlitee@123',
         origin: workspaceOrigin,
       }),
       {
@@ -110,7 +110,7 @@ describe('failing user session creation on auth exchanges (integration)', () => 
 
     const response = await makeMetadataApiRequest(
       getLoginTokenFromCredentialsQueryFactory({
-        email: 'tim@apple.dev',
+        email: 'admin@sterlitee.in',
         password: 'wrong-password',
         origin: buildAppleWorkspaceOrigin(),
       }),

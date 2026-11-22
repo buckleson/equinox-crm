@@ -25,55 +25,55 @@ export const seedUsers = async ({ queryRunner, schemaName }: SeedUsersArgs) => {
   const originalUsers = [
     {
       id: USER_DATA_SEED_IDS.TIM,
-      firstName: 'Tim',
-      lastName: 'Apple',
-      email: 'tim@apple.dev',
+      firstName: 'Sales',
+      lastName: 'Admin',
+      email: 'admin@sterlitee.in',
       passwordHash:
-        '$2b$10$3LwXjJRtLsfx4hLuuXhxt.3mWgismTiZFCZSG3z9kDrSfsrBl0fT6', // tim@apple.dev
+        '$2b$10$O0QPkikAjzRcvpPA/h8wceY6RkGjMGmVnF7zlHgd6uLF6ll0TtTc2', // Sterlitee@123
       canImpersonate: true,
       canAccessFullAdminPanel: true,
       isEmailVerified: true,
     },
     {
       id: USER_DATA_SEED_IDS.JONY,
-      firstName: 'Jony',
-      lastName: 'Ive',
-      email: 'jony.ive@apple.dev',
+      firstName: 'Aditya',
+      lastName: 'Rane',
+      email: 'aditya.rane@sterlitee.in',
       passwordHash:
-        '$2b$10$3LwXjJRtLsfx4hLuuXhxt.3mWgismTiZFCZSG3z9kDrSfsrBl0fT6', // tim@apple.dev
+        '$2b$10$O0QPkikAjzRcvpPA/h8wceY6RkGjMGmVnF7zlHgd6uLF6ll0TtTc2', // Sterlitee@123
       canImpersonate: true,
       canAccessFullAdminPanel: true,
       isEmailVerified: true,
     },
     {
       id: USER_DATA_SEED_IDS.PHIL,
-      firstName: 'Phil',
-      lastName: 'Schiler',
-      email: 'phil.schiler@apple.dev',
+      firstName: 'Shruti',
+      lastName: 'Phadke',
+      email: 'shruti.phadke@sterlitee.in',
       passwordHash:
-        '$2b$10$3LwXjJRtLsfx4hLuuXhxt.3mWgismTiZFCZSG3z9kDrSfsrBl0fT6', // tim@apple.dev
+        '$2b$10$O0QPkikAjzRcvpPA/h8wceY6RkGjMGmVnF7zlHgd6uLF6ll0TtTc2', // Sterlitee@123
       canImpersonate: true,
       canAccessFullAdminPanel: true,
       isEmailVerified: true,
     },
     {
       id: USER_DATA_SEED_IDS.JANE,
-      firstName: 'Jane',
-      lastName: 'Austen',
-      email: 'jane.austen@apple.dev',
+      firstName: 'Meghna',
+      lastName: 'Salvi',
+      email: 'meghna.salvi@sterlitee.in',
       passwordHash:
-        '$2b$10$3LwXjJRtLsfx4hLuuXhxt.3mWgismTiZFCZSG3z9kDrSfsrBl0fT6', // tim@apple.dev
+        '$2b$10$O0QPkikAjzRcvpPA/h8wceY6RkGjMGmVnF7zlHgd6uLF6ll0TtTc2', // Sterlitee@123
       canImpersonate: true,
       canAccessFullAdminPanel: true,
       isEmailVerified: true,
     },
     {
       id: USER_DATA_SEED_IDS.SCOTT,
-      firstName: 'Scott',
-      lastName: 'Forstall',
-      email: 'scott.forstall@apple.dev',
+      firstName: 'Rohan',
+      lastName: 'Kulkarni',
+      email: 'rohan.kulkarni@sterlitee.in',
       passwordHash:
-        '$2b$10$3LwXjJRtLsfx4hLuuXhxt.3mWgismTiZFCZSG3z9kDrSfsrBl0fT6', // tim@apple.dev
+        '$2b$10$O0QPkikAjzRcvpPA/h8wceY6RkGjMGmVnF7zlHgd6uLF6ll0TtTc2', // Sterlitee@123
       canImpersonate: false,
       canAccessFullAdminPanel: false,
       isEmailVerified: true,

@@ -7,9 +7,9 @@ process.env.NODE_TLS_REJECT_UNAUTHORIZED = '0';
 
 const SERVER_BASE_URL =
   process.env.REACT_APP_SERVER_BASE_URL ?? 'http://localhost:3000';
-const AUTH_EMAIL = 'jane.austen@apple.dev';
-const AUTH_PASSWORD = 'tim@apple.dev';
-const WORKSPACE_SUBDOMAIN = 'apple';
+const AUTH_EMAIL = 'meghna.salvi@sterlitee.in';
+const AUTH_PASSWORD = 'Sterlitee@123';
+const WORKSPACE_SUBDOMAIN = 'sterlitee';
 
 const serverUrl = new URL(SERVER_BASE_URL);
 export const WORKSPACE_ORIGIN = `${serverUrl.protocol}//${WORKSPACE_SUBDOMAIN}.${serverUrl.host}`;

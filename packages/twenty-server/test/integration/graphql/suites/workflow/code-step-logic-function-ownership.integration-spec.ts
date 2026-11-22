@@ -25,7 +25,7 @@ describe('Workflow code step running an installed application function', () => {
       input: {
         applicationRegistrationId:
           installedApplication.applicationRegistrationId,
-        targetWorkspaceSubdomain: 'yc',
+        targetWorkspaceSubdomain: 'sterlitee-partners',
       },
       expectToFail: false,
     });

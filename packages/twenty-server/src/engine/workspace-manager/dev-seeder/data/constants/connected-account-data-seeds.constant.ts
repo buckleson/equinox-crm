@@ -50,7 +50,7 @@ export const CONNECTED_ACCOUNT_DATA_SEEDS: ConnectedAccountDataSeed[] = [
     refreshToken: 'exampleRefreshToken',
     accessToken: 'exampleAccessToken',
     provider: 'google',
-    handle: 'tim@apple.dev',
+    handle: 'admin@sterlitee.in',
   },
   {
     id: CONNECTED_ACCOUNT_DATA_SEED_IDS.JONY,
@@ -62,7 +62,7 @@ export const CONNECTED_ACCOUNT_DATA_SEEDS: ConnectedAccountDataSeed[] = [
     refreshToken: 'exampleRefreshToken',
     accessToken: 'exampleAccessToken',
     provider: 'google',
-    handle: 'jony.ive@apple.dev',
+    handle: 'aditya.rane@sterlitee.in',
   },
   {
     id: CONNECTED_ACCOUNT_DATA_SEED_IDS.PHIL,
@@ -74,7 +74,7 @@ export const CONNECTED_ACCOUNT_DATA_SEEDS: ConnectedAccountDataSeed[] = [
     refreshToken: 'exampleRefreshToken',
     accessToken: 'exampleAccessToken',
     provider: 'google',
-    handle: 'phil.schiler@apple.dev',
+    handle: 'shruti.phadke@sterlitee.in',
   },
   {
     id: CONNECTED_ACCOUNT_DATA_SEED_IDS.JANE,
@@ -86,7 +86,7 @@ export const CONNECTED_ACCOUNT_DATA_SEEDS: ConnectedAccountDataSeed[] = [
     refreshToken: 'exampleRefreshToken',
     accessToken: 'exampleAccessToken',
     provider: 'google',
-    handle: 'jane.austen@apple.dev',
+    handle: 'meghna.salvi@sterlitee.in',
   },
   {
     id: CONNECTED_ACCOUNT_DATA_SEED_IDS.JANE_DELETABLE,
@@ -98,6 +98,6 @@ export const CONNECTED_ACCOUNT_DATA_SEEDS: ConnectedAccountDataSeed[] = [
     refreshToken: 'exampleRefreshToken',
     accessToken: 'exampleAccessToken',
     provider: 'google',
-    handle: 'jane-deletable@apple.dev',
+    handle: 'meghna-deletable@sterlitee.in',
   },
 ];

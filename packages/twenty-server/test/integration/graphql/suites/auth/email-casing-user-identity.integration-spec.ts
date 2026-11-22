@@ -8,9 +8,9 @@ import { UserEntity } from 'src/engine/core-modules/user/user.entity';
 import { SEED_APPLE_WORKSPACE_ID } from 'src/engine/workspace-manager/dev-seeder/core/constants/seeder-workspaces.constant';
 import { USER_DATA_SEED_IDS } from 'src/engine/workspace-manager/dev-seeder/core/utils/seed-users.util';
 
-const STORED_ADDRESS = 'tim@apple.dev';
+const STORED_ADDRESS = 'admin@sterlitee.in';
 const IDENTITY_PROVIDER_ADDRESS = 'Tim@Apple.Dev';
-const PASSWORD = 'tim@apple.dev';
+const PASSWORD = 'Sterlitee@123';
 
 const countLiveUsersWithAddress = async (address: string): Promise<number> => {
   const rows = await global.testDataSource.query(

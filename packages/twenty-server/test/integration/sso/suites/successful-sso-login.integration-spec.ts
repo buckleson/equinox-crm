@@ -82,8 +82,8 @@ describe('SSO login should succeed', () => {
         if (isDefined(ycombinatorIdentityProviderId)) {
           await deleteSsoConnectedAccounts({
             token: await getAccessTokenForCredentials({
-              email: 'phil.schiler@apple.dev',
-              workspaceSubdomain: 'yc',
+              email: 'shruti.phadke@sterlitee.in',
+              workspaceSubdomain: 'sterlitee-partners',
             }),
           });
 
@@ -148,7 +148,7 @@ describe('SSO login should succeed', () => {
 
         expect(await findPhilSsoConnectedAccounts()).toEqual([
           expect.objectContaining({
-            handle: 'phil.schiler@apple.dev',
+            handle: 'shruti.phadke@sterlitee.in',
             provider: connectedAccountProvider,
             lastSignedInAt: expect.any(String),
           }),

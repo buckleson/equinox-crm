@@ -112,7 +112,7 @@ describe('ServerRouteReachabilityService (integration)', () => {
 
   it('reports the installed workspaces once ownership moves to a workspace without the application', async () => {
     await transferApplicationRegistrationOwnership({
-      input: { applicationRegistrationId, targetWorkspaceSubdomain: 'yc' },
+      input: { applicationRegistrationId, targetWorkspaceSubdomain: 'sterlitee-partners' },
       expectToFail: false,
     });
 

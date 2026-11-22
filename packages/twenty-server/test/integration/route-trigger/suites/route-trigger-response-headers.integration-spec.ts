@@ -51,7 +51,7 @@ const deletePublicDomain = (domain: string) =>
 
 describe('RouteTrigger response headers (integration)', () => {
   const baseUrl = `http://localhost:${APP_PORT}`;
-  const workspaceHost = `apple.localhost:${APP_PORT}`;
+  const workspaceHost = `sterlitee.localhost:${APP_PORT}`;
 
   it('serves an HTML route response on a workspace host as a sandboxed document', async () => {
     const { path, triggerSettings } = buildPublicGetRouteTriggerSettings();

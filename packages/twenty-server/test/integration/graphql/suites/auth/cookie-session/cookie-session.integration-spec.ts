@@ -61,7 +61,7 @@ describe('Cookie sessions (integration)', () => {
       .expect(200);
 
     expect(response.body.errors).toBeUndefined();
-    expect(response.body.data.currentUser.email).toBe('tim@apple.dev');
+    expect(response.body.data.currentUser.email).toBe('admin@sterlitee.in');
   });
 
   it('should reject a cookie-authenticated request from a foreign origin', async () => {

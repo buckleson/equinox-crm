@@ -1,7 +1,7 @@
 import { BillingService } from 'src/engine/core-modules/billing/services/billing.service';
 
 const WORKSPACE_ID = '20202020-0000-4000-8000-000000000001';
-const USER_EMAIL = 'tim@apple.dev';
+const USER_EMAIL = 'admin@sterlitee.in';
 
 const buildService = ({
   isPreviousCustomer,

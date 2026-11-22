@@ -11,7 +11,7 @@ type GraphqlOperation = {
 
 // Scott is the only seeded user without canAccessFullAdminPanel or canImpersonate.
 export const getNonServerAdminAccessToken = () =>
-  getAccessTokenForCredentials({ email: 'scott.forstall@apple.dev' });
+  getAccessTokenForCredentials({ email: 'rohan.kulkarni@sterlitee.in' });
 
 export const makeAdminPanelApiRequestAsNonServerAdmin = async (
   graphqlOperation: GraphqlOperation,

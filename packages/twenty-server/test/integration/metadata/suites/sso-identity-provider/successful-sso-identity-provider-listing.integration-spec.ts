@@ -9,7 +9,7 @@ import { v4 as uuidv4 } from 'uuid';
 import { SsoIdentityProviderStatus } from 'src/engine/core-modules/sso/workspace-sso-identity-provider.entity';
 import { SEED_YCOMBINATOR_WORKSPACE_ID } from 'src/engine/workspace-manager/dev-seeder/core/constants/seeder-workspaces.constant';
 
-const APPLE_LOGIN_PAGE_ORIGIN = 'http://apple.localhost:3001';
+const APPLE_LOGIN_PAGE_ORIGIN = 'http://sterlitee.localhost:3001';
 
 const buildSamlIdentityProviderInput = ({
   id,

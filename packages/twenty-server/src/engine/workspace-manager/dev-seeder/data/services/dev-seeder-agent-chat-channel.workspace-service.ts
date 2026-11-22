@@ -44,7 +44,7 @@ const GENERAL_CONVERSATIONS_TO_SEED: ChannelConversationToSeed[] = [
     assigneeId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
     prompt: 'Who is on call for customer support this weekend?',
     reply:
-      'Jony covers Saturday and Phil covers Sunday. I added both shifts to the shared calendar.',
+      'Aditya covers Saturday and Shruti covers Sunday. I added both shifts to the shared calendar.',
   },
   {
     threadId: AGENT_CHAT_CHANNEL_THREAD_DATA_SEED_IDS.GENERAL_NEW_DEALS,

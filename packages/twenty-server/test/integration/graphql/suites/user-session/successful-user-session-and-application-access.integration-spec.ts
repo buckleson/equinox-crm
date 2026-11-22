@@ -52,7 +52,7 @@ describe('User session operations and application access that must keep working'
     // The seeded tokens are signed offline, so no session row exists until
     // someone signs in; Jony has no seeded second factor to answer.
     memberSessionToken = await getAccessTokenForCredentials({
-      email: 'jony.ive@apple.dev',
+      email: 'aditya.rane@sterlitee.in',
     });
 
     // One at a time: each sync migrates workspace metadata and bumps its

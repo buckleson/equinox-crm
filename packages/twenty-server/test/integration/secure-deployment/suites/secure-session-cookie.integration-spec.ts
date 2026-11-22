@@ -71,7 +71,7 @@ describe('session cookie on a production-like secure deployment (integration)', 
     );
 
     expect(response.body.errors).toBeUndefined();
-    expect(response.body.data.currentUser.email).toBe('tim@apple.dev');
+    expect(response.body.data.currentUser.email).toBe('admin@sterlitee.in');
   });
 
   it('should ignore the plain cookie name, refusing a downgrade', async () => {

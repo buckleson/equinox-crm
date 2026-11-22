@@ -115,7 +115,7 @@ describe('calendarChannels', () => {
       expect.arrayContaining([
         expect.objectContaining({
           id: CALENDAR_CHANNEL_DATA_SEED_IDS.JANE,
-          handle: 'jane.austen@apple.dev',
+          handle: 'meghna.salvi@sterlitee.in',
           connectedAccountId: CONNECTED_ACCOUNT_DATA_SEED_IDS.JANE,
           connectedAccount: {
             id: CONNECTED_ACCOUNT_DATA_SEED_IDS.JANE,
@@ -124,7 +124,7 @@ describe('calendarChannels', () => {
         }),
         expect.objectContaining({
           id: CALENDAR_CHANNEL_DATA_SEED_IDS.JONY,
-          handle: 'jony@apple.dev',
+          handle: 'aditya.rane@sterlitee.in',
           connectedAccountId: CONNECTED_ACCOUNT_DATA_SEED_IDS.JONY,
           connectedAccount: {
             id: CONNECTED_ACCOUNT_DATA_SEED_IDS.JONY,

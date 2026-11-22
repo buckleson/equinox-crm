@@ -125,7 +125,7 @@ const seedConnectedAccounts = async ({
   const connectedAccounts = [
     {
       id: ids.connectedAccountIds.TIM,
-      handle: 'tim@apple.dev',
+      handle: 'admin@sterlitee.in',
       provider: 'google',
       userWorkspaceId: ids.userWorkspaceIds.TIM,
       scope: 'USER',
@@ -134,7 +134,7 @@ const seedConnectedAccounts = async ({
     },
     {
       id: ids.connectedAccountIds.JONY,
-      handle: 'jony.ive@apple.dev',
+      handle: 'aditya.rane@sterlitee.in',
       provider: 'google',
       userWorkspaceId: ids.userWorkspaceIds.JONY,
       scope: 'USER',
@@ -143,7 +143,7 @@ const seedConnectedAccounts = async ({
     },
     {
       id: ids.connectedAccountIds.PHIL,
-      handle: 'phil.schiler@apple.dev',
+      handle: 'shruti.phadke@sterlitee.in',
       provider: 'google',
       userWorkspaceId: ids.userWorkspaceIds.PHIL,
       scope: 'USER',
@@ -152,7 +152,7 @@ const seedConnectedAccounts = async ({
     },
     {
       id: ids.connectedAccountIds.JANE,
-      handle: 'jane.austen@apple.dev',
+      handle: 'meghna.salvi@sterlitee.in',
       provider: 'google',
       userWorkspaceId: ids.userWorkspaceIds.JANE,
       scope: 'USER',
@@ -161,7 +161,7 @@ const seedConnectedAccounts = async ({
     },
     {
       id: ids.connectedAccountIds.JANE_DELETABLE,
-      handle: 'jane-deletable@apple.dev',
+      handle: 'meghna-deletable@sterlitee.in',
       provider: 'google',
       userWorkspaceId: ids.userWorkspaceIds.JANE,
       scope: 'USER',
@@ -170,7 +170,7 @@ const seedConnectedAccounts = async ({
     },
     {
       id: ids.connectedAccountIds.JONY_SHARED,
-      handle: 'jony-shared@apple.dev',
+      handle: 'aditya-shared@sterlitee.in',
       provider: 'app',
       userWorkspaceId: ids.userWorkspaceIds.JONY,
       scope: 'WORKSPACE',
@@ -179,7 +179,7 @@ const seedConnectedAccounts = async ({
     },
     {
       id: ids.connectedAccountIds.TIM_SHARED_ARCHIVED,
-      handle: 'tim-shared-archived@apple.dev',
+      handle: 'admin-shared-archived@sterlitee.in',
       provider: 'app',
       userWorkspaceId: ids.userWorkspaceIds.TIM,
       scope: 'WORKSPACE',
@@ -233,7 +233,7 @@ const seedMessageChannels = async ({
   const messageChannels = [
     {
       id: ids.messageChannelIds.TIM,
-      handle: 'tim@apple.dev',
+      handle: 'admin@sterlitee.in',
       visibility: MessageChannelVisibility.SHARE_EVERYTHING,
       type: MessageChannelType.EMAIL,
       syncStage: MessageChannelSyncStage.MESSAGE_LIST_FETCH_PENDING,
@@ -249,7 +249,7 @@ const seedMessageChannels = async ({
     },
     {
       id: ids.messageChannelIds.JONY,
-      handle: 'jony.ive@apple.dev',
+      handle: 'aditya.rane@sterlitee.in',
       visibility: MessageChannelVisibility.SHARE_EVERYTHING,
       type: MessageChannelType.EMAIL,
       syncStage: MessageChannelSyncStage.MESSAGE_LIST_FETCH_PENDING,
@@ -265,7 +265,7 @@ const seedMessageChannels = async ({
     },
     {
       id: ids.messageChannelIds.PHIL,
-      handle: 'phil.schiler@apple.dev',
+      handle: 'shruti.phadke@sterlitee.in',
       visibility: MessageChannelVisibility.SHARE_EVERYTHING,
       type: MessageChannelType.EMAIL,
       syncStage: MessageChannelSyncStage.MESSAGE_LIST_FETCH_PENDING,
@@ -281,7 +281,7 @@ const seedMessageChannels = async ({
     },
     {
       id: ids.messageChannelIds.JANE,
-      handle: 'jane.austen@apple.dev',
+      handle: 'meghna.salvi@sterlitee.in',
       visibility: MessageChannelVisibility.SHARE_EVERYTHING,
       type: MessageChannelType.EMAIL,
       syncStage: MessageChannelSyncStage.MESSAGE_LIST_FETCH_PENDING,
@@ -297,7 +297,7 @@ const seedMessageChannels = async ({
     },
     {
       id: ids.messageChannelIds.SUPPORT,
-      handle: 'support@apple.dev',
+      handle: 'support@sterlitee.in',
       visibility: MessageChannelVisibility.SHARE_EVERYTHING,
       type: MessageChannelType.EMAIL,
       syncStage: MessageChannelSyncStage.MESSAGE_LIST_FETCH_PENDING,
@@ -313,7 +313,7 @@ const seedMessageChannels = async ({
     },
     {
       id: ids.messageChannelIds.SALES,
-      handle: 'sales@apple.dev',
+      handle: 'sales@sterlitee.in',
       visibility: MessageChannelVisibility.SHARE_EVERYTHING,
       type: MessageChannelType.EMAIL,
       syncStage: MessageChannelSyncStage.MESSAGE_LIST_FETCH_PENDING,
@@ -395,7 +395,7 @@ const seedCalendarChannels = async ({
   const calendarChannels = [
     {
       id: ids.calendarChannelIds.TIM,
-      handle: 'tim@apple.dev',
+      handle: 'admin@sterlitee.in',
       visibility: CalendarChannelVisibility.METADATA,
       syncStage: 'CALENDAR_EVENT_LIST_FETCH_PENDING',
       isContactAutoCreationEnabled: true,
@@ -406,7 +406,7 @@ const seedCalendarChannels = async ({
     },
     {
       id: ids.calendarChannelIds.JONY,
-      handle: 'jony@apple.dev',
+      handle: 'aditya.rane@sterlitee.in',
       visibility: CalendarChannelVisibility.SHARE_EVERYTHING,
       syncStage: 'CALENDAR_EVENT_LIST_FETCH_PENDING',
       isContactAutoCreationEnabled: true,
@@ -417,7 +417,7 @@ const seedCalendarChannels = async ({
     },
     {
       id: ids.calendarChannelIds.PHIL,
-      handle: 'phil@apple.dev',
+      handle: 'shruti.phadke@sterlitee.in',
       visibility: CalendarChannelVisibility.METADATA,
       syncStage: 'CALENDAR_EVENT_LIST_FETCH_PENDING',
       isContactAutoCreationEnabled: true,
@@ -428,7 +428,7 @@ const seedCalendarChannels = async ({
     },
     {
       id: ids.calendarChannelIds.JANE,
-      handle: 'jane.austen@apple.dev',
+      handle: 'meghna.salvi@sterlitee.in',
       visibility: CalendarChannelVisibility.SHARE_EVERYTHING,
       syncStage: 'CALENDAR_EVENT_LIST_FETCH_PENDING',
       isContactAutoCreationEnabled: true,
@@ -439,7 +439,7 @@ const seedCalendarChannels = async ({
     },
     {
       id: ids.calendarChannelIds.COMPANY_MAIN,
-      handle: 'company-main@apple.dev',
+      handle: 'company-main@sterlitee.in',
       visibility: CalendarChannelVisibility.SHARE_EVERYTHING,
       syncStage: 'CALENDAR_EVENT_LIST_FETCH_PENDING',
       isContactAutoCreationEnabled: true,
@@ -450,7 +450,7 @@ const seedCalendarChannels = async ({
     },
     {
       id: ids.calendarChannelIds.TEAM_CALENDAR,
-      handle: 'team-calendar@apple.dev',
+      handle: 'team-calendar@sterlitee.in',
       visibility: CalendarChannelVisibility.SHARE_EVERYTHING,
       syncStage: 'CALENDAR_EVENT_LIST_FETCH_PENDING',
       isContactAutoCreationEnabled: true,

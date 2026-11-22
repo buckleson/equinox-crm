@@ -472,7 +472,7 @@ export function generateRandomUsers(): {
 
     const firstName = FIRST_NAMES[firstNameIndex];
     const lastName = LAST_NAMES[lastNameIndex];
-    const email = `${firstName.toLowerCase()}.${lastName.toLowerCase()}${i}@apple.dev`;
+    const email = `${firstName.toLowerCase()}.${lastName.toLowerCase()}${i}@sterlitee.in`;
 
     const userId =
       `30303030-${i.toString().padStart(4, '0')}-4000-8000-000000000000`.replace(

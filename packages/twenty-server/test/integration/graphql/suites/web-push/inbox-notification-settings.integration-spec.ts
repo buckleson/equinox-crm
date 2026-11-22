@@ -74,7 +74,7 @@ describe('inbox notification settings (integration)', () => {
 
   it('should save the settings on the caller user workspace', async () => {
     const response = await updateInboxNotificationSettings({
-      cookieHeader: await signInCookieHeader('tim@apple.dev'),
+      cookieHeader: await signInCookieHeader('admin@sterlitee.in'),
       inboxNotificationLevel:
         AGENT_CHAT_INBOX_NOTIFICATION_LEVEL.DIRECT_MENTIONS_AND_ASSIGNED,
     });
@@ -100,7 +100,7 @@ describe('inbox notification settings (integration)', () => {
 
   it('should refuse an unknown notification level', async () => {
     const response = await updateInboxNotificationSettings({
-      cookieHeader: await signInCookieHeader('tim@apple.dev'),
+      cookieHeader: await signInCookieHeader('admin@sterlitee.in'),
       inboxNotificationLevel: 'EVERY_MESSAGE',
     });
 

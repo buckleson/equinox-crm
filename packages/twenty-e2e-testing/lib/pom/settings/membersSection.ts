@@ -10,7 +10,7 @@ export class MembersSection {
     this.page = page;
     this.inviteTab = page.getByTestId('tab-invite');
     this.inviteMembersField = page.getByPlaceholder(
-      'tim@apple.com, jony.ive@apple',
+      'admin@sterlitee.in, aditya.rane@sterlitee',
     );
     this.inviteMembersButton = page.getByRole('button', { name: 'Invite' });
     this.inviteLinkButton = page.getByRole('button', { name: 'Copy link' });

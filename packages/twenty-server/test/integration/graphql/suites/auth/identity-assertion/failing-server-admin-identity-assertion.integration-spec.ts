@@ -14,7 +14,7 @@ import { isDefined } from 'twenty-shared/utils';
 
 /* global APPLE_JANE_ADMIN_ACCESS_TOKEN */
 
-const JANE_EMAIL = 'jane.austen@apple.dev';
+const JANE_EMAIL = 'meghna.salvi@sterlitee.in';
 
 type RefusedRequestTestContext = {
   signAssertion: (issuer: IdentityAssertionIssuer) => string | undefined;
@@ -32,7 +32,7 @@ const refusedRequestTestCases: EachTestingContext<RefusedRequestTestContext>[] =
       title: 'with an assertion issued to another user',
       context: {
         signAssertion: (issuer) =>
-          issuer.signAssertion({ email: 'tim@apple.dev' }),
+          issuer.signAssertion({ email: 'admin@sterlitee.in' }),
       },
     },
     {

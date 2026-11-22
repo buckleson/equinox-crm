@@ -44,7 +44,7 @@ describe('successful session workspace binding (integration)', () => {
       originHeader: ALLOWED_ORIGIN,
     });
     const ycResponse = await signInWithCookieCapture({
-      workspaceSubdomain: 'yc',
+      workspaceSubdomain: 'sterlitee-partners',
       originHeader: ALLOWED_ORIGIN,
     });
 
@@ -86,13 +86,13 @@ describe('successful session workspace binding (integration)', () => {
     const appleContext = await fetchWorkspaceContext(appleSessionCookieHeader);
     const ycContext = await fetchWorkspaceContext(ycSessionCookieHeader);
 
-    expect(appleContext.email).toBe('tim@apple.dev');
+    expect(appleContext.email).toBe('admin@sterlitee.in');
     expect(appleContext.currentWorkspace.id).toBe(SEED_APPLE_WORKSPACE_ID);
     expect(appleContext.currentUserWorkspace.id).toBe(
       USER_WORKSPACE_DATA_SEED_IDS.TIM,
     );
 
-    expect(ycContext.email).toBe('tim@apple.dev');
+    expect(ycContext.email).toBe('admin@sterlitee.in');
     expect(ycContext.currentWorkspace.id).toBe(SEED_YCOMBINATOR_WORKSPACE_ID);
     expect(ycContext.currentUserWorkspace.id).toBe(
       USER_WORKSPACE_DATA_SEED_IDS.TIM_ACME,

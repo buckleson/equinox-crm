@@ -82,9 +82,9 @@ export class LoginPage {
       name: 'Sync with Google',
     });
     this.noSyncButton = page.getByText('Continue without sync');
-    this.inviteLinkField1 = page.getByPlaceholder('tim@apple.dev');
-    this.inviteLinkField2 = page.getByPlaceholder('craig@apple.dev');
-    this.inviteLinkField3 = page.getByPlaceholder('mike@apple.dev');
+    this.inviteLinkField1 = page.getByPlaceholder('admin@sterlitee.in');
+    this.inviteLinkField2 = page.getByPlaceholder('aditya.rane@sterlitee.in');
+    this.inviteLinkField3 = page.getByPlaceholder('shruti.phadke@sterlitee.in');
     this.copyInviteLink = page.getByRole('button', {
       name: 'Copy invitation link',
     });

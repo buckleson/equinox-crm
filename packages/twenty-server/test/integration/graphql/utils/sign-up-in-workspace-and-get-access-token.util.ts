@@ -5,7 +5,7 @@ import { makeMetadataApiRequest } from 'test/integration/metadata/suites/utils/m
 
 import { SEED_APPLE_WORKSPACE_ID } from 'src/engine/workspace-manager/dev-seeder/core/constants/seeder-workspaces.constant';
 
-const APPLE_WORKSPACE_INVITE_HASH = 'apple.dev-invite-hash';
+const APPLE_WORKSPACE_INVITE_HASH = 'sterlitee.dev-invite-hash';
 
 // Signs up a user in the Apple workspace, marks their email as verified,
 // and returns a valid access token for that user.
