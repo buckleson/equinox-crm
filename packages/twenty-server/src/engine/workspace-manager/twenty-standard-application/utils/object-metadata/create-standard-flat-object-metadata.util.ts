@@ -726,10 +726,10 @@ export const STANDARD_FLAT_OBJECT_METADATA_BUILDERS_BY_OBJECT_NAME = {
         nameSingular: 'company',
         namePlural: 'companies',
         labelSingular: i18nLabel(
-          msg({ message: `Company`, context: 'objectMetadata.labelSingular' }),
+          msg({ message: `Channel Partner`, context: 'objectMetadata.labelSingular' }),
         ),
         labelPlural: i18nLabel(
-          msg({ message: `Companies`, context: 'objectMetadata.labelPlural' }),
+          msg({ message: `Channel Partners`, context: 'objectMetadata.labelPlural' }),
         ),
         description: i18nLabel(
           msg({ message: `A company`, context: 'objectMetadata.description' }),
@@ -1274,13 +1274,13 @@ export const STANDARD_FLAT_OBJECT_METADATA_BUILDERS_BY_OBJECT_NAME = {
         namePlural: 'opportunities',
         labelSingular: i18nLabel(
           msg({
-            message: `Opportunity`,
+            message: `Deal`,
             context: 'objectMetadata.labelSingular',
           }),
         ),
         labelPlural: i18nLabel(
           msg({
-            message: `Opportunities`,
+            message: `Deals`,
             context: 'objectMetadata.labelPlural',
           }),
         ),
@@ -1315,10 +1315,10 @@ export const STANDARD_FLAT_OBJECT_METADATA_BUILDERS_BY_OBJECT_NAME = {
         nameSingular: 'person',
         namePlural: 'people',
         labelSingular: i18nLabel(
-          msg({ message: `Person`, context: 'objectMetadata.labelSingular' }),
+          msg({ message: `Customer`, context: 'objectMetadata.labelSingular' }),
         ),
         labelPlural: i18nLabel(
-          msg({ message: `People`, context: 'objectMetadata.labelPlural' }),
+          msg({ message: `Customers`, context: 'objectMetadata.labelPlural' }),
         ),
         description: i18nLabel(
           msg({ message: `A person`, context: 'objectMetadata.description' }),

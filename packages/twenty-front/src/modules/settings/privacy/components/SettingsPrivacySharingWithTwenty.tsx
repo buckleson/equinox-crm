@@ -21,16 +21,16 @@ export const SettingsPrivacySharingWithTwenty = () => {
   return (
     <Section.Root>
       <Section.Header
-        title={t`Sharing with Twenty`}
-        description={t`Choose what Twenty can access to support you and improve the product.`}
+        title={t`Sharing with Sterlitee`}
+        description={t`Choose what Sterlitee can access to support you and improve the product.`}
       />
       <Card.Root>
         <ImpersonationSwitch divider={isTwentyCloud} />
         {isTwentyCloud && (
           <SettingsOptionCardContentSwitch
             Icon={IconChartLine}
-            title={t`Help improve Twenty`}
-            description={t`Share session replays and AI conversations to help us improve Twenty`}
+            title={t`Help improve Sterlitee`}
+            description={t`Share session replays and AI conversations to help us improve Sterlitee`}
             checked={
               getWorkspaceAiDataPolicy(currentWorkspace)
                 .isProductImprovementDataSharingEnabled

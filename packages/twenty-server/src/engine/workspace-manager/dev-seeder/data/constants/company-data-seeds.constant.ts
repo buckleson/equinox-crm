@@ -639,10 +639,10 @@ export const COMPANY_DATA_SEED_IDS = {
 const COMPANY_DATA_SEEDS_RAW = [
   {
     id: COMPANY_DATA_SEED_IDS.ID_1,
-    name: 'Google',
-    domainNamePrimaryLinkUrl: 'goo.gle',
-    addressAddressCity: 'Mountain View',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/google',
+    name: 'Ashoka Property Consultants',
+    domainNamePrimaryLinkUrl: 'ashokapropertyconsultants.in',
+    addressAddressCity: 'Nashik',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/ashokapropertyconsultants',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -651,10 +651,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_2,
-    name: 'Microsoft',
-    domainNamePrimaryLinkUrl: 'microsoft.com',
-    addressAddressCity: 'Redmond',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/microsoft',
+    name: 'Sahyadri Estate Advisors',
+    domainNamePrimaryLinkUrl: 'sahyadriestateadvisors.in',
+    addressAddressCity: 'Ahmedabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/sahyadriestateadvisors',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -663,10 +663,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_3,
-    name: 'Meta',
-    domainNamePrimaryLinkUrl: 'metacareers.com',
-    addressAddressCity: 'Menlo Park',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/meta',
+    name: 'Kalpavriksha Land Brokers',
+    domainNamePrimaryLinkUrl: 'kalpavrikshalandbrokers.in',
+    addressAddressCity: 'Nagpur',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/kalpavrikshalandbrokers',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -675,10 +675,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_4,
-    name: 'SLB',
-    domainNamePrimaryLinkUrl: 'slb.com',
-    addressAddressCity: 'Houston',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/slbglobal',
+    name: 'Sahyadri Properties LLP',
+    domainNamePrimaryLinkUrl: 'sahyadripropertiesllp.in',
+    addressAddressCity: 'Hyderabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/sahyadripropertiesllp',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -687,10 +687,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_5,
-    name: 'Cisco',
-    domainNamePrimaryLinkUrl: 'cisco.com',
-    addressAddressCity: 'San Jose',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/cisco',
+    name: 'Deccan Estate Advisors',
+    domainNamePrimaryLinkUrl: 'deccanestateadvisors.in',
+    addressAddressCity: 'Nashik',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/deccanestateadvisors',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -699,10 +699,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_6,
-    name: 'Uber',
-    domainNamePrimaryLinkUrl: 'uber.com',
-    addressAddressCity: 'San Francisco',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/uber-com',
+    name: 'Arihant Estate Advisors',
+    domainNamePrimaryLinkUrl: 'arihantestateadvisors.in',
+    addressAddressCity: 'Hyderabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/arihantestateadvisors',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -711,10 +711,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_7,
-    name: 'Salesforce',
-    domainNamePrimaryLinkUrl: 'salesforce.com',
-    addressAddressCity: 'San Francisco',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/salesforce',
+    name: 'Lotus Properties LLP',
+    domainNamePrimaryLinkUrl: 'lotuspropertiesllp.in',
+    addressAddressCity: 'Nashik',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/lotuspropertiesllp',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -723,10 +723,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_8,
-    name: 'Amdocs',
-    domainNamePrimaryLinkUrl: 'amdocs.com',
-    addressAddressCity: 'Chesterfield',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/amdocs',
+    name: 'Sahyadri Investments',
+    domainNamePrimaryLinkUrl: 'sahyadriinvestments.in',
+    addressAddressCity: 'Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/sahyadriinvestments',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -735,10 +735,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_9,
-    name: 'VMware',
-    domainNamePrimaryLinkUrl: 'vmware.com',
-    addressAddressCity: 'Palo Alto',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/vmware',
+    name: 'Silver Oak Investments',
+    domainNamePrimaryLinkUrl: 'silveroakinvestments.in',
+    addressAddressCity: 'Pune',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/silveroakinvestments',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -747,10 +747,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_10,
-    name: 'GlobalLogic',
-    domainNamePrimaryLinkUrl: 'globallogic.com',
-    addressAddressCity: 'Santa Clara',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/globallogic',
+    name: 'Charminar Investments',
+    domainNamePrimaryLinkUrl: 'charminarinvestments.in',
+    addressAddressCity: 'Nashik',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/charminarinvestments',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -759,10 +759,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_11,
-    name: 'ServiceNow',
-    domainNamePrimaryLinkUrl: 'servicenow.com',
-    addressAddressCity: 'Santa Clara',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/servicenow',
+    name: 'Sahyadri Homes Associates',
+    domainNamePrimaryLinkUrl: 'sahyadrihomesassociates.in',
+    addressAddressCity: 'Pune',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/sahyadrihomesassociates',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -771,9 +771,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_12,
-    name: 'SS&C Technologies',
-    domainNamePrimaryLinkUrl: 'ssctech.com',
-    addressAddressCity: 'Windsor',
+    name: 'Narmada Property Consultants',
+    domainNamePrimaryLinkUrl: 'narmadapropertyconsultants.in',
+    addressAddressCity: 'Thane',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/ss-c-technologies',
     createdBySource: 'IMPORT',
@@ -784,10 +784,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_13,
-    name: 'Workday',
-    domainNamePrimaryLinkUrl: 'workday.com',
-    addressAddressCity: 'Pleasanton',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/workday',
+    name: 'Arihant Property Consultants',
+    domainNamePrimaryLinkUrl: 'arihantpropertyconsultants.in',
+    addressAddressCity: 'Ahmedabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/arihantpropertyconsultants',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -796,10 +796,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_14,
-    name: 'Red Hat',
-    domainNamePrimaryLinkUrl: 'redhat.com',
-    addressAddressCity: 'Raleigh',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/red-hat',
+    name: 'Om Sai Investments',
+    domainNamePrimaryLinkUrl: 'omsaiinvestments.in',
+    addressAddressCity: 'Thane',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/omsaiinvestments',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -808,10 +808,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_15,
-    name: 'NetSuite',
-    domainNamePrimaryLinkUrl: 'netsuite.com',
-    addressAddressCity: 'Austin',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/netsuite',
+    name: 'Kalpavriksha Investments',
+    domainNamePrimaryLinkUrl: 'kalpavrikshainvestments.in',
+    addressAddressCity: 'Nagpur',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/kalpavrikshainvestments',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -820,10 +820,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_16,
-    name: 'Synopsys Inc',
-    domainNamePrimaryLinkUrl: 'synopsys.com',
-    addressAddressCity: 'Sunnyvale',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/synopsys',
+    name: 'Heritage Land Brokers',
+    domainNamePrimaryLinkUrl: 'heritagelandbrokers.in',
+    addressAddressCity: 'Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/heritagelandbrokers',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -832,10 +832,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_17,
-    name: 'Siemens Digital Industries Software',
-    domainNamePrimaryLinkUrl: 'sw.siemens.com',
-    addressAddressCity: 'Plano',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/siemenssoftware',
+    name: 'Narmada Estate Advisors',
+    domainNamePrimaryLinkUrl: 'narmadaestateadvisors.in',
+    addressAddressCity: 'Nagpur',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/narmadaestateadvisors',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -844,10 +844,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_18,
-    name: 'SAS',
-    domainNamePrimaryLinkUrl: 'sas.com',
-    addressAddressCity: 'Cary',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/sas',
+    name: 'Orchid Housing Services',
+    domainNamePrimaryLinkUrl: 'orchidhousingservices.in',
+    addressAddressCity: 'Kolkata',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/orchidhousingservices',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -856,10 +856,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_19,
-    name: 'Intuit',
-    domainNamePrimaryLinkUrl: 'intuit.com',
-    addressAddressCity: 'Mountain View',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/intuit',
+    name: 'Godavari Realtors',
+    domainNamePrimaryLinkUrl: 'godavarirealtors.in',
+    addressAddressCity: 'Navi Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/godavarirealtors',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -868,10 +868,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_20,
-    name: 'Broadcom Software',
-    domainNamePrimaryLinkUrl: 'broadcom.com',
-    addressAddressCity: 'San Jose',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/broadcomsoftware',
+    name: 'Pinnacle Investments',
+    domainNamePrimaryLinkUrl: 'pinnacleinvestments.in',
+    addressAddressCity: 'Chennai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/pinnacleinvestments',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -880,10 +880,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_21,
-    name: 'Autodesk',
-    domainNamePrimaryLinkUrl: 'autodesk.com',
-    addressAddressCity: 'San Francisco',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/autodesk',
+    name: 'Bhumi Infra Partners',
+    domainNamePrimaryLinkUrl: 'bhumiinfrapartners.in',
+    addressAddressCity: 'Hyderabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/bhumiinfrapartners',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -892,10 +892,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_22,
-    name: 'Epic',
-    domainNamePrimaryLinkUrl: 'epic.com',
-    addressAddressCity: 'Verona',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/epic1979',
+    name: 'Gateway Homes Associates',
+    domainNamePrimaryLinkUrl: 'gatewayhomesassociates.in',
+    addressAddressCity: 'Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/gatewayhomesassociates',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -904,10 +904,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_23,
-    name: 'Bosch USA',
-    domainNamePrimaryLinkUrl: 'bosch.us',
-    addressAddressCity: 'Farmington',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/boschusa',
+    name: 'Charminar Infra Partners',
+    domainNamePrimaryLinkUrl: 'charminarinfrapartners.in',
+    addressAddressCity: 'Ahmedabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/charminarinfrapartners',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -916,9 +916,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_24,
-    name: 'Cloud Software Group',
-    domainNamePrimaryLinkUrl: 'cloudsoftwaregroup.com',
-    addressAddressCity: 'Fort Lauderdale',
+    name: 'Skyline Land Brokers',
+    domainNamePrimaryLinkUrl: 'skylinelandbrokers.in',
+    addressAddressCity: 'Gurugram',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/cloudsoftwaregroup',
     createdBySource: 'EMAIL',
@@ -929,10 +929,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_25,
-    name: 'Pitney Bowes',
-    domainNamePrimaryLinkUrl: 'pitneybowes.com',
-    addressAddressCity: 'Stamford',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/pitney-bowes',
+    name: 'Shivam Infra Partners',
+    domainNamePrimaryLinkUrl: 'shivaminfrapartners.in',
+    addressAddressCity: 'Nagpur',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/shivaminfrapartners',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -941,10 +941,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_26,
-    name: 'Juniper Networks',
-    domainNamePrimaryLinkUrl: 'juniper.net',
-    addressAddressCity: 'Sunnyvale',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/juniper-networks',
+    name: 'Maratha Estate Advisors',
+    domainNamePrimaryLinkUrl: 'marathaestateadvisors.in',
+    addressAddressCity: 'Ahmedabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/marathaestateadvisors',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -953,10 +953,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_27,
-    name: 'Chegg Inc.',
-    domainNamePrimaryLinkUrl: 'chegg.com',
-    addressAddressCity: 'Santa Clara',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/chegg-inc-',
+    name: 'Mahalaxmi Property Consultants',
+    domainNamePrimaryLinkUrl: 'mahalaxmipropertyconsultants.in',
+    addressAddressCity: 'Chennai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/mahalaxmipropertyconsultants',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -965,10 +965,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_28,
-    name: 'Teradata',
-    domainNamePrimaryLinkUrl: 'teradata.com',
-    addressAddressCity: 'San Diego',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/teradata',
+    name: 'Arihant Realty',
+    domainNamePrimaryLinkUrl: 'arihantrealty.in',
+    addressAddressCity: 'Kolkata',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/arihantrealty',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -977,10 +977,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_29,
-    name: 'NICE',
-    domainNamePrimaryLinkUrl: 'nice.com',
-    addressAddressCity: 'Hoboken',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/nice-systems',
+    name: 'Maratha Properties LLP',
+    domainNamePrimaryLinkUrl: 'marathapropertiesllp.in',
+    addressAddressCity: 'Nagpur',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/marathapropertiesllp',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -989,9 +989,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_30,
-    name: 'Cadence Design Systems',
-    domainNamePrimaryLinkUrl: 'cadence.com',
-    addressAddressCity: 'San Jose',
+    name: 'Ashoka Land Brokers',
+    domainNamePrimaryLinkUrl: 'ashokalandbrokers.in',
+    addressAddressCity: 'Gurugram',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/cadence-design-systems',
     createdBySource: 'EMAIL',
@@ -1002,9 +1002,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_31,
-    name: 'Cox Automotive Inc.',
-    domainNamePrimaryLinkUrl: 'coxautoinc.com',
-    addressAddressCity: 'Atlanta',
+    name: 'Navkar Investments',
+    domainNamePrimaryLinkUrl: 'navkarinvestments.in',
+    addressAddressCity: 'Chennai',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/cox-automotive-inc-',
     createdBySource: 'MANUAL',
@@ -1015,10 +1015,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_32,
-    name: 'Trimble Inc.',
-    domainNamePrimaryLinkUrl: 'trimble.com',
-    addressAddressCity: 'Broomfield',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/trimble',
+    name: 'Malabar Housing Services',
+    domainNamePrimaryLinkUrl: 'malabarhousingservices.in',
+    addressAddressCity: 'Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/malabarhousingservices',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -1027,10 +1027,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_33,
-    name: '[24]7.ai',
-    domainNamePrimaryLinkUrl: '247.ai',
-    addressAddressCity: 'San Jose',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/24-7-ai',
+    name: 'Lotus Infra Partners',
+    domainNamePrimaryLinkUrl: 'lotusinfrapartners.in',
+    addressAddressCity: 'Chennai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/lotusinfrapartners',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -1039,9 +1039,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_34,
-    name: 'Akamai Technologies',
-    domainNamePrimaryLinkUrl: 'akamai.com',
-    addressAddressCity: 'Cambridge',
+    name: 'Maratha Realty',
+    domainNamePrimaryLinkUrl: 'maratharealty.in',
+    addressAddressCity: 'Gurugram',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/akamai-technologies',
     createdBySource: 'MANUAL',
@@ -1052,10 +1052,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_35,
-    name: 'Splunk',
-    domainNamePrimaryLinkUrl: 'splunk.com',
-    addressAddressCity: 'San Francisco',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/splunk',
+    name: 'Harmony Investments',
+    domainNamePrimaryLinkUrl: 'harmonyinvestments.in',
+    addressAddressCity: 'Kolkata',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/harmonyinvestments',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -1064,10 +1064,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_36,
-    name: 'Okta',
-    domainNamePrimaryLinkUrl: 'okta.com',
-    addressAddressCity: 'San Francisco',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/okta-inc-',
+    name: 'Dwarka Land Brokers',
+    domainNamePrimaryLinkUrl: 'dwarkalandbrokers.in',
+    addressAddressCity: 'Pune',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/dwarkalandbrokers',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -1076,10 +1076,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_37,
-    name: 'Ceridian',
-    domainNamePrimaryLinkUrl: 'ceridian.com',
-    addressAddressCity: 'Minneapolis',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/ceridian',
+    name: 'Pinnacle Land Brokers',
+    domainNamePrimaryLinkUrl: 'pinnaclelandbrokers.in',
+    addressAddressCity: 'Bengaluru',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/pinnaclelandbrokers',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -1088,10 +1088,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_38,
-    name: 'RealPage, Inc.',
-    domainNamePrimaryLinkUrl: 'realpage.com',
-    addressAddressCity: 'Richardson',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/realpage',
+    name: 'Indus Estate Advisors',
+    domainNamePrimaryLinkUrl: 'indusestateadvisors.in',
+    addressAddressCity: 'Chennai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/indusestateadvisors',
     createdBySource: 'SYSTEM',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -1100,10 +1100,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_39,
-    name: 'Freelance',
-    domainNamePrimaryLinkUrl: 'jobicy.com',
-    addressAddressCity: 'Ny',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/pro-freelance',
+    name: 'Sunrise Property Consultants',
+    domainNamePrimaryLinkUrl: 'sunrisepropertyconsultants.in',
+    addressAddressCity: 'Gurugram',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/sunrisepropertyconsultants',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -1112,10 +1112,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_40,
-    name: 'Stripe',
-    domainNamePrimaryLinkUrl: 'stripe.com',
-    addressAddressCity: 'South San Francisco',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/stripe',
+    name: 'Trimurti Realtors',
+    domainNamePrimaryLinkUrl: 'trimurtirealtors.in',
+    addressAddressCity: 'Nashik',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/trimurtirealtors',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -1124,10 +1124,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_41,
-    name: 'Shutterfly',
-    domainNamePrimaryLinkUrl: 'shutterflyinc.com',
-    addressAddressCity: 'San Jose',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/shutterfly',
+    name: 'Skyline Estate Advisors',
+    domainNamePrimaryLinkUrl: 'skylineestateadvisors.in',
+    addressAddressCity: 'Bengaluru',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/skylineestateadvisors',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -1136,10 +1136,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_42,
-    name: 'Unity',
-    domainNamePrimaryLinkUrl: 'unity.com',
-    addressAddressCity: 'San Francisco',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/unity',
+    name: 'Shivam Realtors',
+    domainNamePrimaryLinkUrl: 'shivamrealtors.in',
+    addressAddressCity: 'Ahmedabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/shivamrealtors',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -1148,10 +1148,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_43,
-    name: 'Veeva Systems',
-    domainNamePrimaryLinkUrl: 'veeva.com',
-    addressAddressCity: 'Pleasanton',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/veeva-systems',
+    name: 'Prestige Hills Property Consultants',
+    domainNamePrimaryLinkUrl: 'prestigehillspropertyconsultants.in',
+    addressAddressCity: 'Nashik',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/prestigehillspropertyconsultants',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -1160,9 +1160,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_44,
-    name: 'Nuance Communications',
-    domainNamePrimaryLinkUrl: 'nuance.com',
-    addressAddressCity: 'Burlington',
+    name: 'Narmada Infra Partners',
+    domainNamePrimaryLinkUrl: 'narmadainfrapartners.in',
+    addressAddressCity: 'Gurugram',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/nuance-communications',
     createdBySource: 'IMPORT',
@@ -1173,10 +1173,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_45,
-    name: 'Freshworks',
-    domainNamePrimaryLinkUrl: 'freshworks.com',
-    addressAddressCity: 'San Mateo',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/freshworks-inc',
+    name: 'Arihant Land Brokers',
+    domainNamePrimaryLinkUrl: 'arihantlandbrokers.in',
+    addressAddressCity: 'Kolkata',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/arihantlandbrokers',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -1185,9 +1185,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_46,
-    name: 'Seal Software, a DocuSign Company',
-    domainNamePrimaryLinkUrl: 'seal-software.com',
-    addressAddressCity: 'Walnut Creek',
+    name: 'Dwarka Homes Associates',
+    domainNamePrimaryLinkUrl: 'dwarkahomesassociates.in',
+    addressAddressCity: 'Bengaluru',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/seal-software-group',
     createdBySource: 'EMAIL',
@@ -1198,10 +1198,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_47,
-    name: 'DocuSign',
-    domainNamePrimaryLinkUrl: 'docusign.com',
-    addressAddressCity: 'San Francisco',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/docusign',
+    name: 'Lotus Property Consultants',
+    domainNamePrimaryLinkUrl: 'lotuspropertyconsultants.in',
+    addressAddressCity: 'Bengaluru',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/lotuspropertyconsultants',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -1210,10 +1210,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_48,
-    name: 'Nutanix',
-    domainNamePrimaryLinkUrl: 'nutanix.com',
-    addressAddressCity: 'San Jose',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/nutanix',
+    name: 'Silver Oak Homes Associates',
+    domainNamePrimaryLinkUrl: 'silveroakhomesassociates.in',
+    addressAddressCity: 'Pune',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/silveroakhomesassociates',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -1222,10 +1222,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_49,
-    name: 'Genesys',
-    domainNamePrimaryLinkUrl: 'genesys.com',
-    addressAddressCity: 'Menlo Park',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/genesys',
+    name: 'Skyline Investments',
+    domainNamePrimaryLinkUrl: 'skylineinvestments.in',
+    addressAddressCity: 'Bengaluru',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/skylineinvestments',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -1234,10 +1234,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_50,
-    name: 'SAP Concur',
-    domainNamePrimaryLinkUrl: 'concur.com',
-    addressAddressCity: 'Bellevue',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/sapconcur',
+    name: 'Aadhar Infra Partners',
+    domainNamePrimaryLinkUrl: 'aadharinfrapartners.in',
+    addressAddressCity: 'Pune',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/aadharinfrapartners',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -1246,10 +1246,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_51,
-    name: 'Square',
-    domainNamePrimaryLinkUrl: 'squareup.com',
-    addressAddressCity: 'San Francisco',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/joinsquare',
+    name: 'Vastu Realtors',
+    domainNamePrimaryLinkUrl: 'vasturealtors.in',
+    addressAddressCity: 'Ahmedabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/vasturealtors',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -1258,10 +1258,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_52,
-    name: 'Snap Inc.',
-    domainNamePrimaryLinkUrl: 'snap.com',
-    addressAddressCity: 'Santa Monica',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/snap-inc-co',
+    name: 'Bhumi Investments',
+    domainNamePrimaryLinkUrl: 'bhumiinvestments.in',
+    addressAddressCity: 'Nagpur',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/bhumiinvestments',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -1270,10 +1270,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_53,
-    name: 'MathWorks',
-    domainNamePrimaryLinkUrl: 'mathworks.com',
-    addressAddressCity: 'Natick',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/the-mathworks_2',
+    name: 'Metro Investments',
+    domainNamePrimaryLinkUrl: 'metroinvestments.in',
+    addressAddressCity: 'Kolkata',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/metroinvestments',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -1282,10 +1282,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_54,
-    name: 'PTC',
-    domainNamePrimaryLinkUrl: 'ptc.co',
-    addressAddressCity: 'Boston',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/ptcinc',
+    name: 'Sahyadri Housing Services',
+    domainNamePrimaryLinkUrl: 'sahyadrihousingservices.in',
+    addressAddressCity: 'Kolkata',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/sahyadrihousingservices',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -1294,10 +1294,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_55,
-    name: 'Ansys',
-    domainNamePrimaryLinkUrl: 'ansys.com',
-    addressAddressCity: 'Canonsburg',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/ansys-inc',
+    name: 'Narmada Realtors',
+    domainNamePrimaryLinkUrl: 'narmadarealtors.in',
+    addressAddressCity: 'Nashik',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/narmadarealtors',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -1306,10 +1306,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_56,
-    name: 'Aricent',
-    domainNamePrimaryLinkUrl: 'altran.com',
-    addressAddressCity: 'Santa Clara',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/aricent',
+    name: 'Swastik Realtors',
+    domainNamePrimaryLinkUrl: 'swastikrealtors.in',
+    addressAddressCity: 'Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/swastikrealtors',
     createdBySource: 'SYSTEM',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -1318,10 +1318,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_57,
-    name: 'Databricks',
-    domainNamePrimaryLinkUrl: 'databricks.com',
-    addressAddressCity: 'San Francisco',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/databricks',
+    name: 'Evergreen Realtors',
+    domainNamePrimaryLinkUrl: 'evergreenrealtors.in',
+    addressAddressCity: 'Pune',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/evergreenrealtors',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -1330,10 +1330,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_58,
-    name: 'Shipt',
-    domainNamePrimaryLinkUrl: 'shipt.com',
-    addressAddressCity: 'Birmingham',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/shipt',
+    name: 'Heritage Estate Advisors',
+    domainNamePrimaryLinkUrl: 'heritageestateadvisors.in',
+    addressAddressCity: 'Hyderabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/heritageestateadvisors',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -1342,10 +1342,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_59,
-    name: 'CSG',
-    domainNamePrimaryLinkUrl: 'csgi.com',
-    addressAddressCity: 'Englewood',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/csg-',
+    name: 'Shivam Property Consultants',
+    domainNamePrimaryLinkUrl: 'shivampropertyconsultants.in',
+    addressAddressCity: 'Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/shivampropertyconsultants',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -1354,10 +1354,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_60,
-    name: 'Twilio',
-    domainNamePrimaryLinkUrl: 'twilio.com',
-    addressAddressCity: 'San Francisco',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/twilio-inc-',
+    name: 'Mahalaxmi Investments',
+    domainNamePrimaryLinkUrl: 'mahalaxmiinvestments.in',
+    addressAddressCity: 'Pune',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/mahalaxmiinvestments',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -1366,9 +1366,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_61,
-    name: 'Veritas Technologies LLC',
-    domainNamePrimaryLinkUrl: 'veritas.com',
-    addressAddressCity: 'Santa Clara',
+    name: 'Kalpavriksha Realty',
+    domainNamePrimaryLinkUrl: 'kalpavriksharealty.in',
+    addressAddressCity: 'Nagpur',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/veritas-technologies-llc',
     createdBySource: 'API',
@@ -1379,10 +1379,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_62,
-    name: 'Citrix',
-    domainNamePrimaryLinkUrl: 'citrix.com',
-    addressAddressCity: 'Fort Lauderdale',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/citrix',
+    name: 'Vastu Properties LLP',
+    domainNamePrimaryLinkUrl: 'vastupropertiesllp.in',
+    addressAddressCity: 'Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/vastupropertiesllp',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -1391,9 +1391,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_63,
-    name: 'Tyler Technologies',
-    domainNamePrimaryLinkUrl: 'tylertech.com',
-    addressAddressCity: 'Plano',
+    name: 'Konkan Estate Advisors',
+    domainNamePrimaryLinkUrl: 'konkanestateadvisors.in',
+    addressAddressCity: 'Hyderabad',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/tyler-technologies',
     createdBySource: 'MANUAL',
@@ -1404,10 +1404,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_64,
-    name: 'Esri',
-    domainNamePrimaryLinkUrl: 'esri.com',
-    addressAddressCity: 'Redlands',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/esri',
+    name: 'Indus Realtors',
+    domainNamePrimaryLinkUrl: 'indusrealtors.in',
+    addressAddressCity: 'Bengaluru',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/indusrealtors',
     createdBySource: 'SYSTEM',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -1416,10 +1416,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_65,
-    name: 'Paycom',
-    domainNamePrimaryLinkUrl: 'paycom.com',
-    addressAddressCity: 'Oklahoma City',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/paycom',
+    name: 'Aadhar Land Brokers',
+    domainNamePrimaryLinkUrl: 'aadharlandbrokers.in',
+    addressAddressCity: 'Nagpur',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/aadharlandbrokers',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -1428,10 +1428,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_66,
-    name: 'Roblox',
-    domainNamePrimaryLinkUrl: 'roblox.com',
-    addressAddressCity: 'San Mateo',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/roblox',
+    name: 'Bhumi Housing Services',
+    domainNamePrimaryLinkUrl: 'bhumihousingservices.in',
+    addressAddressCity: 'Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/bhumihousingservices',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -1440,10 +1440,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_67,
-    name: 'Zendesk',
-    domainNamePrimaryLinkUrl: 'zendesk.com',
-    addressAddressCity: 'San Francisco',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/zendesk',
+    name: 'Om Sai Housing Services',
+    domainNamePrimaryLinkUrl: 'omsaihousingservices.in',
+    addressAddressCity: 'Chennai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/omsaihousingservices',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -1452,10 +1452,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_68,
-    name: 'Newfold Digital',
-    domainNamePrimaryLinkUrl: 'newfold.com',
-    addressAddressCity: 'Jacksonville',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/newfold',
+    name: 'Evergreen Housing Services',
+    domainNamePrimaryLinkUrl: 'evergreenhousingservices.in',
+    addressAddressCity: 'Thane',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/evergreenhousingservices',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -1464,10 +1464,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_69,
-    name: 'Informatica',
-    domainNamePrimaryLinkUrl: 'informatica.com',
-    addressAddressCity: 'Redwood City',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/informatica',
+    name: 'Aadhar Housing Services',
+    domainNamePrimaryLinkUrl: 'aadharhousingservices.in',
+    addressAddressCity: 'Gurugram',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/aadharhousingservices',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -1476,10 +1476,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_70,
-    name: 'Caf\u00e9',
-    domainNamePrimaryLinkUrl: 'at.cafe',
-    addressAddressCity: 'New York',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/get-cafe',
+    name: 'Nirmal Properties LLP',
+    domainNamePrimaryLinkUrl: 'nirmalpropertiesllp.in',
+    addressAddressCity: 'Pune',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/nirmalpropertiesllp',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -1488,10 +1488,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_71,
-    name: 'Mavenir',
-    domainNamePrimaryLinkUrl: 'mavenir.com',
-    addressAddressCity: 'Richardson',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/mavenir',
+    name: 'Orchid Properties LLP',
+    domainNamePrimaryLinkUrl: 'orchidpropertiesllp.in',
+    addressAddressCity: 'Navi Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/orchidpropertiesllp',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -1500,10 +1500,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_72,
-    name: 'Allscripts',
-    domainNamePrimaryLinkUrl: 'allscripts.com',
-    addressAddressCity: 'Chicago',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/allscripts',
+    name: 'Konkan Properties LLP',
+    domainNamePrimaryLinkUrl: 'konkanpropertiesllp.in',
+    addressAddressCity: 'Thane',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/konkanpropertiesllp',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -1512,10 +1512,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_73,
-    name: 'Yardi',
-    domainNamePrimaryLinkUrl: 'yardi.com',
-    addressAddressCity: 'Goleta',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/yardi',
+    name: 'Kaveri Land Brokers',
+    domainNamePrimaryLinkUrl: 'kaverilandbrokers.in',
+    addressAddressCity: 'Bengaluru',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/kaverilandbrokers',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -1524,10 +1524,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_74,
-    name: 'Datadog',
-    domainNamePrimaryLinkUrl: 'datadoghq.com',
-    addressAddressCity: 'New York',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/datadog',
+    name: 'Navkar Homes Associates',
+    domainNamePrimaryLinkUrl: 'navkarhomesassociates.in',
+    addressAddressCity: 'Ahmedabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/navkarhomesassociates',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -1536,9 +1536,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_75,
-    name: 'Epicor',
-    domainNamePrimaryLinkUrl: 'epicor.com',
-    addressAddressCity: 'Austin',
+    name: 'Godavari Properties LLP',
+    domainNamePrimaryLinkUrl: 'godavaripropertiesllp.in',
+    addressAddressCity: 'Navi Mumbai',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/epicor-software-corp',
     createdBySource: 'WORKFLOW',
@@ -1549,9 +1549,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_76,
-    name: 'Hexagon Asset Lifecycle Intelligence',
-    domainNamePrimaryLinkUrl: 'hexagonppm.com',
-    addressAddressCity: 'Madison',
+    name: 'Heritage Homes Associates',
+    domainNamePrimaryLinkUrl: 'heritagehomesassociates.in',
+    addressAddressCity: 'Nashik',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/hexagonassetlifecycleintelligence',
     createdBySource: 'WORKFLOW',
@@ -1562,10 +1562,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_77,
-    name: 'Blue Yonder',
-    domainNamePrimaryLinkUrl: 'blueyonder.com',
-    addressAddressCity: 'Scottsdale',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/blueyonder',
+    name: 'Kaveri Housing Services',
+    domainNamePrimaryLinkUrl: 'kaverihousingservices.in',
+    addressAddressCity: 'Navi Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/kaverihousingservices',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -1574,10 +1574,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_78,
-    name: 'MongoDB',
-    domainNamePrimaryLinkUrl: 'mongodb.com',
-    addressAddressCity: 'New York',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/mongodbinc',
+    name: 'Konkan Realty',
+    domainNamePrimaryLinkUrl: 'konkanrealty.in',
+    addressAddressCity: 'Thane',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/konkanrealty',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -1586,10 +1586,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_79,
-    name: 'uTest',
-    domainNamePrimaryLinkUrl: 'utest.com',
-    addressAddressCity: 'Framingham',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/utest',
+    name: 'Evergreen Infra Partners',
+    domainNamePrimaryLinkUrl: 'evergreeninfrapartners.in',
+    addressAddressCity: 'Hyderabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/evergreeninfrapartners',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -1598,10 +1598,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_80,
-    name: 'Paylocity',
-    domainNamePrimaryLinkUrl: 'paylocity.com',
-    addressAddressCity: 'Schaumburg',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/paylocity',
+    name: 'Western Ghats Land Brokers',
+    domainNamePrimaryLinkUrl: 'westernghatslandbrokers.in',
+    addressAddressCity: 'Chennai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/westernghatslandbrokers',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -1610,10 +1610,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_81,
-    name: 'IAC',
-    domainNamePrimaryLinkUrl: 'iac.com',
-    addressAddressCity: 'New York',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/iac',
+    name: 'Navkar Land Brokers',
+    domainNamePrimaryLinkUrl: 'navkarlandbrokers.in',
+    addressAddressCity: 'Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/navkarlandbrokers',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -1622,10 +1622,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_82,
-    name: 'Toast',
-    domainNamePrimaryLinkUrl: 'toasttab.com',
-    addressAddressCity: 'Boston',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/toast-inc',
+    name: 'Silver Oak Estate Advisors',
+    domainNamePrimaryLinkUrl: 'silveroakestateadvisors.in',
+    addressAddressCity: 'Hyderabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/silveroakestateadvisors',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -1634,10 +1634,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_83,
-    name: 'Bentley Systems',
-    domainNamePrimaryLinkUrl: 'bentley.com',
-    addressAddressCity: 'Exton',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/bentley-systems',
+    name: 'Evergreen Homes Associates',
+    domainNamePrimaryLinkUrl: 'evergreenhomesassociates.in',
+    addressAddressCity: 'Navi Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/evergreenhomesassociates',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -1646,10 +1646,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_84,
-    name: 'Owner.com',
-    domainNamePrimaryLinkUrl: 'owner.com',
-    addressAddressCity: 'Palo Alto',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/profitboss',
+    name: 'Indus Investments',
+    domainNamePrimaryLinkUrl: 'indusinvestments.in',
+    addressAddressCity: 'Pune',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/indusinvestments',
     createdBySource: 'SYSTEM',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -1658,10 +1658,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_85,
-    name: 'eClinicalWorks',
-    domainNamePrimaryLinkUrl: 'eclinicalworks.com',
-    addressAddressCity: 'Westborough',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/eclinicalworks',
+    name: 'Evergreen Land Brokers',
+    domainNamePrimaryLinkUrl: 'evergreenlandbrokers.in',
+    addressAddressCity: 'Kolkata',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/evergreenlandbrokers',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -1670,10 +1670,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_86,
-    name: 'Altimetrik',
-    domainNamePrimaryLinkUrl: 'altimetrik.com',
-    addressAddressCity: 'Southfield',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/altimetrik',
+    name: 'Lotus Estate Advisors',
+    domainNamePrimaryLinkUrl: 'lotusestateadvisors.in',
+    addressAddressCity: 'Nashik',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/lotusestateadvisors',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -1682,10 +1682,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_87,
-    name: 'CA Technologies',
-    domainNamePrimaryLinkUrl: 'ca.com',
-    addressAddressCity: 'San Jose',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/ca-technologies',
+    name: 'Heritage Housing Services',
+    domainNamePrimaryLinkUrl: 'heritagehousingservices.in',
+    addressAddressCity: 'Bengaluru',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/heritagehousingservices',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -1694,10 +1694,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_88,
-    name: 'Dynatrace',
-    domainNamePrimaryLinkUrl: 'dynatrace.com',
-    addressAddressCity: 'Waltham',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/dynatrace',
+    name: 'Kohinoor Land Brokers',
+    domainNamePrimaryLinkUrl: 'kohinoorlandbrokers.in',
+    addressAddressCity: 'Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/kohinoorlandbrokers',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -1706,10 +1706,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_89,
-    name: 'Sprinklr',
-    domainNamePrimaryLinkUrl: 'sprinklr.com',
-    addressAddressCity: 'New York',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/sprinklr',
+    name: 'Swastik Housing Services',
+    domainNamePrimaryLinkUrl: 'swastikhousingservices.in',
+    addressAddressCity: 'Nashik',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/swastikhousingservices',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -1718,10 +1718,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_90,
-    name: 'UiPath',
-    domainNamePrimaryLinkUrl: 'uipath.com',
-    addressAddressCity: 'New York',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/uipath',
+    name: 'Nirmal Property Consultants',
+    domainNamePrimaryLinkUrl: 'nirmalpropertyconsultants.in',
+    addressAddressCity: 'Pune',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/nirmalpropertyconsultants',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -1730,9 +1730,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_91,
-    name: 'The Reynolds and Reynolds Company',
-    domainNamePrimaryLinkUrl: 'reyrey.com',
-    addressAddressCity: 'Dayton',
+    name: 'Vastu Investments',
+    domainNamePrimaryLinkUrl: 'vastuinvestments.in',
+    addressAddressCity: 'Chennai',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/the-reynolds-and-reynolds-company',
     createdBySource: 'MANUAL',
@@ -1743,10 +1743,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_92,
-    name: 'Stealth',
-    domainNamePrimaryLinkUrl: 'stealthstartup.com',
-    addressAddressCity: 'San Francisco',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/stealthstartup',
+    name: 'Western Ghats Housing Services',
+    domainNamePrimaryLinkUrl: 'westernghatshousingservices.in',
+    addressAddressCity: 'Kolkata',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/westernghatshousingservices',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -1755,10 +1755,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_93,
-    name: 'WEX',
-    domainNamePrimaryLinkUrl: 'wexinc.com',
-    addressAddressCity: 'Portland',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/wexinc',
+    name: 'Navkar Property Consultants',
+    domainNamePrimaryLinkUrl: 'navkarpropertyconsultants.in',
+    addressAddressCity: 'Ahmedabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/navkarpropertyconsultants',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -1767,10 +1767,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_94,
-    name: 'HighRadius',
-    domainNamePrimaryLinkUrl: 'highradius.com',
-    addressAddressCity: 'Houston',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/highradius',
+    name: 'Kalpavriksha Properties LLP',
+    domainNamePrimaryLinkUrl: 'kalpavrikshapropertiesllp.in',
+    addressAddressCity: 'Gurugram',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/kalpavrikshapropertiesllp',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -1779,10 +1779,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_95,
-    name: 'Avalara',
-    domainNamePrimaryLinkUrl: 'avalara.com',
-    addressAddressCity: 'Seattle',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/avalara',
+    name: 'Raj Hans Realtors',
+    domainNamePrimaryLinkUrl: 'rajhansrealtors.in',
+    addressAddressCity: 'Hyderabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/rajhansrealtors',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -1791,9 +1791,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_96,
-    name: 'Manhattan Associates',
-    domainNamePrimaryLinkUrl: 'manh.com',
-    addressAddressCity: 'Atlanta',
+    name: 'Orchid Realty',
+    domainNamePrimaryLinkUrl: 'orchidrealty.in',
+    addressAddressCity: 'Thane',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/manhattan-associates',
     createdBySource: 'CALENDAR',
@@ -1804,10 +1804,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_97,
-    name: 'Aspen Technology',
-    domainNamePrimaryLinkUrl: 'aspentech.com',
-    addressAddressCity: 'Bedford',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/aspen-technology',
+    name: 'Orchid Infra Partners',
+    domainNamePrimaryLinkUrl: 'orchidinfrapartners.in',
+    addressAddressCity: 'Ahmedabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/orchidinfrapartners',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -1816,10 +1816,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_98,
-    name: 'Hyland',
-    domainNamePrimaryLinkUrl: 'hyland.com',
-    addressAddressCity: 'Westlake',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/hyland-software',
+    name: 'Trimurti Investments',
+    domainNamePrimaryLinkUrl: 'trimurtiinvestments.in',
+    addressAddressCity: 'Navi Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/trimurtiinvestments',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -1828,9 +1828,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_99,
-    name: 'Palantir Technologies',
-    domainNamePrimaryLinkUrl: 'palantir.com',
-    addressAddressCity: 'Denver',
+    name: 'Aadhar Properties LLP',
+    domainNamePrimaryLinkUrl: 'aadharpropertiesllp.in',
+    addressAddressCity: 'Nashik',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/palantir-technologies',
     createdBySource: 'MANUAL',
@@ -1841,9 +1841,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_100,
-    name: 'Market America, Inc.',
-    domainNamePrimaryLinkUrl: 'marketamerica.com',
-    addressAddressCity: 'Greensboro',
+    name: 'Raj Hans Realty',
+    domainNamePrimaryLinkUrl: 'rajhansrealty.in',
+    addressAddressCity: 'Gurugram',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/market-america-inc-',
     createdBySource: 'MANUAL',
@@ -1854,9 +1854,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_101,
-    name: 'Procore Technologies',
-    domainNamePrimaryLinkUrl: 'procore.com',
-    addressAddressCity: 'Carpinteria',
+    name: 'Navkar Housing Services',
+    domainNamePrimaryLinkUrl: 'navkarhousingservices.in',
+    addressAddressCity: 'Kolkata',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/procore-technologies',
     createdBySource: 'MANUAL',
@@ -1867,10 +1867,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_102,
-    name: 'ZoomInfo',
-    domainNamePrimaryLinkUrl: 'zoominfo.com',
-    addressAddressCity: 'Vancouver',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/zoominfo',
+    name: 'Malabar Properties LLP',
+    domainNamePrimaryLinkUrl: 'malabarpropertiesllp.in',
+    addressAddressCity: 'Nashik',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/malabarpropertiesllp',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -1879,10 +1879,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_103,
-    name: 'TIBCO',
-    domainNamePrimaryLinkUrl: 'tibco.com',
-    addressAddressCity: 'Palo Alto',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/tibco',
+    name: 'Metro Property Consultants',
+    domainNamePrimaryLinkUrl: 'metropropertyconsultants.in',
+    addressAddressCity: 'Ahmedabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/metropropertyconsultants',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -1891,10 +1891,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_104,
-    name: 'GE Digital',
-    domainNamePrimaryLinkUrl: 'ge.com',
-    addressAddressCity: 'San Ramon',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/ge-digital',
+    name: 'Metro Realty',
+    domainNamePrimaryLinkUrl: 'metrorealty.in',
+    addressAddressCity: 'Chennai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/metrorealty',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -1903,10 +1903,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_105,
-    name: 'RMS',
-    domainNamePrimaryLinkUrl: 'rms.com',
-    addressAddressCity: 'Newark',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/rms',
+    name: 'Gateway Investments',
+    domainNamePrimaryLinkUrl: 'gatewayinvestments.in',
+    addressAddressCity: 'Pune',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/gatewayinvestments',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -1915,10 +1915,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_106,
-    name: 'Tableau',
-    domainNamePrimaryLinkUrl: 'tableau.com',
-    addressAddressCity: 'Seattle',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/tableau-software',
+    name: 'Vastu Property Consultants',
+    domainNamePrimaryLinkUrl: 'vastupropertyconsultants.in',
+    addressAddressCity: 'Bengaluru',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/vastupropertyconsultants',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -1927,10 +1927,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_107,
-    name: 'Extreme Networks',
-    domainNamePrimaryLinkUrl: 'extremenetworks.com',
-    addressAddressCity: 'Morrisville',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/extreme-networks',
+    name: 'Evergreen Investments',
+    domainNamePrimaryLinkUrl: 'evergreeninvestments.in',
+    addressAddressCity: 'Gurugram',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/evergreeninvestments',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -1939,10 +1939,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_108,
-    name: 'Smartsheet',
-    domainNamePrimaryLinkUrl: 'smartsheet.com',
-    addressAddressCity: 'Bellevue',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/smartsheet-com',
+    name: 'Om Sai Properties LLP',
+    domainNamePrimaryLinkUrl: 'omsaipropertiesllp.in',
+    addressAddressCity: 'Pune',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/omsaipropertiesllp',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -1951,10 +1951,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_109,
-    name: 'Quest Software',
-    domainNamePrimaryLinkUrl: 'quest.com',
-    addressAddressCity: 'Aliso Viejo',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/quest-software',
+    name: 'Ashoka Properties LLP',
+    domainNamePrimaryLinkUrl: 'ashokapropertiesllp.in',
+    addressAddressCity: 'Ahmedabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/ashokapropertiesllp',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -1963,10 +1963,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_110,
-    name: 'Motive',
-    domainNamePrimaryLinkUrl: 'gomotive.com',
-    addressAddressCity: 'San Francisco',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/motive-inc',
+    name: 'Narmada Housing Services',
+    domainNamePrimaryLinkUrl: 'narmadahousingservices.in',
+    addressAddressCity: 'Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/narmadahousingservices',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -1975,10 +1975,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_111,
-    name: 'Retired Life',
-    domainNamePrimaryLinkUrl: 'swde.com',
-    addressAddressCity: 'San Jose',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/retired-life',
+    name: 'Narmada Realty',
+    domainNamePrimaryLinkUrl: 'narmadarealty.in',
+    addressAddressCity: 'Hyderabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/narmadarealty',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -1987,10 +1987,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_112,
-    name: 'Dropbox',
-    domainNamePrimaryLinkUrl: 'dropbox.com',
-    addressAddressCity: 'San Francisco',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/dropbox',
+    name: 'Heritage Infra Partners',
+    domainNamePrimaryLinkUrl: 'heritageinfrapartners.in',
+    addressAddressCity: 'Pune',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/heritageinfrapartners',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -1999,10 +1999,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_113,
-    name: 'Deltek',
-    domainNamePrimaryLinkUrl: 'deltek.com',
-    addressAddressCity: 'Herndon',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/deltek',
+    name: 'Shivam Properties LLP',
+    domainNamePrimaryLinkUrl: 'shivampropertiesllp.in',
+    addressAddressCity: 'Pune',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/shivampropertiesllp',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -2011,10 +2011,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_114,
-    name: 'e2open',
-    domainNamePrimaryLinkUrl: 'e2open.com',
-    addressAddressCity: 'Austin',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/e2open',
+    name: 'Maratha Housing Services',
+    domainNamePrimaryLinkUrl: 'marathahousingservices.in',
+    addressAddressCity: 'Navi Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/marathahousingservices',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -2023,9 +2023,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_115,
-    name: 'Altair',
-    domainNamePrimaryLinkUrl: 'altair.com',
-    addressAddressCity: 'Troy',
+    name: 'Indus Properties LLP',
+    domainNamePrimaryLinkUrl: 'induspropertiesllp.in',
+    addressAddressCity: 'Nagpur',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/altair-engineering',
     createdBySource: 'WORKFLOW',
@@ -2036,10 +2036,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_116,
-    name: 'Gopuff',
-    domainNamePrimaryLinkUrl: 'gopuff.com',
-    addressAddressCity: 'Philadelphia',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/gopuff',
+    name: 'Metro Homes Associates',
+    domainNamePrimaryLinkUrl: 'metrohomesassociates.in',
+    addressAddressCity: 'Gurugram',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/metrohomesassociates',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -2048,10 +2048,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_117,
-    name: 'FICO',
-    domainNamePrimaryLinkUrl: 'fico.com',
-    addressAddressCity: 'Bozeman',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/fico',
+    name: 'Prestige Hills Housing Services',
+    domainNamePrimaryLinkUrl: 'prestigehillshousingservices.in',
+    addressAddressCity: 'Ahmedabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/prestigehillshousingservices',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -2060,10 +2060,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_118,
-    name: 'Elastic',
-    domainNamePrimaryLinkUrl: 'elastic.co',
-    addressAddressCity: 'Mountain View',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/elastic-co',
+    name: 'Godavari Housing Services',
+    domainNamePrimaryLinkUrl: 'godavarihousingservices.in',
+    addressAddressCity: 'Ahmedabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/godavarihousingservices',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -2072,10 +2072,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_119,
-    name: 'Blackbaud',
-    domainNamePrimaryLinkUrl: 'blackbaud.com',
-    addressAddressCity: 'Charleston',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/blackbaud',
+    name: 'Trimurti Properties LLP',
+    domainNamePrimaryLinkUrl: 'trimurtipropertiesllp.in',
+    addressAddressCity: 'Thane',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/trimurtipropertiesllp',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -2084,10 +2084,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_120,
-    name: 'MicroStrategy',
-    domainNamePrimaryLinkUrl: 'microstrategy.com',
-    addressAddressCity: 'Vienna',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/microstrategy',
+    name: 'Narmada Homes Associates',
+    domainNamePrimaryLinkUrl: 'narmadahomesassociates.in',
+    addressAddressCity: 'Chennai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/narmadahomesassociates',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -2096,10 +2096,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_121,
-    name: 'Discord',
-    domainNamePrimaryLinkUrl: 'discord.com',
-    addressAddressCity: 'San Francisco',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/discord',
+    name: 'Om Sai Realtors',
+    domainNamePrimaryLinkUrl: 'omsairealtors.in',
+    addressAddressCity: 'Chennai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/omsairealtors',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -2108,10 +2108,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_122,
-    name: 'Inovalon',
-    domainNamePrimaryLinkUrl: 'inovalon.com',
-    addressAddressCity: 'Bowie',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/inovalon',
+    name: 'Ashoka Estate Advisors',
+    domainNamePrimaryLinkUrl: 'ashokaestateadvisors.in',
+    addressAddressCity: 'Kolkata',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/ashokaestateadvisors',
     createdBySource: 'SYSTEM',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -2120,9 +2120,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_123,
-    name: 'Progress',
-    domainNamePrimaryLinkUrl: 'progress.com',
-    addressAddressCity: 'Burlington',
+    name: 'Maratha Homes Associates',
+    domainNamePrimaryLinkUrl: 'marathahomesassociates.in',
+    addressAddressCity: 'Kolkata',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/progress-software',
     createdBySource: 'WORKFLOW',
@@ -2133,10 +2133,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_124,
-    name: 'Rubrik',
-    domainNamePrimaryLinkUrl: 'rbrk.co',
-    addressAddressCity: 'Palo Alto',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/rubrik-inc',
+    name: 'Harmony Estate Advisors',
+    domainNamePrimaryLinkUrl: 'harmonyestateadvisors.in',
+    addressAddressCity: 'Bengaluru',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/harmonyestateadvisors',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -2145,10 +2145,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_125,
-    name: 'Axtria - Ingenious Insights',
-    domainNamePrimaryLinkUrl: 'axtria.com',
-    addressAddressCity: 'Berkeley Heights',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/axtria',
+    name: 'Bhumi Property Consultants',
+    domainNamePrimaryLinkUrl: 'bhumipropertyconsultants.in',
+    addressAddressCity: 'Thane',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/bhumipropertyconsultants',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -2157,10 +2157,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_126,
-    name: 'Audible',
-    domainNamePrimaryLinkUrl: 'audible.com',
-    addressAddressCity: 'Newark',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/audible',
+    name: 'Raj Hans Housing Services',
+    domainNamePrimaryLinkUrl: 'rajhanshousingservices.in',
+    addressAddressCity: 'Hyderabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/rajhanshousingservices',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -2169,10 +2169,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_127,
-    name: 'Kaseya',
-    domainNamePrimaryLinkUrl: 'kaseya.com',
-    addressAddressCity: 'Miami',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/kaseya',
+    name: 'Kalpavriksha Realtors',
+    domainNamePrimaryLinkUrl: 'kalpavriksharealtors.in',
+    addressAddressCity: 'Chennai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/kalpavriksharealtors',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -2181,10 +2181,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_128,
-    name: 'MRI Software',
-    domainNamePrimaryLinkUrl: 'mrisoftware.com',
-    addressAddressCity: 'Solon',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/mri-software-llc',
+    name: 'Nirmal Homes Associates',
+    domainNamePrimaryLinkUrl: 'nirmalhomesassociates.in',
+    addressAddressCity: 'Bengaluru',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/nirmalhomesassociates',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -2193,9 +2193,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_129,
-    name: 'CyberArk',
-    domainNamePrimaryLinkUrl: 'cyberark.com',
-    addressAddressCity: 'Newton Center',
+    name: 'Kohinoor Properties LLP',
+    domainNamePrimaryLinkUrl: 'kohinoorpropertiesllp.in',
+    addressAddressCity: 'Nashik',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/cyber-ark-software',
     createdBySource: 'MANUAL',
@@ -2206,9 +2206,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_130,
-    name: 'Cornerstone OnDemand',
-    domainNamePrimaryLinkUrl: 'cornerstoneondemand.com',
-    addressAddressCity: 'Santa Monica',
+    name: 'Mahalaxmi Realtors',
+    domainNamePrimaryLinkUrl: 'mahalaxmirealtors.in',
+    addressAddressCity: 'Hyderabad',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/cornerstone-ondemand',
     createdBySource: 'CALENDAR',
@@ -2219,10 +2219,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_131,
-    name: 'Reddit, Inc.',
-    domainNamePrimaryLinkUrl: 'redditinc.com',
-    addressAddressCity: 'San Francisco',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/reddit-com',
+    name: 'Lotus Land Brokers',
+    domainNamePrimaryLinkUrl: 'lotuslandbrokers.in',
+    addressAddressCity: 'Pune',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/lotuslandbrokers',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -2231,10 +2231,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_132,
-    name: 'Ivanti',
-    domainNamePrimaryLinkUrl: 'ivanti.com',
-    addressAddressCity: 'South Jordan',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/ivanti',
+    name: 'Mahalaxmi Properties LLP',
+    domainNamePrimaryLinkUrl: 'mahalaxmipropertiesllp.in',
+    addressAddressCity: 'Chennai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/mahalaxmipropertiesllp',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -2243,10 +2243,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_133,
-    name: 'Cloudera',
-    domainNamePrimaryLinkUrl: 'cloudera.com',
-    addressAddressCity: 'Santa Clara',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/cloudera',
+    name: 'Shivam Realty',
+    domainNamePrimaryLinkUrl: 'shivamrealty.in',
+    addressAddressCity: 'Nashik',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/shivamrealty',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -2255,9 +2255,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_134,
-    name: 'Medidata Solutions',
-    domainNamePrimaryLinkUrl: 'medidata.com',
-    addressAddressCity: 'New York',
+    name: 'Indus Infra Partners',
+    domainNamePrimaryLinkUrl: 'indusinfrapartners.in',
+    addressAddressCity: 'Ahmedabad',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/medidata-solutions',
     createdBySource: 'SYSTEM',
@@ -2268,10 +2268,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_135,
-    name: 'Commvault',
-    domainNamePrimaryLinkUrl: 'commvault.com',
-    addressAddressCity: 'Eatontown',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/commvault',
+    name: 'Prestige Hills Realty',
+    domainNamePrimaryLinkUrl: 'prestigehillsrealty.in',
+    addressAddressCity: 'Bengaluru',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/prestigehillsrealty',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -2280,10 +2280,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_136,
-    name: 'ConnectWise',
-    domainNamePrimaryLinkUrl: 'connectwise.com',
-    addressAddressCity: 'Tampa',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/connectwise',
+    name: 'Kohinoor Infra Partners',
+    domainNamePrimaryLinkUrl: 'kohinoorinfrapartners.in',
+    addressAddressCity: 'Nashik',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/kohinoorinfrapartners',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -2292,10 +2292,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_137,
-    name: 'BILL',
-    domainNamePrimaryLinkUrl: 'bill.com',
-    addressAddressCity: 'Alviso',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/bill',
+    name: 'Sahyadri Property Consultants',
+    domainNamePrimaryLinkUrl: 'sahyadripropertyconsultants.in',
+    addressAddressCity: 'Nashik',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/sahyadripropertyconsultants',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -2304,10 +2304,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_138,
-    name: 'Alteryx',
-    domainNamePrimaryLinkUrl: 'alteryx.com',
-    addressAddressCity: 'Irvine',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/alteryx',
+    name: 'Maratha Infra Partners',
+    domainNamePrimaryLinkUrl: 'marathainfrapartners.in',
+    addressAddressCity: 'Pune',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/marathainfrapartners',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -2316,10 +2316,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_139,
-    name: 'MNC Software',
-    domainNamePrimaryLinkUrl: 'mncsoftware.com',
-    addressAddressCity: 'San Diego',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/mnc-software',
+    name: 'Lotus Investments',
+    domainNamePrimaryLinkUrl: 'lotusinvestments.in',
+    addressAddressCity: 'Hyderabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/lotusinvestments',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -2328,10 +2328,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_140,
-    name: 'Celonis',
-    domainNamePrimaryLinkUrl: 'celonis.com',
-    addressAddressCity: 'New York',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/celonis',
+    name: 'Shree Ganesh Land Brokers',
+    domainNamePrimaryLinkUrl: 'shreeganeshlandbrokers.in',
+    addressAddressCity: 'Ahmedabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/shreeganeshlandbrokers',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -2340,10 +2340,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_141,
-    name: 'Attachmate',
-    domainNamePrimaryLinkUrl: 'microfocus.com',
-    addressAddressCity: 'Seattle',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/attachmate',
+    name: 'Arihant Infra Partners',
+    domainNamePrimaryLinkUrl: 'arihantinfrapartners.in',
+    addressAddressCity: 'Nagpur',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/arihantinfrapartners',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -2352,10 +2352,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_142,
-    name: 'NETSCOUT',
-    domainNamePrimaryLinkUrl: 'netscout.com',
-    addressAddressCity: 'Westford',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/netscout',
+    name: 'Kaveri Homes Associates',
+    domainNamePrimaryLinkUrl: 'kaverihomesassociates.in',
+    addressAddressCity: 'Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/kaverihomesassociates',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -2364,10 +2364,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_143,
-    name: 'Confluent',
-    domainNamePrimaryLinkUrl: 'confluent.io',
-    addressAddressCity: 'Mountain View',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/confluent',
+    name: 'Nirmal Infra Partners',
+    domainNamePrimaryLinkUrl: 'nirmalinfrapartners.in',
+    addressAddressCity: 'Pune',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/nirmalinfrapartners',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -2376,10 +2376,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_144,
-    name: 'Samsara',
-    domainNamePrimaryLinkUrl: 'samsara.com',
-    addressAddressCity: 'San Francisco',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/samsara',
+    name: 'Harmony Infra Partners',
+    domainNamePrimaryLinkUrl: 'harmonyinfrapartners.in',
+    addressAddressCity: 'Ahmedabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/harmonyinfrapartners',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -2388,10 +2388,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_145,
-    name: 'Chetu, Inc.',
-    domainNamePrimaryLinkUrl: 'chetu.com',
-    addressAddressCity: 'Fort Lauderdale',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/chetu-inc-',
+    name: 'Gateway Infra Partners',
+    domainNamePrimaryLinkUrl: 'gatewayinfrapartners.in',
+    addressAddressCity: 'Navi Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/gatewayinfrapartners',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -2400,10 +2400,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_146,
-    name: 'Kronos Incorporated',
-    domainNamePrimaryLinkUrl: 'ukg.com',
-    addressAddressCity: 'Lowell',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/kronos',
+    name: 'Konkan Infra Partners',
+    domainNamePrimaryLinkUrl: 'konkaninfrapartners.in',
+    addressAddressCity: 'Pune',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/konkaninfrapartners',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -2412,10 +2412,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_147,
-    name: 'Qlik',
-    domainNamePrimaryLinkUrl: 'qlik.com',
-    addressAddressCity: 'King Of Prussia',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/qlik',
+    name: 'Shree Ganesh Realty',
+    domainNamePrimaryLinkUrl: 'shreeganeshrealty.in',
+    addressAddressCity: 'Gurugram',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/shreeganeshrealty',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -2424,10 +2424,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_148,
-    name: 'Vertafore',
-    domainNamePrimaryLinkUrl: 'vertafore.com',
-    addressAddressCity: 'Denver',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/vertafore',
+    name: 'Metro Properties LLP',
+    domainNamePrimaryLinkUrl: 'metropropertiesllp.in',
+    addressAddressCity: 'Hyderabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/metropropertiesllp',
     createdBySource: 'SYSTEM',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -2436,10 +2436,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_149,
-    name: 'Asana',
-    domainNamePrimaryLinkUrl: 'asana.com',
-    addressAddressCity: 'San Francisco',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/asana',
+    name: 'Metro Housing Services',
+    domainNamePrimaryLinkUrl: 'metrohousingservices.in',
+    addressAddressCity: 'Hyderabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/metrohousingservices',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -2448,10 +2448,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_150,
-    name: 'Jamf',
-    domainNamePrimaryLinkUrl: 'jamf.com',
-    addressAddressCity: 'Minneapolis',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/jamf-software',
+    name: 'Shivam Estate Advisors',
+    domainNamePrimaryLinkUrl: 'shivamestateadvisors.in',
+    addressAddressCity: 'Kolkata',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/shivamestateadvisors',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -2460,10 +2460,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_151,
-    name: 'Paycor',
-    domainNamePrimaryLinkUrl: 'paycor.com',
-    addressAddressCity: 'Cincinnati',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/paycor',
+    name: 'Kohinoor Housing Services',
+    domainNamePrimaryLinkUrl: 'kohinoorhousingservices.in',
+    addressAddressCity: 'Ahmedabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/kohinoorhousingservices',
     createdBySource: 'SYSTEM',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -2472,10 +2472,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_152,
-    name: 'Hudl',
-    domainNamePrimaryLinkUrl: 'hudl.com',
-    addressAddressCity: 'Lincoln',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/hudl',
+    name: 'Swastik Properties LLP',
+    domainNamePrimaryLinkUrl: 'swastikpropertiesllp.in',
+    addressAddressCity: 'Thane',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/swastikpropertiesllp',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -2484,10 +2484,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_153,
-    name: 'Precisely',
-    domainNamePrimaryLinkUrl: 'precisely.com',
-    addressAddressCity: 'Burlington',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/preciselydata',
+    name: 'Orchid Homes Associates',
+    domainNamePrimaryLinkUrl: 'orchidhomesassociates.in',
+    addressAddressCity: 'Navi Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/orchidhomesassociates',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -2496,10 +2496,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_154,
-    name: 'New Relic',
-    domainNamePrimaryLinkUrl: 'newrelic.com',
-    addressAddressCity: 'San Francisco',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/new-relic-inc-',
+    name: 'Heritage Property Consultants',
+    domainNamePrimaryLinkUrl: 'heritagepropertyconsultants.in',
+    addressAddressCity: 'Nashik',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/heritagepropertyconsultants',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -2508,10 +2508,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_155,
-    name: 'Aptean',
-    domainNamePrimaryLinkUrl: 'aptean.com',
-    addressAddressCity: 'Alpharetta',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/aptean',
+    name: 'Navkar Realty',
+    domainNamePrimaryLinkUrl: 'navkarrealty.in',
+    addressAddressCity: 'Bengaluru',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/navkarrealty',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -2520,10 +2520,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_156,
-    name: 'o9 Solutions, Inc.',
-    domainNamePrimaryLinkUrl: 'o9solutions.com',
-    addressAddressCity: 'Dallas',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/o9solutions',
+    name: 'Shree Ganesh Estate Advisors',
+    domainNamePrimaryLinkUrl: 'shreeganeshestateadvisors.in',
+    addressAddressCity: 'Kolkata',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/shreeganeshestateadvisors',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -2532,10 +2532,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_157,
-    name: 'SpotOn',
-    domainNamePrimaryLinkUrl: 'spoton.com',
-    addressAddressCity: 'San Francisco',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/spoton',
+    name: 'Aadhar Realtors',
+    domainNamePrimaryLinkUrl: 'aadharrealtors.in',
+    addressAddressCity: 'Bengaluru',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/aadharrealtors',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -2544,9 +2544,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_158,
-    name: 'Automation Anywhere',
-    domainNamePrimaryLinkUrl: 'automationanywhere.com',
-    addressAddressCity: 'San Jose',
+    name: 'Dwarka Properties LLP',
+    domainNamePrimaryLinkUrl: 'dwarkapropertiesllp.in',
+    addressAddressCity: 'Kolkata',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/automation-anywhere',
     createdBySource: 'EMAIL',
@@ -2557,10 +2557,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_159,
-    name: 'Tekion Corp',
-    domainNamePrimaryLinkUrl: 'tekion.com',
-    addressAddressCity: 'Pleasanton',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/tekion',
+    name: 'Sunrise Investments',
+    domainNamePrimaryLinkUrl: 'sunriseinvestments.in',
+    addressAddressCity: 'Hyderabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/sunriseinvestments',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -2569,10 +2569,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_160,
-    name: 'Aurora',
-    domainNamePrimaryLinkUrl: 'aurora.tech',
-    addressAddressCity: 'Mountain View',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/aurora-inc.',
+    name: 'Sunrise Realty',
+    domainNamePrimaryLinkUrl: 'sunriserealty.in',
+    addressAddressCity: 'Chennai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/sunriserealty',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -2581,10 +2581,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_161,
-    name: 'SolarWinds',
-    domainNamePrimaryLinkUrl: 'solarwinds.com',
-    addressAddressCity: 'Austin',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/solarwinds',
+    name: 'Gateway Property Consultants',
+    domainNamePrimaryLinkUrl: 'gatewaypropertyconsultants.in',
+    addressAddressCity: 'Thane',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/gatewaypropertyconsultants',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -2593,10 +2593,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_162,
-    name: 'GoTo',
-    domainNamePrimaryLinkUrl: 'goto.com',
-    addressAddressCity: 'Boston',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/goto',
+    name: 'Ashoka Homes Associates',
+    domainNamePrimaryLinkUrl: 'ashokahomesassociates.in',
+    addressAddressCity: 'Pune',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/ashokahomesassociates',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -2605,10 +2605,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_163,
-    name: 'PROS',
-    domainNamePrimaryLinkUrl: 'pros.com',
-    addressAddressCity: 'Houston',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/pros',
+    name: 'Harmony Homes Associates',
+    domainNamePrimaryLinkUrl: 'harmonyhomesassociates.in',
+    addressAddressCity: 'Navi Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/harmonyhomesassociates',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -2617,10 +2617,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_164,
-    name: 'Miro',
-    domainNamePrimaryLinkUrl: 'miro.com',
-    addressAddressCity: 'San Francisco',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/mirohq',
+    name: 'Gateway Realty',
+    domainNamePrimaryLinkUrl: 'gatewayrealty.in',
+    addressAddressCity: 'Navi Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/gatewayrealty',
     createdBySource: 'SYSTEM',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -2629,10 +2629,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_165,
-    name: 'Kofax',
-    domainNamePrimaryLinkUrl: 'kofax.com',
-    addressAddressCity: 'Irvine',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/kofax',
+    name: 'Dwarka Estate Advisors',
+    domainNamePrimaryLinkUrl: 'dwarkaestateadvisors.in',
+    addressAddressCity: 'Chennai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/dwarkaestateadvisors',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -2641,10 +2641,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_166,
-    name: 'Accolite Digital',
-    domainNamePrimaryLinkUrl: 'accolite.com',
-    addressAddressCity: 'Addison',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/accolitedigital',
+    name: 'Prestige Hills Properties LLP',
+    domainNamePrimaryLinkUrl: 'prestigehillspropertiesllp.in',
+    addressAddressCity: 'Kolkata',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/prestigehillspropertiesllp',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -2653,10 +2653,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_167,
-    name: 'HashiCorp',
-    domainNamePrimaryLinkUrl: 'hashicorp.com',
-    addressAddressCity: 'San Francisco',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/hashicorp',
+    name: 'Swastik Investments',
+    domainNamePrimaryLinkUrl: 'swastikinvestments.in',
+    addressAddressCity: 'Pune',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/swastikinvestments',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -2665,10 +2665,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_168,
-    name: 'Pluralsight',
-    domainNamePrimaryLinkUrl: 'pluralsight.com',
-    addressAddressCity: 'Draper',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/pluralsight',
+    name: 'Swastik Realty',
+    domainNamePrimaryLinkUrl: 'swastikrealty.in',
+    addressAddressCity: 'Thane',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/swastikrealty',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -2677,9 +2677,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_169,
-    name: 'Bottomline Technologies',
-    domainNamePrimaryLinkUrl: 'bottomline.com',
-    addressAddressCity: 'Portsmouth',
+    name: 'Kaveri Property Consultants',
+    domainNamePrimaryLinkUrl: 'kaveripropertyconsultants.in',
+    addressAddressCity: 'Kolkata',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/bottomline-technologies',
     createdBySource: 'EMAIL',
@@ -2690,10 +2690,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_170,
-    name: 'Anaplan',
-    domainNamePrimaryLinkUrl: 'anaplan.com',
-    addressAddressCity: 'San Francisco',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/anaplan',
+    name: 'Western Ghats Realtors',
+    domainNamePrimaryLinkUrl: 'westernghatsrealtors.in',
+    addressAddressCity: 'Navi Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/westernghatsrealtors',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -2702,10 +2702,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_171,
-    name: 'OneTrust',
-    domainNamePrimaryLinkUrl: 'onetrust.com',
-    addressAddressCity: 'Atlanta',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/onetrust',
+    name: 'Skyline Property Consultants',
+    domainNamePrimaryLinkUrl: 'skylinepropertyconsultants.in',
+    addressAddressCity: 'Thane',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/skylinepropertyconsultants',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -2714,10 +2714,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_172,
-    name: 'Medallia',
-    domainNamePrimaryLinkUrl: 'medallia.com',
-    addressAddressCity: 'Pleasanton',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/medallia-inc.',
+    name: 'Indus Property Consultants',
+    domainNamePrimaryLinkUrl: 'induspropertyconsultants.in',
+    addressAddressCity: 'Pune',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/induspropertyconsultants',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -2726,9 +2726,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_173,
-    name: 'SailPoint',
-    domainNamePrimaryLinkUrl: 'sailpoint.com',
-    addressAddressCity: 'Austin',
+    name: 'Metro Realtors',
+    domainNamePrimaryLinkUrl: 'metrorealtors.in',
+    addressAddressCity: 'Gurugram',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/sailpoint-technologies',
     createdBySource: 'WEBHOOK',
@@ -2739,9 +2739,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_174,
-    name: 'Appian Corporation',
-    domainNamePrimaryLinkUrl: 'appian.com',
-    addressAddressCity: 'Mc Lean',
+    name: 'Kaveri Properties LLP',
+    domainNamePrimaryLinkUrl: 'kaveripropertiesllp.in',
+    addressAddressCity: 'Nagpur',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/appian-corporation',
     createdBySource: 'EMAIL',
@@ -2752,10 +2752,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_175,
-    name: 'Dealertrack',
-    domainNamePrimaryLinkUrl: 'dealertrack.com',
-    addressAddressCity: 'New Hyde Park',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/dealertrack',
+    name: 'Konkan Investments',
+    domainNamePrimaryLinkUrl: 'konkaninvestments.in',
+    addressAddressCity: 'Gurugram',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/konkaninvestments',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -2764,10 +2764,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_176,
-    name: 'impact.com',
-    domainNamePrimaryLinkUrl: 'impact.com',
-    addressAddressCity: 'Santa Barbara',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/impactdotcom',
+    name: 'Raj Hans Land Brokers',
+    domainNamePrimaryLinkUrl: 'rajhanslandbrokers.in',
+    addressAddressCity: 'Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/rajhanslandbrokers',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -2776,10 +2776,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_177,
-    name: 'Inhabit\u00ae',
-    domainNamePrimaryLinkUrl: 'inhabitiq.com',
-    addressAddressCity: 'Knoxville',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/inhabit-iq',
+    name: 'Dwarka Housing Services',
+    domainNamePrimaryLinkUrl: 'dwarkahousingservices.in',
+    addressAddressCity: 'Ahmedabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/dwarkahousingservices',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -2788,10 +2788,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_178,
-    name: 'SymphonyAI',
-    domainNamePrimaryLinkUrl: 'symphonyai.com',
-    addressAddressCity: 'Palo Alto',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/symphonyai',
+    name: 'Sahyadri Realty',
+    domainNamePrimaryLinkUrl: 'sahyadrirealty.in',
+    addressAddressCity: 'Kolkata',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/sahyadrirealty',
     createdBySource: 'SYSTEM',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -2800,9 +2800,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_179,
-    name: 'CCC Intelligent Solutions',
-    domainNamePrimaryLinkUrl: 'cccis.com',
-    addressAddressCity: 'Chicago',
+    name: 'Godavari Homes Associates',
+    domainNamePrimaryLinkUrl: 'godavarihomesassociates.in',
+    addressAddressCity: 'Chennai',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/ccc-intelligent-solutions',
     createdBySource: 'IMPORT',
@@ -2813,10 +2813,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_180,
-    name: 'Toshiba Global Commerce Solutions',
-    domainNamePrimaryLinkUrl: 'toshiba.com',
-    addressAddressCity: 'Durham',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/toshibacommerce',
+    name: 'Aadhar Realty',
+    domainNamePrimaryLinkUrl: 'aadharrealty.in',
+    addressAddressCity: 'Chennai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/aadharrealty',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -2825,10 +2825,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_181,
-    name: 'Vertex Inc.',
-    domainNamePrimaryLinkUrl: 'vertexinc.com',
-    addressAddressCity: 'King Of Prussia',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/vertex-inc.',
+    name: 'Godavari Estate Advisors',
+    domainNamePrimaryLinkUrl: 'godavariestateadvisors.in',
+    addressAddressCity: 'Kolkata',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/godavariestateadvisors',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -2837,10 +2837,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_182,
-    name: 'PRO Unlimited',
-    domainNamePrimaryLinkUrl: 'magnitglobal.com',
-    addressAddressCity: 'San Francisco',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/prounlimited',
+    name: 'Kaveri Estate Advisors',
+    domainNamePrimaryLinkUrl: 'kaveriestateadvisors.in',
+    addressAddressCity: 'Gurugram',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/kaveriestateadvisors',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -2849,10 +2849,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_183,
-    name: 'Five9',
-    domainNamePrimaryLinkUrl: 'five9.com',
-    addressAddressCity: 'San Ramon',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/five9',
+    name: 'Trimurti Homes Associates',
+    domainNamePrimaryLinkUrl: 'trimurtihomesassociates.in',
+    addressAddressCity: 'Hyderabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/trimurtihomesassociates',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -2861,10 +2861,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_184,
-    name: 'Cohesity',
-    domainNamePrimaryLinkUrl: 'cohesity.com',
-    addressAddressCity: 'San Jose',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/cohesity',
+    name: 'Pinnacle Housing Services',
+    domainNamePrimaryLinkUrl: 'pinnaclehousingservices.in',
+    addressAddressCity: 'Nashik',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/pinnaclehousingservices',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -2873,10 +2873,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_185,
-    name: 'Wind River',
-    domainNamePrimaryLinkUrl: 'windriver.com',
-    addressAddressCity: 'Alameda',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/wind-river',
+    name: 'Indus Homes Associates',
+    domainNamePrimaryLinkUrl: 'indushomesassociates.in',
+    addressAddressCity: 'Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/indushomesassociates',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -2885,10 +2885,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_186,
-    name: 'Icertis',
-    domainNamePrimaryLinkUrl: 'icertis.com',
-    addressAddressCity: 'Bellevue',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/icertis',
+    name: 'Western Ghats Property Consultants',
+    domainNamePrimaryLinkUrl: 'westernghatspropertyconsultants.in',
+    addressAddressCity: 'Navi Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/westernghatspropertyconsultants',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -2897,10 +2897,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_187,
-    name: 'Navan',
-    domainNamePrimaryLinkUrl: 'navan.com',
-    addressAddressCity: 'Palo Alto',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/navan',
+    name: 'Evergreen Realty',
+    domainNamePrimaryLinkUrl: 'evergreenrealty.in',
+    addressAddressCity: 'Chennai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/evergreenrealty',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -2909,9 +2909,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_188,
-    name: 'Diligent',
-    domainNamePrimaryLinkUrl: 'diligent.com',
-    addressAddressCity: 'New York',
+    name: 'Prestige Hills Estate Advisors',
+    domainNamePrimaryLinkUrl: 'prestigehillsestateadvisors.in',
+    addressAddressCity: 'Gurugram',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/diligent-board-member-services',
     createdBySource: 'EMAIL',
@@ -2922,10 +2922,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_189,
-    name: 'Applied Systems',
-    domainNamePrimaryLinkUrl: 'appliedsystems.com',
-    addressAddressCity: 'University Park',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/applied-systems',
+    name: 'Sunrise Properties LLP',
+    domainNamePrimaryLinkUrl: 'sunrisepropertiesllp.in',
+    addressAddressCity: 'Thane',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/sunrisepropertiesllp',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -2934,10 +2934,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_190,
-    name: 'Forcepoint',
-    domainNamePrimaryLinkUrl: 'forcepoint.com',
-    addressAddressCity: 'Austin',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/forcepoint',
+    name: 'Pinnacle Estate Advisors',
+    domainNamePrimaryLinkUrl: 'pinnacleestateadvisors.in',
+    addressAddressCity: 'Ahmedabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/pinnacleestateadvisors',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -2946,10 +2946,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_191,
-    name: 'Compuware',
-    domainNamePrimaryLinkUrl: 'bmc.com',
-    addressAddressCity: 'Detroit',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/compuware',
+    name: 'Lotus Housing Services',
+    domainNamePrimaryLinkUrl: 'lotushousingservices.in',
+    addressAddressCity: 'Pune',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/lotushousingservices',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -2958,10 +2958,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_192,
-    name: 'Netsmart',
-    domainNamePrimaryLinkUrl: 'ntst.com',
-    addressAddressCity: 'Leawood',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/netsmart',
+    name: 'Sunrise Housing Services',
+    domainNamePrimaryLinkUrl: 'sunrisehousingservices.in',
+    addressAddressCity: 'Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/sunrisehousingservices',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -2970,9 +2970,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_193,
-    name: 'The Apache Software Foundation',
-    domainNamePrimaryLinkUrl: 'apache.org',
-    addressAddressCity: 'Wilmington',
+    name: 'Prestige Hills Realtors',
+    domainNamePrimaryLinkUrl: 'prestigehillsrealtors.in',
+    addressAddressCity: 'Hyderabad',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/the-apache-software-foundation',
     createdBySource: 'MANUAL',
@@ -2983,10 +2983,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_194,
-    name: 'ArisGlobal',
-    domainNamePrimaryLinkUrl: 'arisglobal.com',
-    addressAddressCity: 'Miami',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/aris-global',
+    name: 'Orchid Estate Advisors',
+    domainNamePrimaryLinkUrl: 'orchidestateadvisors.in',
+    addressAddressCity: 'Nagpur',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/orchidestateadvisors',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -2995,9 +2995,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_195,
-    name: 'WORKING BY MY SELF',
-    domainNamePrimaryLinkUrl: 'fcutechnologies.com',
-    addressAddressCity: 'Fort Lauderdale',
+    name: 'Kaveri Infra Partners',
+    domainNamePrimaryLinkUrl: 'kaveriinfrapartners.in',
+    addressAddressCity: 'Navi Mumbai',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/working-by-my-self',
     createdBySource: 'EMAIL',
@@ -3008,10 +3008,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_196,
-    name: 'Varonis',
-    domainNamePrimaryLinkUrl: 'varonis.com',
-    addressAddressCity: 'New York',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/varonis',
+    name: 'Raj Hans Investments',
+    domainNamePrimaryLinkUrl: 'rajhansinvestments.in',
+    addressAddressCity: 'Kolkata',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/rajhansinvestments',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -3020,10 +3020,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_197,
-    name: 'Fever',
-    domainNamePrimaryLinkUrl: 'feverup.com',
-    addressAddressCity: 'New York',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/fever-up',
+    name: 'Metro Infra Partners',
+    domainNamePrimaryLinkUrl: 'metroinfrapartners.in',
+    addressAddressCity: 'Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/metroinfrapartners',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -3032,10 +3032,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_198,
-    name: 'Agilysys',
-    domainNamePrimaryLinkUrl: 'agilysys.com',
-    addressAddressCity: 'Alpharetta',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/agilysys',
+    name: 'Bhumi Homes Associates',
+    domainNamePrimaryLinkUrl: 'bhumihomesassociates.in',
+    addressAddressCity: 'Chennai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/bhumihomesassociates',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -3044,10 +3044,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_199,
-    name: 'OutSystems',
-    domainNamePrimaryLinkUrl: 'outsystems.com',
-    addressAddressCity: 'Boston',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/outsystems',
+    name: 'Skyline Realtors',
+    domainNamePrimaryLinkUrl: 'skylinerealtors.in',
+    addressAddressCity: 'Pune',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/skylinerealtors',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -3056,10 +3056,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_200,
-    name: 'Entrata',
-    domainNamePrimaryLinkUrl: 'entrata.com',
-    addressAddressCity: 'Lehi',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/entratasoftware',
+    name: 'Nirmal Realty',
+    domainNamePrimaryLinkUrl: 'nirmalrealty.in',
+    addressAddressCity: 'Chennai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/nirmalrealty',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -3068,10 +3068,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_201,
-    name: 'Verkada',
-    domainNamePrimaryLinkUrl: 'verkada.com',
-    addressAddressCity: 'San Mateo',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/verkada',
+    name: 'Harmony Property Consultants',
+    domainNamePrimaryLinkUrl: 'harmonypropertyconsultants.in',
+    addressAddressCity: 'Nashik',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/harmonypropertyconsultants',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -3080,10 +3080,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_202,
-    name: 'Majesco',
-    domainNamePrimaryLinkUrl: 'majesco.com',
-    addressAddressCity: 'Morristown',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/majesco',
+    name: 'Navkar Realtors',
+    domainNamePrimaryLinkUrl: 'navkarrealtors.in',
+    addressAddressCity: 'Navi Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/navkarrealtors',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -3092,10 +3092,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_203,
-    name: 'Boomi',
-    domainNamePrimaryLinkUrl: 'boomi.com',
-    addressAddressCity: 'Wayne',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/boomi-inc',
+    name: 'Om Sai Land Brokers',
+    domainNamePrimaryLinkUrl: 'omsailandbrokers.in',
+    addressAddressCity: 'Pune',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/omsailandbrokers',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -3104,10 +3104,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_204,
-    name: 'PDI Technologies',
-    domainNamePrimaryLinkUrl: 'pditechnologies.com',
-    addressAddressCity: 'Alpharetta',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/pdi-technologies',
+    name: 'Swastik Estate Advisors',
+    domainNamePrimaryLinkUrl: 'swastikestateadvisors.in',
+    addressAddressCity: 'Hyderabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/swastikestateadvisors',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -3116,10 +3116,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_205,
-    name: 'ServiceTitan',
-    domainNamePrimaryLinkUrl: 'servicetitan.com',
-    addressAddressCity: 'Glendale',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/servicetitan',
+    name: 'Shree Ganesh Infra Partners',
+    domainNamePrimaryLinkUrl: 'shreeganeshinfrapartners.in',
+    addressAddressCity: 'Thane',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/shreeganeshinfrapartners',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -3128,10 +3128,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_206,
-    name: 'Sitecore',
-    domainNamePrimaryLinkUrl: 'sitecore.com',
-    addressAddressCity: 'San Francisco',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/sitecore',
+    name: 'Bhumi Estate Advisors',
+    domainNamePrimaryLinkUrl: 'bhumiestateadvisors.in',
+    addressAddressCity: 'Nashik',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/bhumiestateadvisors',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -3140,10 +3140,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_207,
-    name: 'SAP SuccessFactors',
-    domainNamePrimaryLinkUrl: 'sap.com',
-    addressAddressCity: 'South San Francisco',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/successfactors',
+    name: 'Dwarka Investments',
+    domainNamePrimaryLinkUrl: 'dwarkainvestments.in',
+    addressAddressCity: 'Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/dwarkainvestments',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -3152,10 +3152,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_208,
-    name: 'Postman',
-    domainNamePrimaryLinkUrl: 'postman.com',
-    addressAddressCity: 'San Francisco',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/postman-platform',
+    name: 'Bhumi Realtors',
+    domainNamePrimaryLinkUrl: 'bhumirealtors.in',
+    addressAddressCity: 'Thane',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/bhumirealtors',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -3164,10 +3164,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_209,
-    name: 'Scale AI',
-    domainNamePrimaryLinkUrl: 'scale.com',
-    addressAddressCity: 'San Francisco',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/scaleai',
+    name: 'Sahyadri Infra Partners',
+    domainNamePrimaryLinkUrl: 'sahyadriinfrapartners.in',
+    addressAddressCity: 'Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/sahyadriinfrapartners',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -3176,9 +3176,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_210,
-    name: 'Duck Creek Technologies',
-    domainNamePrimaryLinkUrl: 'duckcreek.com',
-    addressAddressCity: 'Boston',
+    name: 'Vastu Homes Associates',
+    domainNamePrimaryLinkUrl: 'vastuhomesassociates.in',
+    addressAddressCity: 'Thane',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/duck-creek-technologies',
     createdBySource: 'MANUAL',
@@ -3189,9 +3189,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_211,
-    name: 'MICROS Systems Inc',
-    domainNamePrimaryLinkUrl: 'oracle.com',
-    addressAddressCity: 'Columbia',
+    name: 'Konkan Realtors',
+    domainNamePrimaryLinkUrl: 'konkanrealtors.in',
+    addressAddressCity: 'Ahmedabad',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/micros-systems-inc',
     createdBySource: 'IMPORT',
@@ -3202,9 +3202,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_212,
-    name: 'Riverbed Technology',
-    domainNamePrimaryLinkUrl: 'riverbed.com',
-    addressAddressCity: 'San Francisco',
+    name: 'Lotus Realty',
+    domainNamePrimaryLinkUrl: 'lotusrealty.in',
+    addressAddressCity: 'Gurugram',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/riverbed-technology',
     createdBySource: 'MANUAL',
@@ -3215,10 +3215,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_213,
-    name: 'Fast Enterprises, LLC',
-    domainNamePrimaryLinkUrl: 'fastenterprises.com',
-    addressAddressCity: 'Englewood',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/fast-enterprises',
+    name: 'Arihant Housing Services',
+    domainNamePrimaryLinkUrl: 'arihanthousingservices.in',
+    addressAddressCity: 'Nagpur',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/arihanthousingservices',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -3227,10 +3227,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_214,
-    name: 'Alvaria, Inc.',
-    domainNamePrimaryLinkUrl: 'alvaria.com',
-    addressAddressCity: 'Westford',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/alvaria-inc',
+    name: 'Raj Hans Infra Partners',
+    domainNamePrimaryLinkUrl: 'rajhansinfrapartners.in',
+    addressAddressCity: 'Chennai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/rajhansinfrapartners',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -3239,10 +3239,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_215,
-    name: 'BlackLine',
-    domainNamePrimaryLinkUrl: 'blackline.com',
-    addressAddressCity: 'Woodland Hills',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/blackline',
+    name: 'Raj Hans Property Consultants',
+    domainNamePrimaryLinkUrl: 'rajhanspropertyconsultants.in',
+    addressAddressCity: 'Chennai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/rajhanspropertyconsultants',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -3251,10 +3251,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_216,
-    name: '3Pillar Global',
-    domainNamePrimaryLinkUrl: '3pillarglobal.com',
-    addressAddressCity: 'Fairfax',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/3pillar-global',
+    name: 'Sunrise Infra Partners',
+    domainNamePrimaryLinkUrl: 'sunriseinfrapartners.in',
+    addressAddressCity: 'Thane',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/sunriseinfrapartners',
     createdBySource: 'SYSTEM',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -3263,9 +3263,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_217,
-    name: 'Saama',
-    domainNamePrimaryLinkUrl: 'saama.com',
-    addressAddressCity: 'Campbell',
+    name: 'Trimurti Infra Partners',
+    domainNamePrimaryLinkUrl: 'trimurtiinfrapartners.in',
+    addressAddressCity: 'Chennai',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/saama-technologies',
     createdBySource: 'API',
@@ -3276,10 +3276,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_218,
-    name: 'Ancestry',
-    domainNamePrimaryLinkUrl: 'ancestry.com',
-    addressAddressCity: 'Lehi',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/ancestry.com',
+    name: 'Om Sai Property Consultants',
+    domainNamePrimaryLinkUrl: 'omsaipropertyconsultants.in',
+    addressAddressCity: 'Kolkata',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/omsaipropertyconsultants',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -3288,9 +3288,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_219,
-    name: 'insightsoftware',
-    domainNamePrimaryLinkUrl: 'insightsoftware.com',
-    addressAddressCity: 'Raleigh',
+    name: 'Nirmal Estate Advisors',
+    domainNamePrimaryLinkUrl: 'nirmalestateadvisors.in',
+    addressAddressCity: 'Hyderabad',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/outcomes-by-insightsoftware',
     createdBySource: 'EMAIL',
@@ -3301,10 +3301,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_220,
-    name: 'Ebix',
-    domainNamePrimaryLinkUrl: 'ebix.com',
-    addressAddressCity: 'Duluth',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/ebix',
+    name: 'Shivam Land Brokers',
+    domainNamePrimaryLinkUrl: 'shivamlandbrokers.in',
+    addressAddressCity: 'Chennai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/shivamlandbrokers',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -3313,10 +3313,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_221,
-    name: 'Zuora',
-    domainNamePrimaryLinkUrl: 'zuora.com',
-    addressAddressCity: 'Redwood City',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/zuora',
+    name: 'Kohinoor Property Consultants',
+    domainNamePrimaryLinkUrl: 'kohinoorpropertyconsultants.in',
+    addressAddressCity: 'Ahmedabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/kohinoorpropertyconsultants',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -3325,10 +3325,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_222,
-    name: 'IntelyCare',
-    domainNamePrimaryLinkUrl: 'intelycare.com',
-    addressAddressCity: 'Quincy',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/intelycare',
+    name: 'Trimurti Land Brokers',
+    domainNamePrimaryLinkUrl: 'trimurtilandbrokers.in',
+    addressAddressCity: 'Thane',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/trimurtilandbrokers',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -3337,10 +3337,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_223,
-    name: 'Axway',
-    domainNamePrimaryLinkUrl: 'axway.com',
-    addressAddressCity: 'Scottsdale',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/axway',
+    name: 'Charminar Homes Associates',
+    domainNamePrimaryLinkUrl: 'charminarhomesassociates.in',
+    addressAddressCity: 'Pune',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/charminarhomesassociates',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -3349,10 +3349,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_224,
-    name: 'Community Brands',
-    domainNamePrimaryLinkUrl: 'communitybrands.com',
-    addressAddressCity: 'Saint Petersburg',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/communitybrands',
+    name: 'Arihant Realtors',
+    domainNamePrimaryLinkUrl: 'arihantrealtors.in',
+    addressAddressCity: 'Nashik',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/arihantrealtors',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -3361,10 +3361,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_225,
-    name: 'InterSystems',
-    domainNamePrimaryLinkUrl: 'intersystems.com',
-    addressAddressCity: 'Cambridge',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/intersystems',
+    name: 'Dwarka Infra Partners',
+    domainNamePrimaryLinkUrl: 'dwarkainfrapartners.in',
+    addressAddressCity: 'Navi Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/dwarkainfrapartners',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -3373,9 +3373,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_226,
-    name: 'Mozilla',
-    domainNamePrimaryLinkUrl: 'mozilla.org',
-    addressAddressCity: 'San Francisco',
+    name: 'Prestige Hills Investments',
+    domainNamePrimaryLinkUrl: 'prestigehillsinvestments.in',
+    addressAddressCity: 'Navi Mumbai',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/mozilla-corporation',
     createdBySource: 'API',
@@ -3386,10 +3386,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_227,
-    name: 'Semrush',
-    domainNamePrimaryLinkUrl: 'semrush.com',
-    addressAddressCity: 'Boston',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/semrush',
+    name: 'Raj Hans Properties LLP',
+    domainNamePrimaryLinkUrl: 'rajhanspropertiesllp.in',
+    addressAddressCity: 'Ahmedabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/rajhanspropertiesllp',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -3398,10 +3398,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_228,
-    name: 'Avid',
-    domainNamePrimaryLinkUrl: 'avid.com',
-    addressAddressCity: 'Burlington',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/avid-technology',
+    name: 'Prestige Hills Homes Associates',
+    domainNamePrimaryLinkUrl: 'prestigehillshomesassociates.in',
+    addressAddressCity: 'Nashik',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/prestigehillshomesassociates',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -3410,10 +3410,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_229,
-    name: 'Conga',
-    domainNamePrimaryLinkUrl: 'conga.com',
-    addressAddressCity: 'Broomfield',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/conga',
+    name: 'Konkan Property Consultants',
+    domainNamePrimaryLinkUrl: 'konkanpropertyconsultants.in',
+    addressAddressCity: 'Pune',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/konkanpropertyconsultants',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -3422,10 +3422,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_230,
-    name: 'InfoBeans',
-    domainNamePrimaryLinkUrl: 'infobeans.com',
-    addressAddressCity: 'Danville',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/infobeans',
+    name: 'Trimurti Estate Advisors',
+    domainNamePrimaryLinkUrl: 'trimurtiestateadvisors.in',
+    addressAddressCity: 'Hyderabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/trimurtiestateadvisors',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -3434,10 +3434,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_231,
-    name: 'AppFolio, Inc.',
-    domainNamePrimaryLinkUrl: 'appfolioinc.com',
-    addressAddressCity: 'Goleta',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/appfolio-inc',
+    name: 'Shree Ganesh Property Consultants',
+    domainNamePrimaryLinkUrl: 'shreeganeshpropertyconsultants.in',
+    addressAddressCity: 'Hyderabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/shreeganeshpropertyconsultants',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -3446,10 +3446,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_232,
-    name: 'Sovos',
-    domainNamePrimaryLinkUrl: 'sovos.com',
-    addressAddressCity: 'Wilmington',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/sovos',
+    name: 'Charminar Realty',
+    domainNamePrimaryLinkUrl: 'charminarrealty.in',
+    addressAddressCity: 'Kolkata',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/charminarrealty',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -3458,10 +3458,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_233,
-    name: 'nCino, Inc.',
-    domainNamePrimaryLinkUrl: 'ncino.com',
-    addressAddressCity: 'Wilmington',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/ncino-inc-',
+    name: 'Kohinoor Estate Advisors',
+    domainNamePrimaryLinkUrl: 'kohinoorestateadvisors.in',
+    addressAddressCity: 'Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/kohinoorestateadvisors',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -3470,10 +3470,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_234,
-    name: 'Vistex',
-    domainNamePrimaryLinkUrl: 'vistex.com',
-    addressAddressCity: 'Hoffman Estates',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/vistex',
+    name: 'Kaveri Investments',
+    domainNamePrimaryLinkUrl: 'kaveriinvestments.in',
+    addressAddressCity: 'Hyderabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/kaveriinvestments',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -3482,10 +3482,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_235,
-    name: 'Taboola',
-    domainNamePrimaryLinkUrl: 'taboola.com',
-    addressAddressCity: 'New York',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/taboola',
+    name: 'Godavari Infra Partners',
+    domainNamePrimaryLinkUrl: 'godavariinfrapartners.in',
+    addressAddressCity: 'Chennai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/godavariinfrapartners',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -3494,10 +3494,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_236,
-    name: 'EverCommerce',
-    domainNamePrimaryLinkUrl: 'evercommerce.com',
-    addressAddressCity: 'Denver',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/evercommerce',
+    name: 'Prestige Hills Land Brokers',
+    domainNamePrimaryLinkUrl: 'prestigehillslandbrokers.in',
+    addressAddressCity: 'Kolkata',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/prestigehillslandbrokers',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -3506,10 +3506,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_237,
-    name: 'Virgin Pulse',
-    domainNamePrimaryLinkUrl: 'virginpulse.com',
-    addressAddressCity: 'Providence',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/virgin-pulse',
+    name: 'Trimurti Housing Services',
+    domainNamePrimaryLinkUrl: 'trimurtihousingservices.in',
+    addressAddressCity: 'Ahmedabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/trimurtihousingservices',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -3518,10 +3518,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_238,
-    name: 'Houzz',
-    domainNamePrimaryLinkUrl: 'houzz.com',
-    addressAddressCity: 'Palo Alto',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/houzz',
+    name: 'Trimurti Realty',
+    domainNamePrimaryLinkUrl: 'trimurtirealty.in',
+    addressAddressCity: 'Nashik',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/trimurtirealty',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -3530,10 +3530,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_239,
-    name: 'AvidXchange, Inc.',
-    domainNamePrimaryLinkUrl: 'avidxchange.com',
-    addressAddressCity: 'Charlotte',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/avidxchange-inc-',
+    name: 'Harmony Realty',
+    domainNamePrimaryLinkUrl: 'harmonyrealty.in',
+    addressAddressCity: 'Pune',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/harmonyrealty',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -3542,10 +3542,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_240,
-    name: 'Planview, Inc.',
-    domainNamePrimaryLinkUrl: 'planview.com',
-    addressAddressCity: 'Austin',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/planview',
+    name: 'Aadhar Homes Associates',
+    domainNamePrimaryLinkUrl: 'aadharhomesassociates.in',
+    addressAddressCity: 'Kolkata',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/aadharhomesassociates',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -3554,10 +3554,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_241,
-    name: 'HackerRank',
-    domainNamePrimaryLinkUrl: 'hackerrank.com',
-    addressAddressCity: 'Mountain View',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/hackerrank',
+    name: 'Silver Oak Housing Services',
+    domainNamePrimaryLinkUrl: 'silveroakhousingservices.in',
+    addressAddressCity: 'Pune',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/silveroakhousingservices',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -3566,9 +3566,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_242,
-    name: 'Clearwater Analytics',
-    domainNamePrimaryLinkUrl: 'clearwateranalytics.com',
-    addressAddressCity: 'Boise',
+    name: 'Heritage Realty',
+    domainNamePrimaryLinkUrl: 'heritagerealty.in',
+    addressAddressCity: 'Thane',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/clearwateranalytics',
     createdBySource: 'WEBHOOK',
@@ -3579,10 +3579,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_243,
-    name: 'Outreach',
-    domainNamePrimaryLinkUrl: 'outreach.io',
-    addressAddressCity: 'Seattle',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/outreach-saas',
+    name: 'Metro Estate Advisors',
+    domainNamePrimaryLinkUrl: 'metroestateadvisors.in',
+    addressAddressCity: 'Hyderabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/metroestateadvisors',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -3591,10 +3591,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_244,
-    name: 'Everbridge',
-    domainNamePrimaryLinkUrl: 'everbridge.com',
-    addressAddressCity: 'Burlington',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/everbridge',
+    name: 'Skyline Homes Associates',
+    domainNamePrimaryLinkUrl: 'skylinehomesassociates.in',
+    addressAddressCity: 'Thane',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/skylinehomesassociates',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -3603,10 +3603,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_245,
-    name: 'Zycus',
-    domainNamePrimaryLinkUrl: 'zycus.com',
-    addressAddressCity: 'Princeton',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/zycus',
+    name: 'Pinnacle Homes Associates',
+    domainNamePrimaryLinkUrl: 'pinnaclehomesassociates.in',
+    addressAddressCity: 'Thane',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/pinnaclehomesassociates',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -3615,10 +3615,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_246,
-    name: 'Bullhorn',
-    domainNamePrimaryLinkUrl: 'bullhorn.com',
-    addressAddressCity: 'Boston',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/bullhorn',
+    name: 'Sunrise Estate Advisors',
+    domainNamePrimaryLinkUrl: 'sunriseestateadvisors.in',
+    addressAddressCity: 'Nagpur',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/sunriseestateadvisors',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -3627,10 +3627,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_247,
-    name: 'LivePerson',
-    domainNamePrimaryLinkUrl: 'liveperson.com',
-    addressAddressCity: 'New York',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/liveperson',
+    name: 'Gateway Realtors',
+    domainNamePrimaryLinkUrl: 'gatewayrealtors.in',
+    addressAddressCity: 'Chennai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/gatewayrealtors',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -3639,10 +3639,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_248,
-    name: 'Relativity',
-    domainNamePrimaryLinkUrl: 'relativity.com',
-    addressAddressCity: 'Chicago',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/relativityhq',
+    name: 'Mahalaxmi Homes Associates',
+    domainNamePrimaryLinkUrl: 'mahalaxmihomesassociates.in',
+    addressAddressCity: 'Bengaluru',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/mahalaxmihomesassociates',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -3651,10 +3651,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_249,
-    name: 'HealthEdge',
-    domainNamePrimaryLinkUrl: 'healthedge.com',
-    addressAddressCity: 'Burlington',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/healthedge',
+    name: 'Deccan Infra Partners',
+    domainNamePrimaryLinkUrl: 'deccaninfrapartners.in',
+    addressAddressCity: 'Kolkata',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/deccaninfrapartners',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -3663,10 +3663,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_250,
-    name: 'QAD',
-    domainNamePrimaryLinkUrl: 'qad.com',
-    addressAddressCity: 'Santa Barbara',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/qad',
+    name: 'Mahalaxmi Housing Services',
+    domainNamePrimaryLinkUrl: 'mahalaxmihousingservices.in',
+    addressAddressCity: 'Bengaluru',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/mahalaxmihousingservices',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -3675,10 +3675,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_251,
-    name: 'Braze',
-    domainNamePrimaryLinkUrl: 'braze.com',
-    addressAddressCity: 'New York',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/braze-',
+    name: 'Harmony Realtors',
+    domainNamePrimaryLinkUrl: 'harmonyrealtors.in',
+    addressAddressCity: 'Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/harmonyrealtors',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -3687,10 +3687,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_252,
-    name: 'Exadel',
-    domainNamePrimaryLinkUrl: 'exadel.com',
-    addressAddressCity: 'Walnut Creek',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/exadel',
+    name: 'Deccan Realtors',
+    domainNamePrimaryLinkUrl: 'deccanrealtors.in',
+    addressAddressCity: 'Pune',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/deccanrealtors',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -3699,10 +3699,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_253,
-    name: 'Phenom',
-    domainNamePrimaryLinkUrl: 'phenom.com',
-    addressAddressCity: 'Ambler',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/phenomtxm',
+    name: 'Ashoka Infra Partners',
+    domainNamePrimaryLinkUrl: 'ashokainfrapartners.in',
+    addressAddressCity: 'Thane',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/ashokainfrapartners',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -3711,10 +3711,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_254,
-    name: 'Bazaarvoice',
-    domainNamePrimaryLinkUrl: 'bazaarvoice.com',
-    addressAddressCity: 'Austin',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/bazaarvoice',
+    name: 'Shree Ganesh Investments',
+    domainNamePrimaryLinkUrl: 'shreeganeshinvestments.in',
+    addressAddressCity: 'Kolkata',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/shreeganeshinvestments',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -3723,10 +3723,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_255,
-    name: 'AppDynamics',
-    domainNamePrimaryLinkUrl: 'appdynamics.com',
-    addressAddressCity: 'San Francisco',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/appdynamics',
+    name: 'Western Ghats Homes Associates',
+    domainNamePrimaryLinkUrl: 'westernghatshomesassociates.in',
+    addressAddressCity: 'Navi Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/westernghatshomesassociates',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -3735,9 +3735,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_256,
-    name: 'Mitchell International',
-    domainNamePrimaryLinkUrl: 'mitchell.com',
-    addressAddressCity: 'San Diego',
+    name: 'Ashoka Housing Services',
+    domainNamePrimaryLinkUrl: 'ashokahousingservices.in',
+    addressAddressCity: 'Navi Mumbai',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/mitchell-international',
     createdBySource: 'WORKFLOW',
@@ -3748,10 +3748,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_257,
-    name: 'Talkdesk',
-    domainNamePrimaryLinkUrl: 'talkdesk.com',
-    addressAddressCity: 'San Francisco',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/talkdesk',
+    name: 'Western Ghats Estate Advisors',
+    domainNamePrimaryLinkUrl: 'westernghatsestateadvisors.in',
+    addressAddressCity: 'Ahmedabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/westernghatsestateadvisors',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -3760,10 +3760,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_258,
-    name: 'Hughes Systique Corporation (HSC)',
-    domainNamePrimaryLinkUrl: 'hsc.com',
-    addressAddressCity: 'Rockville',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/hsc',
+    name: 'Heritage Realtors',
+    domainNamePrimaryLinkUrl: 'heritagerealtors.in',
+    addressAddressCity: 'Bengaluru',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/heritagerealtors',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -3772,10 +3772,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_259,
-    name: 'Avature',
-    domainNamePrimaryLinkUrl: 'avature.net',
-    addressAddressCity: 'New York',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/avature',
+    name: 'Evergreen Properties LLP',
+    domainNamePrimaryLinkUrl: 'evergreenpropertiesllp.in',
+    addressAddressCity: 'Ahmedabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/evergreenpropertiesllp',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -3784,10 +3784,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_260,
-    name: 'Anyone Home Inc',
-    domainNamePrimaryLinkUrl: 'anyonehome.com',
-    addressAddressCity: 'Lake Forest',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/anyone-home-inc',
+    name: 'Silver Oak Property Consultants',
+    domainNamePrimaryLinkUrl: 'silveroakpropertyconsultants.in',
+    addressAddressCity: 'Nashik',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/silveroakpropertyconsultants',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -3796,10 +3796,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_261,
-    name: 'Engineer.ai',
-    domainNamePrimaryLinkUrl: 'builder.ai',
-    addressAddressCity: 'Venice',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/engineer.ai',
+    name: 'Om Sai Infra Partners',
+    domainNamePrimaryLinkUrl: 'omsaiinfrapartners.in',
+    addressAddressCity: 'Thane',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/omsaiinfrapartners',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -3808,10 +3808,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_262,
-    name: 'Apptio',
-    domainNamePrimaryLinkUrl: 'apptio.com',
-    addressAddressCity: 'Bellevue',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/apptio',
+    name: 'Trimurti Property Consultants',
+    domainNamePrimaryLinkUrl: 'trimurtipropertyconsultants.in',
+    addressAddressCity: 'Hyderabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/trimurtipropertyconsultants',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -3820,10 +3820,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_263,
-    name: 'KMS Technology, Inc.',
-    domainNamePrimaryLinkUrl: 'kms-technology.com',
-    addressAddressCity: 'Atlanta',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/kms-technology',
+    name: 'Maratha Realtors',
+    domainNamePrimaryLinkUrl: 'maratharealtors.in',
+    addressAddressCity: 'Thane',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/maratharealtors',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -3832,10 +3832,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_264,
-    name: 'JFrog',
-    domainNamePrimaryLinkUrl: 'jfrog.com',
-    addressAddressCity: 'Sunnyvale',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/jfrog-ltd',
+    name: 'Kalpavriksha Housing Services',
+    domainNamePrimaryLinkUrl: 'kalpavrikshahousingservices.in',
+    addressAddressCity: 'Pune',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/kalpavrikshahousingservices',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -3844,10 +3844,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_265,
-    name: 'ASG Technologies',
-    domainNamePrimaryLinkUrl: 'asg.com',
-    addressAddressCity: 'Naples',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/asg',
+    name: 'Western Ghats Investments',
+    domainNamePrimaryLinkUrl: 'westernghatsinvestments.in',
+    addressAddressCity: 'Hyderabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/westernghatsinvestments',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -3856,10 +3856,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_266,
-    name: 'Seismic',
-    domainNamePrimaryLinkUrl: 'seismic.com',
-    addressAddressCity: 'San Diego',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/seismic',
+    name: 'Maratha Land Brokers',
+    domainNamePrimaryLinkUrl: 'marathalandbrokers.in',
+    addressAddressCity: 'Ahmedabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/marathalandbrokers',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -3868,9 +3868,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_267,
-    name: 'ModMed',
-    domainNamePrimaryLinkUrl: 'modmed.com',
-    addressAddressCity: 'Boca Raton',
+    name: 'Gateway Housing Services',
+    domainNamePrimaryLinkUrl: 'gatewayhousingservices.in',
+    addressAddressCity: 'Nagpur',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/modernizing-medicine',
     createdBySource: 'IMPORT',
@@ -3881,10 +3881,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_268,
-    name: 'ACV Auctions',
-    domainNamePrimaryLinkUrl: 'acvauctions.com',
-    addressAddressCity: 'Buffalo',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/acv-auctions',
+    name: 'Indus Land Brokers',
+    domainNamePrimaryLinkUrl: 'induslandbrokers.in',
+    addressAddressCity: 'Hyderabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/induslandbrokers',
     createdBySource: 'SYSTEM',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -3893,10 +3893,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_269,
-    name: 'Cerence Inc.',
-    domainNamePrimaryLinkUrl: 'cerence.com',
-    addressAddressCity: 'Burlington',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/cerence',
+    name: 'Deccan Land Brokers',
+    domainNamePrimaryLinkUrl: 'deccanlandbrokers.in',
+    addressAddressCity: 'Navi Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/deccanlandbrokers',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -3905,10 +3905,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_270,
-    name: 'Via',
-    domainNamePrimaryLinkUrl: 'ridewithvia.com',
-    addressAddressCity: 'New York',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/ridewithvia',
+    name: 'Vastu Realty',
+    domainNamePrimaryLinkUrl: 'vasturealty.in',
+    addressAddressCity: 'Hyderabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/vasturealty',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -3917,10 +3917,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_271,
-    name: 'Kingsoft',
-    domainNamePrimaryLinkUrl: 'ksosoft.com',
-    addressAddressCity: 'Palo Alto',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/kingsoft',
+    name: 'Skyline Properties LLP',
+    domainNamePrimaryLinkUrl: 'skylinepropertiesllp.in',
+    addressAddressCity: 'Chennai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/skylinepropertiesllp',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -3929,10 +3929,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_272,
-    name: 'Model N',
-    domainNamePrimaryLinkUrl: 'modeln.com',
-    addressAddressCity: 'San Mateo',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/modeln',
+    name: 'Nirmal Realtors',
+    domainNamePrimaryLinkUrl: 'nirmalrealtors.in',
+    addressAddressCity: 'Gurugram',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/nirmalrealtors',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -3941,10 +3941,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_273,
-    name: 'ThoughtSpot',
-    domainNamePrimaryLinkUrl: 'thoughtspot.com',
-    addressAddressCity: 'Mountain View',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/thoughtspot',
+    name: 'Lotus Realtors',
+    domainNamePrimaryLinkUrl: 'lotusrealtors.in',
+    addressAddressCity: 'Nagpur',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/lotusrealtors',
     createdBySource: 'SYSTEM',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -3953,9 +3953,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_274,
-    name: 'SSS',
-    domainNamePrimaryLinkUrl: 'getebs.com',
-    addressAddressCity: 'Littleton',
+    name: 'Bhumi Properties LLP',
+    domainNamePrimaryLinkUrl: 'bhumipropertiesllp.in',
+    addressAddressCity: 'Bengaluru',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/employee-based-software',
     createdBySource: 'CALENDAR',
@@ -3966,10 +3966,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_275,
-    name: 'BeyondTrust',
-    domainNamePrimaryLinkUrl: 'beyondtrust.com',
-    addressAddressCity: 'Duluth',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/beyondtrust',
+    name: 'Vastu Land Brokers',
+    domainNamePrimaryLinkUrl: 'vastulandbrokers.in',
+    addressAddressCity: 'Thane',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/vastulandbrokers',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -3978,10 +3978,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_276,
-    name: 'MetricStream',
-    domainNamePrimaryLinkUrl: 'metricstream.com',
-    addressAddressCity: 'Alviso',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/metricstream',
+    name: 'Deccan Housing Services',
+    domainNamePrimaryLinkUrl: 'deccanhousingservices.in',
+    addressAddressCity: 'Navi Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/deccanhousingservices',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -3990,10 +3990,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_277,
-    name: 'LogMeIn',
-    domainNamePrimaryLinkUrl: 'logmeininc.com',
-    addressAddressCity: 'Boston',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/logmein',
+    name: 'Navkar Estate Advisors',
+    domainNamePrimaryLinkUrl: 'navkarestateadvisors.in',
+    addressAddressCity: 'Bengaluru',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/navkarestateadvisors',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -4002,10 +4002,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_278,
-    name: 'Khoros',
-    domainNamePrimaryLinkUrl: 'khoros.com',
-    addressAddressCity: 'Austin',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/khoros',
+    name: 'Deccan Properties LLP',
+    domainNamePrimaryLinkUrl: 'deccanpropertiesllp.in',
+    addressAddressCity: 'Kolkata',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/deccanpropertiesllp',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -4014,9 +4014,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_279,
-    name: 'Sprout Social, Inc.',
-    domainNamePrimaryLinkUrl: 'sproutsocial.com',
-    addressAddressCity: 'Chicago',
+    name: 'Malabar Homes Associates',
+    domainNamePrimaryLinkUrl: 'malabarhomesassociates.in',
+    addressAddressCity: 'Nashik',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/sprout-social-inc-',
     createdBySource: 'EMAIL',
@@ -4027,10 +4027,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_280,
-    name: 'Odessa',
-    domainNamePrimaryLinkUrl: 'odessainc.com',
-    addressAddressCity: 'Philadelphia',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/odessa-inc-',
+    name: 'Indus Housing Services',
+    domainNamePrimaryLinkUrl: 'indushousingservices.in',
+    addressAddressCity: 'Chennai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/indushousingservices',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -4039,10 +4039,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_281,
-    name: 'Enverus',
-    domainNamePrimaryLinkUrl: 'enverus.com',
-    addressAddressCity: 'Austin',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/enverus-energy',
+    name: 'Maratha Property Consultants',
+    domainNamePrimaryLinkUrl: 'marathapropertyconsultants.in',
+    addressAddressCity: 'Navi Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/marathapropertyconsultants',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -4051,10 +4051,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_282,
-    name: 'AvePoint',
-    domainNamePrimaryLinkUrl: 'avepoint.com',
-    addressAddressCity: 'Jersey City',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/avepoint',
+    name: 'Deccan Realty',
+    domainNamePrimaryLinkUrl: 'deccanrealty.in',
+    addressAddressCity: 'Kolkata',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/deccanrealty',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -4063,10 +4063,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_283,
-    name: 'Gong',
-    domainNamePrimaryLinkUrl: 'gong.io',
-    addressAddressCity: 'San Francisco',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/gong-io',
+    name: 'Raj Hans Estate Advisors',
+    domainNamePrimaryLinkUrl: 'rajhansestateadvisors.in',
+    addressAddressCity: 'Gurugram',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/rajhansestateadvisors',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -4075,10 +4075,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_284,
-    name: 'Syncfusion',
-    domainNamePrimaryLinkUrl: 'syncfusion.com',
-    addressAddressCity: 'Morrisville',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/syncfusion',
+    name: 'Maratha Investments',
+    domainNamePrimaryLinkUrl: 'marathainvestments.in',
+    addressAddressCity: 'Gurugram',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/marathainvestments',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -4087,10 +4087,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_285,
-    name: 'Ping Identity',
-    domainNamePrimaryLinkUrl: 'pingidentity.com',
-    addressAddressCity: 'Denver',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/ping-identity',
+    name: 'Om Sai Homes Associates',
+    domainNamePrimaryLinkUrl: 'omsaihomesassociates.in',
+    addressAddressCity: 'Bengaluru',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/omsaihomesassociates',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -4099,10 +4099,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_286,
-    name: 'WellSky',
-    domainNamePrimaryLinkUrl: 'wellsky.com',
-    addressAddressCity: 'Overland Park',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/wellsky',
+    name: 'Skyline Infra Partners',
+    domainNamePrimaryLinkUrl: 'skylineinfrapartners.in',
+    addressAddressCity: 'Bengaluru',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/skylineinfrapartners',
     createdBySource: 'SYSTEM',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -4111,10 +4111,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_287,
-    name: 'Tricentis',
-    domainNamePrimaryLinkUrl: 'tricentis.com',
-    addressAddressCity: 'Austin',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/tricentis',
+    name: 'Aadhar Property Consultants',
+    domainNamePrimaryLinkUrl: 'aadharpropertyconsultants.in',
+    addressAddressCity: 'Navi Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/aadharpropertyconsultants',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -4123,10 +4123,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_288,
-    name: 'Taskrabbit',
-    domainNamePrimaryLinkUrl: 'taskrabbit.com',
-    addressAddressCity: 'San Francisco',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/taskrabbit',
+    name: 'Pinnacle Property Consultants',
+    domainNamePrimaryLinkUrl: 'pinnaclepropertyconsultants.in',
+    addressAddressCity: 'Thane',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/pinnaclepropertyconsultants',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -4135,10 +4135,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_289,
-    name: 'Syniti',
-    domainNamePrimaryLinkUrl: 'syniti.com',
-    addressAddressCity: 'Needham Heights',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/synitidata',
+    name: 'Orchid Investments',
+    domainNamePrimaryLinkUrl: 'orchidinvestments.in',
+    addressAddressCity: 'Thane',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/orchidinvestments',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -4147,10 +4147,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_290,
-    name: 'BigCommerce',
-    domainNamePrimaryLinkUrl: 'bigcommerce.com',
-    addressAddressCity: 'Austin',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/bigcommerce',
+    name: 'Bhumi Realty',
+    domainNamePrimaryLinkUrl: 'bhumirealty.in',
+    addressAddressCity: 'Hyderabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/bhumirealty',
     createdBySource: 'SYSTEM',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -4159,10 +4159,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_291,
-    name: 'OEC',
-    domainNamePrimaryLinkUrl: 'oeconnection.com',
-    addressAddressCity: 'Richfield',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/oeconnection',
+    name: 'Ashoka Realtors',
+    domainNamePrimaryLinkUrl: 'ashokarealtors.in',
+    addressAddressCity: 'Bengaluru',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/ashokarealtors',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -4171,10 +4171,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_292,
-    name: 'Calsoft',
-    domainNamePrimaryLinkUrl: 'calsoftinc.com',
-    addressAddressCity: 'San Jose',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/calsoft',
+    name: 'Aadhar Estate Advisors',
+    domainNamePrimaryLinkUrl: 'aadharestateadvisors.in',
+    addressAddressCity: 'Ahmedabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/aadharestateadvisors',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -4183,9 +4183,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_293,
-    name: 'Taller',
-    domainNamePrimaryLinkUrl: 'tallertechnologies.com',
-    addressAddressCity: 'San Francisco',
+    name: 'Sahyadri Land Brokers',
+    domainNamePrimaryLinkUrl: 'sahyadrilandbrokers.in',
+    addressAddressCity: 'Chennai',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/taller-technologies',
     createdBySource: 'MANUAL',
@@ -4196,10 +4196,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_294,
-    name: 'Planet',
-    domainNamePrimaryLinkUrl: 'planet.com',
-    addressAddressCity: 'San Francisco',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/planet-labs',
+    name: 'Narmada Properties LLP',
+    domainNamePrimaryLinkUrl: 'narmadapropertiesllp.in',
+    addressAddressCity: 'Nagpur',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/narmadapropertiesllp',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -4208,10 +4208,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_295,
-    name: '6sense',
-    domainNamePrimaryLinkUrl: '6sense.com',
-    addressAddressCity: 'San Francisco',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/6sense',
+    name: 'Kalpavriksha Infra Partners',
+    domainNamePrimaryLinkUrl: 'kalpavrikshainfrapartners.in',
+    addressAddressCity: 'Ahmedabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/kalpavrikshainfrapartners',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -4220,9 +4220,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_296,
-    name: 'Vitech Systems Group',
-    domainNamePrimaryLinkUrl: 'vitechinc.com',
-    addressAddressCity: 'New York',
+    name: 'Swastik Land Brokers',
+    domainNamePrimaryLinkUrl: 'swastiklandbrokers.in',
+    addressAddressCity: 'Thane',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/vitech-systems-group',
     createdBySource: 'WEBHOOK',
@@ -4233,10 +4233,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_297,
-    name: 'Smarsh',
-    domainNamePrimaryLinkUrl: 'smarsh.com',
-    addressAddressCity: 'Portland',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/smarsh',
+    name: 'Charminar Property Consultants',
+    domainNamePrimaryLinkUrl: 'charminarpropertyconsultants.in',
+    addressAddressCity: 'Navi Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/charminarpropertyconsultants',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -4245,10 +4245,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_298,
-    name: 'NICE Actimize',
-    domainNamePrimaryLinkUrl: 'niceactimize.com',
-    addressAddressCity: 'Hoboken',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/actimize',
+    name: 'Mahalaxmi Estate Advisors',
+    domainNamePrimaryLinkUrl: 'mahalaxmiestateadvisors.in',
+    addressAddressCity: 'Chennai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/mahalaxmiestateadvisors',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -4257,10 +4257,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_299,
-    name: 'Dataiku',
-    domainNamePrimaryLinkUrl: 'dataiku.com',
-    addressAddressCity: 'New York',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/dataiku',
+    name: 'Indus Realty',
+    domainNamePrimaryLinkUrl: 'indusrealty.in',
+    addressAddressCity: 'Thane',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/indusrealty',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -4269,10 +4269,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_300,
-    name: 'Liferay',
-    domainNamePrimaryLinkUrl: 'liferay.com',
-    addressAddressCity: 'Diamond Bar',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/liferay-inc-',
+    name: 'Ashoka Realty',
+    domainNamePrimaryLinkUrl: 'ashokarealty.in',
+    addressAddressCity: 'Gurugram',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/ashokarealty',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -4281,10 +4281,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_301,
-    name: 'Gainsight',
-    domainNamePrimaryLinkUrl: 'gainsight.com',
-    addressAddressCity: 'San Francisco',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/gainsight',
+    name: 'Deccan Homes Associates',
+    domainNamePrimaryLinkUrl: 'deccanhomesassociates.in',
+    addressAddressCity: 'Bengaluru',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/deccanhomesassociates',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -4293,10 +4293,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_302,
-    name: 'Infotech',
-    domainNamePrimaryLinkUrl: 'infotechinc.com',
-    addressAddressCity: 'Gainesville',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/infotech-inc',
+    name: 'Kohinoor Realtors',
+    domainNamePrimaryLinkUrl: 'kohinoorrealtors.in',
+    addressAddressCity: 'Ahmedabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/kohinoorrealtors',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -4305,10 +4305,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_303,
-    name: 'JAGGAER',
-    domainNamePrimaryLinkUrl: 'jaggaer.com',
-    addressAddressCity: 'Morrisville',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/jaggaer',
+    name: 'Charminar Land Brokers',
+    domainNamePrimaryLinkUrl: 'charminarlandbrokers.in',
+    addressAddressCity: 'Thane',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/charminarlandbrokers',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -4317,10 +4317,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_304,
-    name: 'Checkr, Inc.',
-    domainNamePrimaryLinkUrl: 'checkr.com',
-    addressAddressCity: 'San Francisco',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/checkr-com',
+    name: 'Navkar Properties LLP',
+    domainNamePrimaryLinkUrl: 'navkarpropertiesllp.in',
+    addressAddressCity: 'Hyderabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/navkarpropertiesllp',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -4329,10 +4329,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_305,
-    name: 'CARFAX',
-    domainNamePrimaryLinkUrl: 'carfax.com',
-    addressAddressCity: 'Centreville',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/carfax',
+    name: 'Arihant Investments',
+    domainNamePrimaryLinkUrl: 'arihantinvestments.in',
+    addressAddressCity: 'Thane',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/arihantinvestments',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -4341,10 +4341,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_306,
-    name: 'Lucid Software',
-    domainNamePrimaryLinkUrl: 'lucid.co',
-    addressAddressCity: 'South Jordan',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/lucidsoftware',
+    name: 'Malabar Property Consultants',
+    domainNamePrimaryLinkUrl: 'malabarpropertyconsultants.in',
+    addressAddressCity: 'Hyderabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/malabarpropertyconsultants',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -4353,10 +4353,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_307,
-    name: 'Domo',
-    domainNamePrimaryLinkUrl: 'domo.com',
-    addressAddressCity: 'American Fork',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/domotalk',
+    name: 'Evergreen Property Consultants',
+    domainNamePrimaryLinkUrl: 'evergreenpropertyconsultants.in',
+    addressAddressCity: 'Bengaluru',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/evergreenpropertyconsultants',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -4365,10 +4365,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_308,
-    name: 'Podium',
-    domainNamePrimaryLinkUrl: 'podium.com',
-    addressAddressCity: 'Lehi',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/podium',
+    name: 'Shree Ganesh Homes Associates',
+    domainNamePrimaryLinkUrl: 'shreeganeshhomesassociates.in',
+    addressAddressCity: 'Gurugram',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/shreeganeshhomesassociates',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -4377,10 +4377,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_309,
-    name: 'Mendix',
-    domainNamePrimaryLinkUrl: 'mendix.com',
-    addressAddressCity: 'Boston',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/mendix',
+    name: 'Vastu Housing Services',
+    domainNamePrimaryLinkUrl: 'vastuhousingservices.in',
+    addressAddressCity: 'Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/vastuhousingservices',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -4389,10 +4389,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_310,
-    name: 'EDB',
-    domainNamePrimaryLinkUrl: 'edbpostgres.com',
-    addressAddressCity: 'Bedford',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/edbpostgres',
+    name: 'Western Ghats Properties LLP',
+    domainNamePrimaryLinkUrl: 'westernghatspropertiesllp.in',
+    addressAddressCity: 'Gurugram',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/westernghatspropertiesllp',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -4401,9 +4401,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_311,
-    name: 'OneStream Software',
-    domainNamePrimaryLinkUrl: 'onestreamsoftware.com',
-    addressAddressCity: 'Birmingham',
+    name: 'Godavari Realty',
+    domainNamePrimaryLinkUrl: 'godavarirealty.in',
+    addressAddressCity: 'Nashik',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/onestream-software',
     createdBySource: 'EMAIL',
@@ -4414,10 +4414,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_312,
-    name: 'Rent.',
-    domainNamePrimaryLinkUrl: 'rent.com',
-    addressAddressCity: 'Atlanta',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/rentsolutions',
+    name: 'Arihant Homes Associates',
+    domainNamePrimaryLinkUrl: 'arihanthomesassociates.in',
+    addressAddressCity: 'Ahmedabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/arihanthomesassociates',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -4426,10 +4426,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_313,
-    name: 'Waystar',
-    domainNamePrimaryLinkUrl: 'waystar.com',
-    addressAddressCity: 'Louisville',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/waystar',
+    name: 'Gateway Properties LLP',
+    domainNamePrimaryLinkUrl: 'gatewaypropertiesllp.in',
+    addressAddressCity: 'Thane',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/gatewaypropertiesllp',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -4438,10 +4438,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_314,
-    name: '2020',
-    domainNamePrimaryLinkUrl: '2020spaces.com',
-    addressAddressCity: 'Westford',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/2020spaces',
+    name: 'Dwarka Realtors',
+    domainNamePrimaryLinkUrl: 'dwarkarealtors.in',
+    addressAddressCity: 'Gurugram',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/dwarkarealtors',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -4450,10 +4450,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_315,
-    name: 'isolved',
-    domainNamePrimaryLinkUrl: 'isolvedhcm.com',
-    addressAddressCity: 'Charlotte',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/isolved',
+    name: 'Mahalaxmi Infra Partners',
+    domainNamePrimaryLinkUrl: 'mahalaxmiinfrapartners.in',
+    addressAddressCity: 'Gurugram',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/mahalaxmiinfrapartners',
     createdBySource: 'SYSTEM',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -4462,10 +4462,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_316,
-    name: 'Art Technology Group',
-    domainNamePrimaryLinkUrl: 'atg.com',
-    addressAddressCity: 'Cambridge',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/atg',
+    name: 'Sunrise Homes Associates',
+    domainNamePrimaryLinkUrl: 'sunrisehomesassociates.in',
+    addressAddressCity: 'Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/sunrisehomesassociates',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -4474,10 +4474,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_317,
-    name: 'CAST',
-    domainNamePrimaryLinkUrl: 'castsoftware.com',
-    addressAddressCity: 'New York',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/cast',
+    name: 'Nirmal Land Brokers',
+    domainNamePrimaryLinkUrl: 'nirmallandbrokers.in',
+    addressAddressCity: 'Hyderabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/nirmallandbrokers',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -4486,10 +4486,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_318,
-    name: 'OCLC',
-    domainNamePrimaryLinkUrl: 'oc.lc',
-    addressAddressCity: 'Dublin',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/oclc',
+    name: 'Kaveri Realty',
+    domainNamePrimaryLinkUrl: 'kaverirealty.in',
+    addressAddressCity: 'Pune',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/kaverirealty',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -4498,10 +4498,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_319,
-    name: 'Mediaocean',
-    domainNamePrimaryLinkUrl: 'mediaocean.com',
-    addressAddressCity: 'New York',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/mediaocean',
+    name: 'Kohinoor Homes Associates',
+    domainNamePrimaryLinkUrl: 'kohinoorhomesassociates.in',
+    addressAddressCity: 'Nagpur',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/kohinoorhomesassociates',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -4510,10 +4510,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_320,
-    name: 'Bandwidth Inc.',
-    domainNamePrimaryLinkUrl: 'bandwidth.com',
-    addressAddressCity: 'Raleigh',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/bandwidth-inc',
+    name: 'Malabar Estate Advisors',
+    domainNamePrimaryLinkUrl: 'malabarestateadvisors.in',
+    addressAddressCity: 'Nagpur',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/malabarestateadvisors',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -4522,9 +4522,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_321,
-    name: 'Hexagon Safety, Infrastructure & Geospatial',
-    domainNamePrimaryLinkUrl: 'hexagonsafetyinfrastructure.com',
-    addressAddressCity: 'Madison',
+    name: 'Om Sai Estate Advisors',
+    domainNamePrimaryLinkUrl: 'omsaiestateadvisors.in',
+    addressAddressCity: 'Nagpur',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/hexagon-geospatial',
     createdBySource: 'CALENDAR',
@@ -4535,10 +4535,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_322,
-    name: 'Wish',
-    domainNamePrimaryLinkUrl: 'wish.com',
-    addressAddressCity: 'San Francisco',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/wishshopping',
+    name: 'Evergreen Estate Advisors',
+    domainNamePrimaryLinkUrl: 'evergreenestateadvisors.in',
+    addressAddressCity: 'Bengaluru',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/evergreenestateadvisors',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -4547,9 +4547,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_323,
-    name: 'Sagitec Solutions',
-    domainNamePrimaryLinkUrl: 'sagitec.com',
-    addressAddressCity: 'Saint Paul',
+    name: 'Kalpavriksha Homes Associates',
+    domainNamePrimaryLinkUrl: 'kalpavrikshahomesassociates.in',
+    addressAddressCity: 'Thane',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/sagitec-solutions',
     createdBySource: 'IMPORT',
@@ -4560,10 +4560,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_324,
-    name: 'Zinnia ',
-    domainNamePrimaryLinkUrl: 'zinnia.com',
-    addressAddressCity: 'Greenwich',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/zinniatm',
+    name: 'Konkan Land Brokers',
+    domainNamePrimaryLinkUrl: 'konkanlandbrokers.in',
+    addressAddressCity: 'Thane',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/konkanlandbrokers',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -4572,10 +4572,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_325,
-    name: 'CureMD',
-    domainNamePrimaryLinkUrl: 'curemd.com',
-    addressAddressCity: 'New York',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/curemd',
+    name: 'Bhumi Land Brokers',
+    domainNamePrimaryLinkUrl: 'bhumilandbrokers.in',
+    addressAddressCity: 'Nagpur',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/bhumilandbrokers',
     createdBySource: 'SYSTEM',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -4584,10 +4584,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_326,
-    name: 'Druva',
-    domainNamePrimaryLinkUrl: 'druva.com',
-    addressAddressCity: 'Santa Clara',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/druva',
+    name: 'Kohinoor Realty',
+    domainNamePrimaryLinkUrl: 'kohinoorrealty.in',
+    addressAddressCity: 'Ahmedabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/kohinoorrealty',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -4596,9 +4596,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_327,
-    name: 'Restaurant365',
-    domainNamePrimaryLinkUrl: 'restaurant365.com',
-    addressAddressCity: 'Irvine',
+    name: 'Malabar Land Brokers',
+    domainNamePrimaryLinkUrl: 'malabarlandbrokers.in',
+    addressAddressCity: 'Ahmedabad',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/restaurant365-cloud-erp-for-restaurants',
     createdBySource: 'MANUAL',
@@ -4609,10 +4609,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_328,
-    name: 'Lawson Software',
-    domainNamePrimaryLinkUrl: 'lawson.com',
-    addressAddressCity: 'New York',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/lawson-software',
+    name: 'Aadhar Investments',
+    domainNamePrimaryLinkUrl: 'aadharinvestments.in',
+    addressAddressCity: 'Bengaluru',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/aadharinvestments',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -4621,10 +4621,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_329,
-    name: 'AlphaSense',
-    domainNamePrimaryLinkUrl: 'alpha-sense.com',
-    addressAddressCity: 'New York',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/alphasense',
+    name: 'Godavari Investments',
+    domainNamePrimaryLinkUrl: 'godavariinvestments.in',
+    addressAddressCity: 'Gurugram',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/godavariinvestments',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -4633,9 +4633,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_330,
-    name: 'ECI Software Solutions',
-    domainNamePrimaryLinkUrl: 'ecisolutions.com',
-    addressAddressCity: 'Fort Worth',
+    name: 'Western Ghats Realty',
+    domainNamePrimaryLinkUrl: 'westernghatsrealty.in',
+    addressAddressCity: 'Navi Mumbai',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/eci-software--solutions',
     createdBySource: 'MANUAL',
@@ -4646,10 +4646,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_331,
-    name: 'Wrike',
-    domainNamePrimaryLinkUrl: 'wrike.com',
-    addressAddressCity: 'San Diego',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/wrike',
+    name: 'Kalpavriksha Property Consultants',
+    domainNamePrimaryLinkUrl: 'kalpavrikshapropertyconsultants.in',
+    addressAddressCity: 'Kolkata',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/kalpavrikshapropertyconsultants',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -4658,10 +4658,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_332,
-    name: 'Syndigo',
-    domainNamePrimaryLinkUrl: 'syndigo.com',
-    addressAddressCity: 'Chicago',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/syndigo',
+    name: 'Dwarka Property Consultants',
+    domainNamePrimaryLinkUrl: 'dwarkapropertyconsultants.in',
+    addressAddressCity: 'Bengaluru',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/dwarkapropertyconsultants',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -4670,10 +4670,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_333,
-    name: 'Gigamon',
-    domainNamePrimaryLinkUrl: 'gigamon.com',
-    addressAddressCity: 'Santa Clara',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/gigamon',
+    name: 'Orchid Realtors',
+    domainNamePrimaryLinkUrl: 'orchidrealtors.in',
+    addressAddressCity: 'Chennai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/orchidrealtors',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -4682,10 +4682,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_334,
-    name: 'Fastly',
-    domainNamePrimaryLinkUrl: 'fastly.com',
-    addressAddressCity: 'San Francisco',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/fastly',
+    name: 'Silver Oak Properties LLP',
+    domainNamePrimaryLinkUrl: 'silveroakpropertiesllp.in',
+    addressAddressCity: 'Kolkata',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/silveroakpropertiesllp',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -4694,10 +4694,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_335,
-    name: 'Cantaloupe Inc',
-    domainNamePrimaryLinkUrl: 'cantaloupe.com',
-    addressAddressCity: 'Malvern',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/cantaloupeinc',
+    name: 'Gateway Estate Advisors',
+    domainNamePrimaryLinkUrl: 'gatewayestateadvisors.in',
+    addressAddressCity: 'Chennai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/gatewayestateadvisors',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -4706,9 +4706,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_336,
-    name: 'EagleView',
-    domainNamePrimaryLinkUrl: 'eagleview.com',
-    addressAddressCity: 'Bellevue',
+    name: 'Swastik Property Consultants',
+    domainNamePrimaryLinkUrl: 'swastikpropertyconsultants.in',
+    addressAddressCity: 'Thane',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/eagleview-technologies-inc',
     createdBySource: 'CALENDAR',
@@ -4719,9 +4719,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_337,
-    name: 'Litera',
-    domainNamePrimaryLinkUrl: 'litera.com',
-    addressAddressCity: 'Chicago',
+    name: 'Pinnacle Realty',
+    domainNamePrimaryLinkUrl: 'pinnaclerealty.in',
+    addressAddressCity: 'Nagpur',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/literamicrosystems',
     createdBySource: 'SYSTEM',
@@ -4732,10 +4732,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_338,
-    name: 'Collibra',
-    domainNamePrimaryLinkUrl: 'collibra.com',
-    addressAddressCity: 'New York',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/collibra',
+    name: 'Arihant Properties LLP',
+    domainNamePrimaryLinkUrl: 'arihantpropertiesllp.in',
+    addressAddressCity: 'Kolkata',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/arihantpropertiesllp',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -4744,9 +4744,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_339,
-    name: 'Picsart',
-    domainNamePrimaryLinkUrl: 'picsart.com',
-    addressAddressCity: 'Miami Beach',
+    name: 'Gateway Land Brokers',
+    domainNamePrimaryLinkUrl: 'gatewaylandbrokers.in',
+    addressAddressCity: 'Pune',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/picsart-photo-studio',
     createdBySource: 'CALENDAR',
@@ -4757,10 +4757,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_340,
-    name: 'CalAmp',
-    domainNamePrimaryLinkUrl: 'calamp.com',
-    addressAddressCity: 'Irvine',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/calamp-corp',
+    name: 'Orchid Property Consultants',
+    domainNamePrimaryLinkUrl: 'orchidpropertyconsultants.in',
+    addressAddressCity: 'Gurugram',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/orchidpropertyconsultants',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -4769,10 +4769,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_341,
-    name: 'ESS',
-    domainNamePrimaryLinkUrl: 'ess-home.com',
-    addressAddressCity: 'Tempe',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/ess',
+    name: 'Heritage Properties LLP',
+    domainNamePrimaryLinkUrl: 'heritagepropertiesllp.in',
+    addressAddressCity: 'Navi Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/heritagepropertiesllp',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -4781,10 +4781,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_342,
-    name: 'Grafana Labs',
-    domainNamePrimaryLinkUrl: 'grafana.com',
-    addressAddressCity: 'New York',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/grafana-labs',
+    name: 'Pinnacle Properties LLP',
+    domainNamePrimaryLinkUrl: 'pinnaclepropertiesllp.in',
+    addressAddressCity: 'Hyderabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/pinnaclepropertiesllp',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -4793,10 +4793,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_343,
-    name: 'Fivetran',
-    domainNamePrimaryLinkUrl: '5tran.co',
-    addressAddressCity: 'Oakland',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/fivetran',
+    name: 'Malabar Infra Partners',
+    domainNamePrimaryLinkUrl: 'malabarinfrapartners.in',
+    addressAddressCity: 'Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/malabarinfrapartners',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -4805,10 +4805,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_344,
-    name: 'CentralSquare Technologies',
-    domainNamePrimaryLinkUrl: 'centralsquare.com',
-    addressAddressCity: 'Lake Mary',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/centralsqtech',
+    name: 'Silver Oak Infra Partners',
+    domainNamePrimaryLinkUrl: 'silveroakinfrapartners.in',
+    addressAddressCity: 'Gurugram',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/silveroakinfrapartners',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -4817,10 +4817,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_345,
-    name: 'StubHub',
-    domainNamePrimaryLinkUrl: 'stubhub.com',
-    addressAddressCity: 'New York',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/stubhub',
+    name: 'Silver Oak Realtors',
+    domainNamePrimaryLinkUrl: 'silveroakrealtors.in',
+    addressAddressCity: 'Chennai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/silveroakrealtors',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -4829,10 +4829,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_346,
-    name: 'EIS Ltd',
-    domainNamePrimaryLinkUrl: 'eisgroup.com',
-    addressAddressCity: 'San Francisco',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/eisgroupltd',
+    name: 'Harmony Land Brokers',
+    domainNamePrimaryLinkUrl: 'harmonylandbrokers.in',
+    addressAddressCity: 'Chennai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/harmonylandbrokers',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -4841,10 +4841,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_347,
-    name: 'Tebra',
-    domainNamePrimaryLinkUrl: 'tebra.com',
-    addressAddressCity: 'Corona Del Mar',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/tebra',
+    name: 'Nirmal Investments',
+    domainNamePrimaryLinkUrl: 'nirmalinvestments.in',
+    addressAddressCity: 'Gurugram',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/nirmalinvestments',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -4853,10 +4853,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_348,
-    name: 'Benefitfocus',
-    domainNamePrimaryLinkUrl: 'benefitfocus.com',
-    addressAddressCity: 'Charleston',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/benefitfocus',
+    name: 'Charminar Housing Services',
+    domainNamePrimaryLinkUrl: 'charminarhousingservices.in',
+    addressAddressCity: 'Kolkata',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/charminarhousingservices',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -4865,10 +4865,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_349,
-    name: 'NISC',
-    domainNamePrimaryLinkUrl: 'nisc.coop',
-    addressAddressCity: 'Lake Saint Louis',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/nisc',
+    name: 'Sunrise Realtors',
+    domainNamePrimaryLinkUrl: 'sunriserealtors.in',
+    addressAddressCity: 'Navi Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/sunriserealtors',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -4877,10 +4877,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_350,
-    name: 'Dell Compellent',
-    domainNamePrimaryLinkUrl: 'dell.com',
-    addressAddressCity: 'Eden Prairie',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/dell-compellent',
+    name: 'Metro Land Brokers',
+    domainNamePrimaryLinkUrl: 'metrolandbrokers.in',
+    addressAddressCity: 'Hyderabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/metrolandbrokers',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -4889,10 +4889,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_351,
-    name: 'Radancy',
-    domainNamePrimaryLinkUrl: 'radancy.com',
-    addressAddressCity: 'New York',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/radancy',
+    name: 'Swastik Infra Partners',
+    domainNamePrimaryLinkUrl: 'swastikinfrapartners.in',
+    addressAddressCity: 'Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/swastikinfrapartners',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -4901,10 +4901,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_352,
-    name: 'Granicus',
-    domainNamePrimaryLinkUrl: 'granicus.com',
-    addressAddressCity: 'Denver',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/granicusinc',
+    name: 'Harmony Properties LLP',
+    domainNamePrimaryLinkUrl: 'harmonypropertiesllp.in',
+    addressAddressCity: 'Gurugram',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/harmonypropertiesllp',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -4913,9 +4913,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_353,
-    name: 'ACTIVE Network',
-    domainNamePrimaryLinkUrl: 'activenetwork.com',
-    addressAddressCity: 'Plano',
+    name: 'Charminar Properties LLP',
+    domainNamePrimaryLinkUrl: 'charminarpropertiesllp.in',
+    addressAddressCity: 'Pune',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/the-active-network',
     createdBySource: 'IMPORT',
@@ -4926,10 +4926,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_354,
-    name: 'Acquia',
-    domainNamePrimaryLinkUrl: 'acquia.com',
-    addressAddressCity: 'Boston',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/acquia',
+    name: 'Charminar Realtors',
+    domainNamePrimaryLinkUrl: 'charminarrealtors.in',
+    addressAddressCity: 'Chennai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/charminarrealtors',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -4938,10 +4938,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_355,
-    name: 'WalkMe\u2122',
-    domainNamePrimaryLinkUrl: 'walkme.com',
-    addressAddressCity: 'San Francisco',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/walkme',
+    name: 'Shree Ganesh Realtors',
+    domainNamePrimaryLinkUrl: 'shreeganeshrealtors.in',
+    addressAddressCity: 'Pune',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/shreeganeshrealtors',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -4950,10 +4950,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_356,
-    name: 'Outbrain',
-    domainNamePrimaryLinkUrl: 'outbrain.com',
-    addressAddressCity: 'New York',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/outbrain',
+    name: 'Lotus Homes Associates',
+    domainNamePrimaryLinkUrl: 'lotushomesassociates.in',
+    addressAddressCity: 'Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/lotushomesassociates',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -4962,10 +4962,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_357,
-    name: 'WillowTree',
-    domainNamePrimaryLinkUrl: 'willowtreeapps.com',
-    addressAddressCity: 'Charlottesville',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/willowtreeapps',
+    name: 'Vastu Estate Advisors',
+    domainNamePrimaryLinkUrl: 'vastuestateadvisors.in',
+    addressAddressCity: 'Thane',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/vastuestateadvisors',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -4974,10 +4974,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_358,
-    name: 'LogicMonitor',
-    domainNamePrimaryLinkUrl: 'logicmonitor.com',
-    addressAddressCity: 'Santa Barbara',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/logicmonitor',
+    name: 'Pinnacle Infra Partners',
+    domainNamePrimaryLinkUrl: 'pinnacleinfrapartners.in',
+    addressAddressCity: 'Pune',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/pinnacleinfrapartners',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -4986,10 +4986,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_359,
-    name: 'Jellysmack',
-    domainNamePrimaryLinkUrl: 'jellysmack.com',
-    addressAddressCity: 'New York',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/jellysmack',
+    name: 'Nirmal Housing Services',
+    domainNamePrimaryLinkUrl: 'nirmalhousingservices.in',
+    addressAddressCity: 'Nagpur',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/nirmalhousingservices',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -4998,10 +4998,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_360,
-    name: 'Henry Schein One',
-    domainNamePrimaryLinkUrl: 'henryscheinone.com',
-    addressAddressCity: 'American Fork',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/henry-schein-one',
+    name: 'Shivam Housing Services',
+    domainNamePrimaryLinkUrl: 'shivamhousingservices.in',
+    addressAddressCity: 'Kolkata',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/shivamhousingservices',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -5010,10 +5010,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_361,
-    name: 'Prometheus Group',
-    domainNamePrimaryLinkUrl: 'prometheusgroup.com',
-    addressAddressCity: 'Raleigh',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/prometheusgroup',
+    name: 'Vastu Infra Partners',
+    domainNamePrimaryLinkUrl: 'vastuinfrapartners.in',
+    addressAddressCity: 'Ahmedabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/vastuinfrapartners',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -5022,10 +5022,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_362,
-    name: 'Atlas',
-    domainNamePrimaryLinkUrl: 'atlashxm.com',
-    addressAddressCity: 'Chicago',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/atlashxm',
+    name: 'Sahyadri Realtors',
+    domainNamePrimaryLinkUrl: 'sahyadrirealtors.in',
+    addressAddressCity: 'Chennai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/sahyadrirealtors',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -5034,10 +5034,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_363,
-    name: 'Dialpad',
-    domainNamePrimaryLinkUrl: 'dialpad.com',
-    addressAddressCity: 'San Ramon',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/dialpad',
+    name: 'Malabar Realty',
+    domainNamePrimaryLinkUrl: 'malabarrealty.in',
+    addressAddressCity: 'Nashik',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/malabarrealty',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -5046,10 +5046,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_364,
-    name: 'Accruent',
-    domainNamePrimaryLinkUrl: 'accruent.com',
-    addressAddressCity: 'Austin',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/accruent',
+    name: 'Sunrise Land Brokers',
+    domainNamePrimaryLinkUrl: 'sunriselandbrokers.in',
+    addressAddressCity: 'Nagpur',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/sunriselandbrokers',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -5058,9 +5058,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_365,
-    name: 'Charles River Development',
-    domainNamePrimaryLinkUrl: 'crd.com',
-    addressAddressCity: 'Burlington',
+    name: 'Ashoka Investments',
+    domainNamePrimaryLinkUrl: 'ashokainvestments.in',
+    addressAddressCity: 'Pune',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/charles-river-development',
     createdBySource: 'EMAIL',
@@ -5071,10 +5071,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_366,
-    name: 'Flexera',
-    domainNamePrimaryLinkUrl: 'flexera.com',
-    addressAddressCity: 'Itasca',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/flexera',
+    name: 'Navkar Infra Partners',
+    domainNamePrimaryLinkUrl: 'navkarinfrapartners.in',
+    addressAddressCity: 'Ahmedabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/navkarinfrapartners',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -5083,9 +5083,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_367,
-    name: 'Quotient Technology Inc.',
-    domainNamePrimaryLinkUrl: 'quotient.com',
-    addressAddressCity: 'Salt Lake City',
+    name: 'Shivam Investments',
+    domainNamePrimaryLinkUrl: 'shivaminvestments.in',
+    addressAddressCity: 'Nagpur',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/quotient-technology',
     createdBySource: 'EMAIL',
@@ -5096,10 +5096,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_368,
-    name: 'Sage Intacct, Inc.',
-    domainNamePrimaryLinkUrl: 'sageintacct.com',
-    addressAddressCity: 'San Jose',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/sageintacct',
+    name: 'Shree Ganesh Housing Services',
+    domainNamePrimaryLinkUrl: 'shreeganeshhousingservices.in',
+    addressAddressCity: 'Gurugram',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/shreeganeshhousingservices',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -5108,10 +5108,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_369,
-    name: 'Plaid',
-    domainNamePrimaryLinkUrl: 'plaid.com',
-    addressAddressCity: 'San Francisco',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/plaid-',
+    name: 'Dwarka Realty',
+    domainNamePrimaryLinkUrl: 'dwarkarealty.in',
+    addressAddressCity: 'Kolkata',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/dwarkarealty',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -5120,10 +5120,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_370,
-    name: 'C3 AI',
-    domainNamePrimaryLinkUrl: 'c3.ai',
-    addressAddressCity: 'Redwood City',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/c3-ai',
+    name: 'Mahalaxmi Land Brokers',
+    domainNamePrimaryLinkUrl: 'mahalaxmilandbrokers.in',
+    addressAddressCity: 'Hyderabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/mahalaxmilandbrokers',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -5132,10 +5132,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_371,
-    name: 'Upland Software',
-    domainNamePrimaryLinkUrl: 'uplandsoftware.com',
-    addressAddressCity: 'Austin',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/upland-software',
+    name: 'Konkan Housing Services',
+    domainNamePrimaryLinkUrl: 'konkanhousingservices.in',
+    addressAddressCity: 'Ahmedabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/konkanhousingservices',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -5144,10 +5144,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_372,
-    name: 'Zapier',
-    domainNamePrimaryLinkUrl: 'zapier.com',
-    addressAddressCity: 'San Francisco',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/zapier',
+    name: 'Shree Ganesh Properties LLP',
+    domainNamePrimaryLinkUrl: 'shreeganeshpropertiesllp.in',
+    addressAddressCity: 'Thane',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/shreeganeshpropertiesllp',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -5156,10 +5156,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_373,
-    name: 'WSO2',
-    domainNamePrimaryLinkUrl: 'wso2.com',
-    addressAddressCity: 'Santa Clara',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/wso2',
+    name: 'Heritage Investments',
+    domainNamePrimaryLinkUrl: 'heritageinvestments.in',
+    addressAddressCity: 'Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/heritageinvestments',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -5168,10 +5168,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_374,
-    name: 'Auctane',
-    domainNamePrimaryLinkUrl: 'auctane.com',
-    addressAddressCity: 'Austin',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/auctane',
+    name: 'Kaveri Realtors',
+    domainNamePrimaryLinkUrl: 'kaverirealtors.in',
+    addressAddressCity: 'Gurugram',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/kaverirealtors',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -5180,10 +5180,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_375,
-    name: 'Salesloft',
-    domainNamePrimaryLinkUrl: 'salesloft.com',
-    addressAddressCity: 'Atlanta',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/salesloft',
+    name: 'Deccan Property Consultants',
+    domainNamePrimaryLinkUrl: 'deccanpropertyconsultants.in',
+    addressAddressCity: 'Gurugram',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/deccanpropertyconsultants',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -5192,10 +5192,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_376,
-    name: 'RLDatix',
-    domainNamePrimaryLinkUrl: 'rldatix.com',
-    addressAddressCity: 'Chicago',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/rldatix',
+    name: 'Skyline Housing Services',
+    domainNamePrimaryLinkUrl: 'skylinehousingservices.in',
+    addressAddressCity: 'Ahmedabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/skylinehousingservices',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -5204,9 +5204,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_377,
-    name: 'SS&C Blue Prism',
-    domainNamePrimaryLinkUrl: 'blueprism.com',
-    addressAddressCity: 'Windsor',
+    name: 'Godavari Property Consultants',
+    domainNamePrimaryLinkUrl: 'godavaripropertyconsultants.in',
+    addressAddressCity: 'Pune',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/blue-prism-limited',
     createdBySource: 'IMPORT',
@@ -5217,10 +5217,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_378,
-    name: 'Waitr',
-    domainNamePrimaryLinkUrl: 'waitrapp.com',
-    addressAddressCity: 'Lafayette',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/waitr-inc-',
+    name: 'Kohinoor Investments',
+    domainNamePrimaryLinkUrl: 'kohinoorinvestments.in',
+    addressAddressCity: 'Navi Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/kohinoorinvestments',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -5229,9 +5229,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_379,
-    name: 'Software Engineering Institute | Carnegie Mellon University',
-    domainNamePrimaryLinkUrl: 'sei.cmu.edu',
-    addressAddressCity: 'Pittsburgh',
+    name: 'Om Sai Realty',
+    domainNamePrimaryLinkUrl: 'omsairealty.in',
+    addressAddressCity: 'Nagpur',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/software-engineering-institute',
     createdBySource: 'MANUAL',
@@ -5242,9 +5242,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_380,
-    name: 'Downey Unified School District',
-    domainNamePrimaryLinkUrl: 'dusd.net',
-    addressAddressCity: 'Downey',
+    name: 'Narmada Land Brokers',
+    domainNamePrimaryLinkUrl: 'narmadalandbrokers.in',
+    addressAddressCity: 'Chennai',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/downey-unified-school-district',
     createdBySource: 'API',
@@ -5255,9 +5255,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_381,
-    name: 'Private Access, Inc.',
-    domainNamePrimaryLinkUrl: 'privateaccess.com',
-    addressAddressCity: 'Irvine',
+    name: 'Konkan Homes Associates',
+    domainNamePrimaryLinkUrl: 'konkanhomesassociates.in',
+    addressAddressCity: 'Navi Mumbai',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/private-access-inc.',
     createdBySource: 'MANUAL',
@@ -5268,10 +5268,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_382,
-    name: 'iManage',
-    domainNamePrimaryLinkUrl: 'imanage.com',
-    addressAddressCity: 'Chicago',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/imanage',
+    name: 'Narmada Investments',
+    domainNamePrimaryLinkUrl: 'narmadainvestments.in',
+    addressAddressCity: 'Nashik',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/narmadainvestments',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -5280,10 +5280,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_383,
-    name: 'QASource',
-    domainNamePrimaryLinkUrl: 'qasource.com',
-    addressAddressCity: 'Pleasanton',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/qasource',
+    name: 'Kalpavriksha Estate Advisors',
+    domainNamePrimaryLinkUrl: 'kalpavrikshaestateadvisors.in',
+    addressAddressCity: 'Bengaluru',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/kalpavrikshaestateadvisors',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -5292,10 +5292,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_384,
-    name: 'Azuga, Inc.',
-    domainNamePrimaryLinkUrl: 'azuga.com',
-    addressAddressCity: 'San Jose',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/azuga-inc-',
+    name: 'Skyline Realty',
+    domainNamePrimaryLinkUrl: 'skylinerealty.in',
+    addressAddressCity: 'Hyderabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/skylinerealty',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -5304,9 +5304,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_385,
-    name: 'Talent Systems, LLC',
-    domainNamePrimaryLinkUrl: 'talentsystems.com',
-    addressAddressCity: 'Los Angeles',
+    name: 'Harmony Housing Services',
+    domainNamePrimaryLinkUrl: 'harmonyhousingservices.in',
+    addressAddressCity: 'Ahmedabad',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/talent-systems-llc',
     createdBySource: 'WEBHOOK',
@@ -5317,10 +5317,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_386,
-    name: 'Datasite',
-    domainNamePrimaryLinkUrl: 'datasite.com',
-    addressAddressCity: 'Minneapolis',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/datasiteglobal',
+    name: 'Silver Oak Land Brokers',
+    domainNamePrimaryLinkUrl: 'silveroaklandbrokers.in',
+    addressAddressCity: 'Hyderabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/silveroaklandbrokers',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -5329,10 +5329,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_387,
-    name: 'AVASOFT',
-    domainNamePrimaryLinkUrl: 'avasoft.com',
-    addressAddressCity: 'Blue Bell',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/avasoft',
+    name: 'Silver Oak Realty',
+    domainNamePrimaryLinkUrl: 'silveroakrealty.in',
+    addressAddressCity: 'Nashik',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/silveroakrealty',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -5341,10 +5341,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_388,
-    name: 'DataRobot',
-    domainNamePrimaryLinkUrl: 'datarobot.com',
-    addressAddressCity: 'Boston',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/datarobot',
+    name: 'Deccan Investments',
+    domainNamePrimaryLinkUrl: 'deccaninvestments.in',
+    addressAddressCity: 'Bengaluru',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/deccaninvestments',
     createdBySource: 'SYSTEM',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -5353,10 +5353,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_389,
-    name: 'Technisys',
-    domainNamePrimaryLinkUrl: 'technisys.com',
-    addressAddressCity: 'Miami',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/technisys',
+    name: 'Malabar Investments',
+    domainNamePrimaryLinkUrl: 'malabarinvestments.in',
+    addressAddressCity: 'Gurugram',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/malabarinvestments',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -5365,10 +5365,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_390,
-    name: 'project44',
-    domainNamePrimaryLinkUrl: 'project44.com',
-    addressAddressCity: 'Chicago',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/project-44',
+    name: 'Swastik Homes Associates',
+    domainNamePrimaryLinkUrl: 'swastikhomesassociates.in',
+    addressAddressCity: 'Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/swastikhomesassociates',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -5377,10 +5377,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_391,
-    name: 'Imprivata',
-    domainNamePrimaryLinkUrl: 'imprivata.com',
-    addressAddressCity: 'Waltham',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/imprivata',
+    name: 'Orchid Land Brokers',
+    domainNamePrimaryLinkUrl: 'orchidlandbrokers.in',
+    addressAddressCity: 'Pune',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/orchidlandbrokers',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -5389,10 +5389,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_392,
-    name: 'Webflow',
-    domainNamePrimaryLinkUrl: 'webflow.com',
-    addressAddressCity: 'San Francisco',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/webflow-inc-',
+    name: 'Godavari Land Brokers',
+    domainNamePrimaryLinkUrl: 'godavarilandbrokers.in',
+    addressAddressCity: 'Ahmedabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/godavarilandbrokers',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -5401,10 +5401,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_393,
-    name: 'Blend',
-    domainNamePrimaryLinkUrl: 'blend.com',
-    addressAddressCity: 'San Francisco',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/blend-',
+    name: 'Pinnacle Realtors',
+    domainNamePrimaryLinkUrl: 'pinnaclerealtors.in',
+    addressAddressCity: 'Ahmedabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/pinnaclerealtors',
     createdBySource: 'SYSTEM',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -5413,10 +5413,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_394,
-    name: 'Egnyte',
-    domainNamePrimaryLinkUrl: 'egnyte.com',
-    addressAddressCity: 'Mountain View',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/egnyte',
+    name: 'Charminar Estate Advisors',
+    domainNamePrimaryLinkUrl: 'charminarestateadvisors.in',
+    addressAddressCity: 'Gurugram',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/charminarestateadvisors',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -5425,10 +5425,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_395,
-    name: 'SS&C Eze',
-    domainNamePrimaryLinkUrl: 'ezesoft.com',
-    addressAddressCity: 'Windsor',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/ezesoftware',
+    name: 'Mahalaxmi Realty',
+    domainNamePrimaryLinkUrl: 'mahalaxmirealty.in',
+    addressAddressCity: 'Gurugram',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/mahalaxmirealty',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -5437,10 +5437,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_396,
-    name: 'Tipalti',
-    domainNamePrimaryLinkUrl: 'tipalti.com',
-    addressAddressCity: 'San Mateo',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/tipalti',
+    name: 'Prestige Hills Infra Partners',
+    domainNamePrimaryLinkUrl: 'prestigehillsinfrapartners.in',
+    addressAddressCity: 'Ahmedabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/prestigehillsinfrapartners',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -5449,10 +5449,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_397,
-    name: 'Altium\u00ae',
-    domainNamePrimaryLinkUrl: 'altium.com',
-    addressAddressCity: 'La Jolla',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/altium',
+    name: 'Shivam Homes Associates',
+    domainNamePrimaryLinkUrl: 'shivamhomesassociates.in',
+    addressAddressCity: 'Nagpur',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/shivamhomesassociates',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -5461,10 +5461,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_398,
-    name: 'airSlate',
-    domainNamePrimaryLinkUrl: 'airslate.com',
-    addressAddressCity: 'Brookline',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/airslate',
+    name: 'Raj Hans Homes Associates',
+    domainNamePrimaryLinkUrl: 'rajhanshomesassociates.in',
+    addressAddressCity: 'Hyderabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/rajhanshomesassociates',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -5473,10 +5473,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_399,
-    name: 'Arbisoft',
-    domainNamePrimaryLinkUrl: 'arbisoft.com',
-    addressAddressCity: 'Mckinney',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/arbisoft',
+    name: 'Western Ghats Infra Partners',
+    domainNamePrimaryLinkUrl: 'westernghatsinfrapartners.in',
+    addressAddressCity: 'Chennai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/westernghatsinfrapartners',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -5485,10 +5485,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_400,
-    name: 'Airtable',
-    domainNamePrimaryLinkUrl: 'airtable.com',
-    addressAddressCity: 'San Francisco',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/airtable',
+    name: 'Malabar Realtors',
+    domainNamePrimaryLinkUrl: 'malabarrealtors.in',
+    addressAddressCity: 'Hyderabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/malabarrealtors',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -5497,10 +5497,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_401,
-    name: 'Birdeye',
-    domainNamePrimaryLinkUrl: 'birdeye.com',
-    addressAddressCity: 'Palo Alto',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/birdeye',
+    name: 'Sahyadri Land Brokers 400',
+    domainNamePrimaryLinkUrl: 'sahyadrilandbrokers400.in',
+    addressAddressCity: 'Ahmedabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/sahyadrilandbrokers400',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -5509,9 +5509,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_402,
-    name: 'Ultimate Software',
-    domainNamePrimaryLinkUrl: 'ultimatesoftware.com',
-    addressAddressCity: 'Fort Lauderdale',
+    name: 'Mahalaxmi Infra Partners 401',
+    domainNamePrimaryLinkUrl: 'mahalaxmiinfrapartners401.in',
+    addressAddressCity: 'Mumbai',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/ultimate-software',
     createdBySource: 'SYSTEM',
@@ -5522,9 +5522,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_403,
-    name: 'Homecare Homebase',
-    domainNamePrimaryLinkUrl: 'hchb.com',
-    addressAddressCity: 'Dallas',
+    name: 'Evergreen Investments 402',
+    domainNamePrimaryLinkUrl: 'evergreeninvestments402.in',
+    addressAddressCity: 'Bengaluru',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/homecare-homebase',
     createdBySource: 'WEBHOOK',
@@ -5535,10 +5535,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_404,
-    name: 'DISCO',
-    domainNamePrimaryLinkUrl: 'csdisco.com',
-    addressAddressCity: 'Austin',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/cs-disco-llc',
+    name: 'Kohinoor Housing Services 403',
+    domainNamePrimaryLinkUrl: 'kohinoorhousingservices403.in',
+    addressAddressCity: 'Kolkata',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/kohinoorhousingservices403',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -5547,10 +5547,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_405,
-    name: 'Highspot',
-    domainNamePrimaryLinkUrl: 'highspot.com',
-    addressAddressCity: 'Seattle',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/highspot',
+    name: 'Indus Housing Services 404',
+    domainNamePrimaryLinkUrl: 'indushousingservices404.in',
+    addressAddressCity: 'Hyderabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/indushousingservices404',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -5559,9 +5559,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_406,
-    name: 'Sagent',
-    domainNamePrimaryLinkUrl: 'sagent.com',
-    addressAddressCity: 'King Of Prussia',
+    name: 'Mahalaxmi Investments 405',
+    domainNamePrimaryLinkUrl: 'mahalaxmiinvestments405.in',
+    addressAddressCity: 'Hyderabad',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/sagent-lending-technologies',
     createdBySource: 'CALENDAR',
@@ -5572,10 +5572,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_407,
-    name: 'Apollo.io',
-    domainNamePrimaryLinkUrl: 'apollo.io',
-    addressAddressCity: 'San Francisco',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/apolloio',
+    name: 'Om Sai Realtors 406',
+    domainNamePrimaryLinkUrl: 'omsairealtors406.in',
+    addressAddressCity: 'Bengaluru',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/omsairealtors406',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -5584,10 +5584,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_408,
-    name: 'PAS',
-    domainNamePrimaryLinkUrl: 'pas.com',
-    addressAddressCity: 'Houston',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/pas',
+    name: 'Sunrise Homes Associates 407',
+    domainNamePrimaryLinkUrl: 'sunrisehomesassociates407.in',
+    addressAddressCity: 'Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/sunrisehomesassociates407',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -5596,9 +5596,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_409,
-    name: 'Wikimedia Foundation',
-    domainNamePrimaryLinkUrl: 'wikimediafoundation.org',
-    addressAddressCity: 'San Francisco',
+    name: 'Kaveri Realty 408',
+    domainNamePrimaryLinkUrl: 'kaverirealty408.in',
+    addressAddressCity: 'Chennai',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/wikimedia-foundation',
     createdBySource: 'CALENDAR',
@@ -5609,10 +5609,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_410,
-    name: 'Nintex',
-    domainNamePrimaryLinkUrl: 'nintex.com',
-    addressAddressCity: 'Bellevue',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/nintex',
+    name: 'Heritage Homes Associates 409',
+    domainNamePrimaryLinkUrl: 'heritagehomesassociates409.in',
+    addressAddressCity: 'Thane',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/heritagehomesassociates409',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -5621,10 +5621,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_411,
-    name: 'RUCKUS Networks',
-    domainNamePrimaryLinkUrl: 'commscope.com',
-    addressAddressCity: 'Sunnyvale',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/ruckus-networks',
+    name: 'Heritage Properties LLP 410',
+    domainNamePrimaryLinkUrl: 'heritagepropertiesllp410.in',
+    addressAddressCity: 'Gurugram',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/heritagepropertiesllp410',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -5633,10 +5633,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_412,
-    name: 'ForgeRock',
-    domainNamePrimaryLinkUrl: 'forgerock.com',
-    addressAddressCity: 'San Francisco',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/forgerock',
+    name: 'Sunrise Realty 411',
+    domainNamePrimaryLinkUrl: 'sunriserealty411.in',
+    addressAddressCity: 'Gurugram',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/sunriserealty411',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -5645,9 +5645,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_413,
-    name: 'Trading Technologies',
-    domainNamePrimaryLinkUrl: 'tradingtechnologies.com',
-    addressAddressCity: 'Chicago',
+    name: 'Indus Realty 412',
+    domainNamePrimaryLinkUrl: 'indusrealty412.in',
+    addressAddressCity: 'Mumbai',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/trading-technologies',
     createdBySource: 'EMAIL',
@@ -5658,10 +5658,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_414,
-    name: 'KANINI',
-    domainNamePrimaryLinkUrl: 'kanini.com',
-    addressAddressCity: 'Nashville',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/kanini',
+    name: 'Navkar Homes Associates 413',
+    domainNamePrimaryLinkUrl: 'navkarhomesassociates413.in',
+    addressAddressCity: 'Nashik',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/navkarhomesassociates413',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -5670,10 +5670,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_415,
-    name: 'Dealer.com',
-    domainNamePrimaryLinkUrl: 'dealer.com',
-    addressAddressCity: 'Burlington',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/dealer-com',
+    name: 'Shree Ganesh Properties LLP 414',
+    domainNamePrimaryLinkUrl: 'shreeganeshpropertiesllp414.in',
+    addressAddressCity: 'Thane',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/shreeganeshpropertiesllp414',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -5682,10 +5682,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_416,
-    name: 'WS',
-    domainNamePrimaryLinkUrl: 'ws-inc.com',
-    addressAddressCity: 'Pinehurst',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/wbem-solutions',
+    name: 'Narmada Land Brokers 415',
+    domainNamePrimaryLinkUrl: 'narmadalandbrokers415.in',
+    addressAddressCity: 'Kolkata',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/narmadalandbrokers415',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -5694,10 +5694,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_417,
-    name: 'Kyriba',
-    domainNamePrimaryLinkUrl: 'kyriba.com',
-    addressAddressCity: 'San Diego',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/kyriba',
+    name: 'Nirmal Investments 416',
+    domainNamePrimaryLinkUrl: 'nirmalinvestments416.in',
+    addressAddressCity: 'Kolkata',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/nirmalinvestments416',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -5706,10 +5706,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_418,
-    name: 'Demandbase',
-    domainNamePrimaryLinkUrl: 'demandbase.com',
-    addressAddressCity: 'San Francisco',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/demandbase',
+    name: 'Ashoka Land Brokers 417',
+    domainNamePrimaryLinkUrl: 'ashokalandbrokers417.in',
+    addressAddressCity: 'Thane',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/ashokalandbrokers417',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -5718,10 +5718,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_419,
-    name: 'Sumo Logic',
-    domainNamePrimaryLinkUrl: 'sumologic.com',
-    addressAddressCity: 'Redwood City',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/sumo-logic',
+    name: 'Kalpavriksha Realty 418',
+    domainNamePrimaryLinkUrl: 'kalpavriksharealty418.in',
+    addressAddressCity: 'Gurugram',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/kalpavriksharealty418',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -5730,10 +5730,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_420,
-    name: 'Edifecs',
-    domainNamePrimaryLinkUrl: 'edifecs.com',
-    addressAddressCity: 'Bellevue',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/edifecs',
+    name: 'Gateway Land Brokers 419',
+    domainNamePrimaryLinkUrl: 'gatewaylandbrokers419.in',
+    addressAddressCity: 'Nashik',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/gatewaylandbrokers419',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -5742,9 +5742,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_421,
-    name: 'ibi | Information Builders',
-    domainNamePrimaryLinkUrl: 'ibi.com',
-    addressAddressCity: 'Fort Lauderdale',
+    name: 'Konkan Housing Services 420',
+    domainNamePrimaryLinkUrl: 'konkanhousingservices420.in',
+    addressAddressCity: 'Mumbai',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/information-builders',
     createdBySource: 'IMPORT',
@@ -5755,10 +5755,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_422,
-    name: 'Emburse',
-    domainNamePrimaryLinkUrl: 'emburse.com',
-    addressAddressCity: 'Los Angeles',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/emburse',
+    name: 'Mahalaxmi Estate Advisors 421',
+    domainNamePrimaryLinkUrl: 'mahalaxmiestateadvisors421.in',
+    addressAddressCity: 'Bengaluru',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/mahalaxmiestateadvisors421',
     createdBySource: 'SYSTEM',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -5767,10 +5767,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_423,
-    name: 'ConstructConnect',
-    domainNamePrimaryLinkUrl: 'constructconnect.com',
-    addressAddressCity: 'Cincinnati',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/constructconnect',
+    name: 'Bhumi Housing Services 422',
+    domainNamePrimaryLinkUrl: 'bhumihousingservices422.in',
+    addressAddressCity: 'Chennai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/bhumihousingservices422',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -5779,10 +5779,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_424,
-    name: 'Perforce Software',
-    domainNamePrimaryLinkUrl: 'perforce.com',
-    addressAddressCity: 'Minneapolis',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/perforce',
+    name: 'Lotus Land Brokers 423',
+    domainNamePrimaryLinkUrl: 'lotuslandbrokers423.in',
+    addressAddressCity: 'Navi Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/lotuslandbrokers423',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -5791,10 +5791,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_425,
-    name: 'Insurity',
-    domainNamePrimaryLinkUrl: 'insurity.com',
-    addressAddressCity: 'Hartford',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/insurity',
+    name: 'Evergreen Property Consultants 424',
+    domainNamePrimaryLinkUrl: 'evergreenpropertyconsultants424.in',
+    addressAddressCity: 'Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/evergreenpropertyconsultants424',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -5803,10 +5803,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_426,
-    name: 'webOS',
-    domainNamePrimaryLinkUrl: 'developer.lge.com',
-    addressAddressCity: 'Santa Clara',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/webos',
+    name: 'Kaveri Investments 425',
+    domainNamePrimaryLinkUrl: 'kaveriinvestments425.in',
+    addressAddressCity: 'Thane',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/kaveriinvestments425',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -5815,10 +5815,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_427,
-    name: 'Zenoti',
-    domainNamePrimaryLinkUrl: 'zenoti.com',
-    addressAddressCity: 'Bellevue',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/zenoti',
+    name: 'Metro Realtors 426',
+    domainNamePrimaryLinkUrl: 'metrorealtors426.in',
+    addressAddressCity: 'Hyderabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/metrorealtors426',
     createdBySource: 'SYSTEM',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -5827,10 +5827,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_428,
-    name: 'Intapp',
-    domainNamePrimaryLinkUrl: 'intapp.com',
-    addressAddressCity: 'Palo Alto',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/intapp',
+    name: 'Navkar Infra Partners 427',
+    domainNamePrimaryLinkUrl: 'navkarinfrapartners427.in',
+    addressAddressCity: 'Kolkata',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/navkarinfrapartners427',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -5839,10 +5839,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_429,
-    name: 'OATI',
-    domainNamePrimaryLinkUrl: 'oati.com',
-    addressAddressCity: 'Minneapolis',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/oati',
+    name: 'Konkan Homes Associates 428',
+    domainNamePrimaryLinkUrl: 'konkanhomesassociates428.in',
+    addressAddressCity: 'Gurugram',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/konkanhomesassociates428',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -5851,9 +5851,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_430,
-    name: 'Frontline Education',
-    domainNamePrimaryLinkUrl: 'frontlineeducation.com',
-    addressAddressCity: 'Malvern',
+    name: 'Prestige Hills Properties LLP 429',
+    domainNamePrimaryLinkUrl: 'prestigehillspropertiesllp429.in',
+    addressAddressCity: 'Nashik',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/frontline-education',
     createdBySource: 'SYSTEM',
@@ -5864,10 +5864,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_431,
-    name: 'Aspect Software',
-    domainNamePrimaryLinkUrl: 'aspect.com',
-    addressAddressCity: 'Westford',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/aspect-software',
+    name: 'Dwarka Property Consultants 430',
+    domainNamePrimaryLinkUrl: 'dwarkapropertyconsultants430.in',
+    addressAddressCity: 'Nashik',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/dwarkapropertyconsultants430',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -5876,10 +5876,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_432,
-    name: 'GreyOrange',
-    domainNamePrimaryLinkUrl: 'greyorange.com',
-    addressAddressCity: 'Roswell',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/gogreyorange',
+    name: 'Raj Hans Property Consultants 431',
+    domainNamePrimaryLinkUrl: 'rajhanspropertyconsultants431.in',
+    addressAddressCity: 'Pune',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/rajhanspropertyconsultants431',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -5888,10 +5888,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_433,
-    name: 'Sirion',
-    domainNamePrimaryLinkUrl: 'sirionlabs.com',
-    addressAddressCity: 'Bellevue',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/sirionlabs',
+    name: 'Om Sai Homes Associates 432',
+    domainNamePrimaryLinkUrl: 'omsaihomesassociates432.in',
+    addressAddressCity: 'Gurugram',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/omsaihomesassociates432',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -5900,10 +5900,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_434,
-    name: 'In Time Tec',
-    domainNamePrimaryLinkUrl: 'intimetec.com',
-    addressAddressCity: 'Meridian',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/in-time-tec',
+    name: 'Malabar Properties LLP 433',
+    domainNamePrimaryLinkUrl: 'malabarpropertiesllp433.in',
+    addressAddressCity: 'Nashik',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/malabarpropertiesllp433',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -5912,10 +5912,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_435,
-    name: 'Operative',
-    domainNamePrimaryLinkUrl: 'operative.com',
-    addressAddressCity: 'New York',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/operative',
+    name: 'Konkan Realty 434',
+    domainNamePrimaryLinkUrl: 'konkanrealty434.in',
+    addressAddressCity: 'Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/konkanrealty434',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -5924,10 +5924,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_436,
-    name: 'Kore.ai',
-    domainNamePrimaryLinkUrl: 'kore.ai',
-    addressAddressCity: 'Orlando',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/kore-inc',
+    name: 'Pinnacle Realty 435',
+    domainNamePrimaryLinkUrl: 'pinnaclerealty435.in',
+    addressAddressCity: 'Hyderabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/pinnaclerealty435',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -5936,10 +5936,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_437,
-    name: 'Redis',
-    domainNamePrimaryLinkUrl: 'redis.com',
-    addressAddressCity: 'Mountain View',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/redisinc',
+    name: 'Charminar Properties LLP 436',
+    domainNamePrimaryLinkUrl: 'charminarpropertiesllp436.in',
+    addressAddressCity: 'Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/charminarpropertiesllp436',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -5948,10 +5948,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_438,
-    name: 'Addepar',
-    domainNamePrimaryLinkUrl: 'addepar.com',
-    addressAddressCity: 'Mountain View',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/addepar',
+    name: 'Ashoka Land Brokers 437',
+    domainNamePrimaryLinkUrl: 'ashokalandbrokers437.in',
+    addressAddressCity: 'Nagpur',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/ashokalandbrokers437',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -5960,10 +5960,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_439,
-    name: 'TCP Software',
-    domainNamePrimaryLinkUrl: 'tcpsoftware.com',
-    addressAddressCity: 'Austin',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/tcpsoftware',
+    name: 'Narmada Housing Services 438',
+    domainNamePrimaryLinkUrl: 'narmadahousingservices438.in',
+    addressAddressCity: 'Chennai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/narmadahousingservices438',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -5972,10 +5972,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_440,
-    name: 'TraceLink',
-    domainNamePrimaryLinkUrl: 'tracelink.com',
-    addressAddressCity: 'Wilmington',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/tracelink',
+    name: 'Orchid Realty 439',
+    domainNamePrimaryLinkUrl: 'orchidrealty439.in',
+    addressAddressCity: 'Hyderabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/orchidrealty439',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -5984,10 +5984,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_441,
-    name: 'Benchling',
-    domainNamePrimaryLinkUrl: 'benchling.com',
-    addressAddressCity: 'San Francisco',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/benchling',
+    name: 'Orchid Land Brokers 440',
+    domainNamePrimaryLinkUrl: 'orchidlandbrokers440.in',
+    addressAddressCity: 'Nashik',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/orchidlandbrokers440',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -5996,10 +5996,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_442,
-    name: 'Housecall Pro',
-    domainNamePrimaryLinkUrl: 'housecallpro.com',
-    addressAddressCity: 'Denver',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/housecallpro',
+    name: 'Kalpavriksha Estate Advisors 441',
+    domainNamePrimaryLinkUrl: 'kalpavrikshaestateadvisors441.in',
+    addressAddressCity: 'Nagpur',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/kalpavrikshaestateadvisors441',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -6008,10 +6008,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_443,
-    name: 'Turnitin',
-    domainNamePrimaryLinkUrl: 'turnitin.com',
-    addressAddressCity: 'Oakland',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/turnitin',
+    name: 'Raj Hans Homes Associates 442',
+    domainNamePrimaryLinkUrl: 'rajhanshomesassociates442.in',
+    addressAddressCity: 'Chennai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/rajhanshomesassociates442',
     createdBySource: 'SYSTEM',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -6020,10 +6020,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_444,
-    name: 'Schr\u00f6dinger',
-    domainNamePrimaryLinkUrl: 'schrodinger.com',
-    addressAddressCity: 'New York',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/schr-dinger',
+    name: 'Pinnacle Investments 443',
+    domainNamePrimaryLinkUrl: 'pinnacleinvestments443.in',
+    addressAddressCity: 'Nagpur',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/pinnacleinvestments443',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -6032,9 +6032,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_445,
-    name: 'eGain Corporation',
-    domainNamePrimaryLinkUrl: 'egain.com',
-    addressAddressCity: 'Sunnyvale',
+    name: 'Shivam Estate Advisors 444',
+    domainNamePrimaryLinkUrl: 'shivamestateadvisors444.in',
+    addressAddressCity: 'Nagpur',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/egain-corporation',
     createdBySource: 'WEBHOOK',
@@ -6045,10 +6045,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_446,
-    name: 'Brightly',
-    domainNamePrimaryLinkUrl: 'brightlysoftware.com',
-    addressAddressCity: 'Cary',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/brightlysoftware',
+    name: 'Sahyadri Housing Services 445',
+    domainNamePrimaryLinkUrl: 'sahyadrihousingservices445.in',
+    addressAddressCity: 'Bengaluru',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/sahyadrihousingservices445',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -6057,9 +6057,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_447,
-    name: 'Snap-on Business Solutions',
-    domainNamePrimaryLinkUrl: 'snapon.com',
-    addressAddressCity: 'Richfield',
+    name: 'Swastik Homes Associates 446',
+    domainNamePrimaryLinkUrl: 'swastikhomesassociates446.in',
+    addressAddressCity: 'Gurugram',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/snap-on-business-solutions',
     createdBySource: 'MANUAL',
@@ -6070,10 +6070,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_448,
-    name: 'ACS Technologies',
-    domainNamePrimaryLinkUrl: 'acstechnologies.com',
-    addressAddressCity: 'Florence',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/acs-technologies',
+    name: 'Evergreen Housing Services 447',
+    domainNamePrimaryLinkUrl: 'evergreenhousingservices447.in',
+    addressAddressCity: 'Nagpur',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/evergreenhousingservices447',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -6082,10 +6082,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_449,
-    name: 'Uniphore',
-    domainNamePrimaryLinkUrl: 'uniphore.com',
-    addressAddressCity: 'Palo Alto',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/uniphore',
+    name: 'Vastu Estate Advisors 448',
+    domainNamePrimaryLinkUrl: 'vastuestateadvisors448.in',
+    addressAddressCity: 'Chennai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/vastuestateadvisors448',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -6094,10 +6094,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_450,
-    name: 'Folio3 Software',
-    domainNamePrimaryLinkUrl: 'folio3.com',
-    addressAddressCity: 'Belmont',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/folio3',
+    name: 'Western Ghats Realtors 449',
+    domainNamePrimaryLinkUrl: 'westernghatsrealtors449.in',
+    addressAddressCity: 'Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/westernghatsrealtors449',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -6106,10 +6106,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_451,
-    name: 'MHC',
-    domainNamePrimaryLinkUrl: 'mhcautomation.com',
-    addressAddressCity: 'Burnsville',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/mhcautomation',
+    name: 'Trimurti Homes Associates 450',
+    domainNamePrimaryLinkUrl: 'trimurtihomesassociates450.in',
+    addressAddressCity: 'Pune',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/trimurtihomesassociates450',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -6118,9 +6118,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_452,
-    name: 'Xactly Corp',
-    domainNamePrimaryLinkUrl: 'xactlycorp.com',
-    addressAddressCity: 'Los Gatos',
+    name: 'Swastik Investments 451',
+    domainNamePrimaryLinkUrl: 'swastikinvestments451.in',
+    addressAddressCity: 'Gurugram',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/xactly-corporation',
     createdBySource: 'EMAIL',
@@ -6131,10 +6131,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_453,
-    name: 'Weave',
-    domainNamePrimaryLinkUrl: 'getweave.com',
-    addressAddressCity: 'Lehi',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/getweave',
+    name: 'Silver Oak Realty 452',
+    domainNamePrimaryLinkUrl: 'silveroakrealty452.in',
+    addressAddressCity: 'Hyderabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/silveroakrealty452',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -6143,10 +6143,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_454,
-    name: 'Microworkers',
-    domainNamePrimaryLinkUrl: 'microworkers.com',
-    addressAddressCity: 'Frisco',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/microworkers.com',
+    name: 'Kalpavriksha Homes Associates 453',
+    domainNamePrimaryLinkUrl: 'kalpavrikshahomesassociates453.in',
+    addressAddressCity: 'Pune',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/kalpavrikshahomesassociates453',
     createdBySource: 'SYSTEM',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -6155,10 +6155,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_455,
-    name: 'Trilogy',
-    domainNamePrimaryLinkUrl: 'trilogy.com',
-    addressAddressCity: 'Austin',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/trilogy',
+    name: 'Deccan Housing Services 454',
+    domainNamePrimaryLinkUrl: 'deccanhousingservices454.in',
+    addressAddressCity: 'Pune',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/deccanhousingservices454',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -6167,10 +6167,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_456,
-    name: 'Akvelon, Inc.',
-    domainNamePrimaryLinkUrl: 'akvelon.com',
-    addressAddressCity: 'Bellevue',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/akvelon',
+    name: 'Swastik Homes Associates 455',
+    domainNamePrimaryLinkUrl: 'swastikhomesassociates455.in',
+    addressAddressCity: 'Hyderabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/swastikhomesassociates455',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -6179,10 +6179,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_457,
-    name: 'iPipeline',
-    domainNamePrimaryLinkUrl: 'ipipeline.com',
-    addressAddressCity: 'Exton',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/ipipeline',
+    name: 'Deccan Properties LLP 456',
+    domainNamePrimaryLinkUrl: 'deccanpropertiesllp456.in',
+    addressAddressCity: 'Kolkata',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/deccanpropertiesllp456',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -6191,10 +6191,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_458,
-    name: 'Salary.com',
-    domainNamePrimaryLinkUrl: 'salary.com',
-    addressAddressCity: 'Wellesley Hills',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/salarydotcom',
+    name: 'Charminar Realtors 457',
+    domainNamePrimaryLinkUrl: 'charminarrealtors457.in',
+    addressAddressCity: 'Thane',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/charminarrealtors457',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -6203,10 +6203,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_459,
-    name: 'PandaDoc',
-    domainNamePrimaryLinkUrl: 'pandadoc.com',
-    addressAddressCity: 'San Francisco',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/pandadoc',
+    name: 'Deccan Property Consultants 458',
+    domainNamePrimaryLinkUrl: 'deccanpropertyconsultants458.in',
+    addressAddressCity: 'Chennai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/deccanpropertyconsultants458',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -6215,10 +6215,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_460,
-    name: 'MSC Software',
-    domainNamePrimaryLinkUrl: 'mscsoftware.com',
-    addressAddressCity: 'Newport Beach',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/msc-software',
+    name: 'Konkan Housing Services 459',
+    domainNamePrimaryLinkUrl: 'konkanhousingservices459.in',
+    addressAddressCity: 'Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/konkanhousingservices459',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -6227,10 +6227,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_461,
-    name: 'Harness',
-    domainNamePrimaryLinkUrl: 'harness.io',
-    addressAddressCity: 'San Francisco',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/harnessinc',
+    name: 'Kalpavriksha Property Consultants 460',
+    domainNamePrimaryLinkUrl: 'kalpavrikshapropertyconsultants460.in',
+    addressAddressCity: 'Bengaluru',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/kalpavrikshapropertyconsultants460',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -6239,9 +6239,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_462,
-    name: 'ActiveCampaign',
-    domainNamePrimaryLinkUrl: 'activecampaign.com',
-    addressAddressCity: 'Chicago',
+    name: 'Kaveri Property Consultants 461',
+    domainNamePrimaryLinkUrl: 'kaveripropertyconsultants461.in',
+    addressAddressCity: 'Nagpur',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/activecampaign-inc-',
     createdBySource: 'API',
@@ -6252,10 +6252,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_463,
-    name: 'Doximity',
-    domainNamePrimaryLinkUrl: 'doximity.com',
-    addressAddressCity: 'San Francisco',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/doximity',
+    name: 'Metro Land Brokers 462',
+    domainNamePrimaryLinkUrl: 'metrolandbrokers462.in',
+    addressAddressCity: 'Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/metrolandbrokers462',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -6264,10 +6264,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_464,
-    name: 'Couchbase',
-    domainNamePrimaryLinkUrl: 'couchbase.com',
-    addressAddressCity: 'Santa Clara',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/couchbase',
+    name: 'Metro Realtors 463',
+    domainNamePrimaryLinkUrl: 'metrorealtors463.in',
+    addressAddressCity: 'Pune',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/metrorealtors463',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -6276,10 +6276,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_465,
-    name: 'Lytx, Inc.',
-    domainNamePrimaryLinkUrl: 'lytx.com',
-    addressAddressCity: 'San Diego',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/lytxinc',
+    name: 'Maratha Realty 464',
+    domainNamePrimaryLinkUrl: 'maratharealty464.in',
+    addressAddressCity: 'Ahmedabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/maratharealty464',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -6288,10 +6288,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_466,
-    name: 'Pendo.io',
-    domainNamePrimaryLinkUrl: 'pendo.io',
-    addressAddressCity: 'Raleigh',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/pendo-io',
+    name: 'Lotus Properties LLP 465',
+    domainNamePrimaryLinkUrl: 'lotuspropertiesllp465.in',
+    addressAddressCity: 'Ahmedabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/lotuspropertiesllp465',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -6300,10 +6300,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_467,
-    name: 'Workato',
-    domainNamePrimaryLinkUrl: 'workato.com',
-    addressAddressCity: 'Mountain View',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/workato',
+    name: 'Indus Investments 466',
+    domainNamePrimaryLinkUrl: 'indusinvestments466.in',
+    addressAddressCity: 'Nagpur',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/indusinvestments466',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -6312,10 +6312,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_468,
-    name: 'Saviynt',
-    domainNamePrimaryLinkUrl: 'saviynt.com',
-    addressAddressCity: 'El Segundo',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/saviynt',
+    name: 'Godavari Estate Advisors 467',
+    domainNamePrimaryLinkUrl: 'godavariestateadvisors467.in',
+    addressAddressCity: 'Gurugram',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/godavariestateadvisors467',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -6324,10 +6324,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_469,
-    name: 'SmartBear',
-    domainNamePrimaryLinkUrl: 'smartbear.com',
-    addressAddressCity: 'Somerville',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/smartbear',
+    name: 'Sahyadri Properties LLP 468',
+    domainNamePrimaryLinkUrl: 'sahyadripropertiesllp468.in',
+    addressAddressCity: 'Nagpur',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/sahyadripropertiesllp468',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -6336,10 +6336,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_470,
-    name: 'Rovi Corporation (now TiVo)',
-    domainNamePrimaryLinkUrl: 'tivo.com',
-    addressAddressCity: 'San Carlos',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/rovi',
+    name: 'Sunrise Housing Services 469',
+    domainNamePrimaryLinkUrl: 'sunrisehousingservices469.in',
+    addressAddressCity: 'Nashik',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/sunrisehousingservices469',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -6348,10 +6348,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_471,
-    name: 'Handshake',
-    domainNamePrimaryLinkUrl: 'joinhandshake.com',
-    addressAddressCity: 'San Francisco',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/team-handshake',
+    name: 'Shree Ganesh Properties LLP 470',
+    domainNamePrimaryLinkUrl: 'shreeganeshpropertiesllp470.in',
+    addressAddressCity: 'Gurugram',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/shreeganeshpropertiesllp470',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -6360,10 +6360,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_472,
-    name: 'Navitaire, an Amadeus company',
-    domainNamePrimaryLinkUrl: 'navitaire.com',
-    addressAddressCity: 'Minneapolis',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/navitaire',
+    name: 'Orchid Realty 471',
+    domainNamePrimaryLinkUrl: 'orchidrealty471.in',
+    addressAddressCity: 'Bengaluru',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/orchidrealty471',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -6372,10 +6372,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_473,
-    name: 'OneSpan',
-    domainNamePrimaryLinkUrl: 'onespan.com',
-    addressAddressCity: 'Chicago',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/onespan',
+    name: 'Metro Housing Services 472',
+    domainNamePrimaryLinkUrl: 'metrohousingservices472.in',
+    addressAddressCity: 'Hyderabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/metrohousingservices472',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -6384,10 +6384,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_474,
-    name: 'Bitsight',
-    domainNamePrimaryLinkUrl: 'bitsight.com',
-    addressAddressCity: 'Boston',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/bitsight',
+    name: 'Om Sai Homes Associates 473',
+    domainNamePrimaryLinkUrl: 'omsaihomesassociates473.in',
+    addressAddressCity: 'Kolkata',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/omsaihomesassociates473',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -6396,10 +6396,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_475,
-    name: 'ID.me',
-    domainNamePrimaryLinkUrl: 'id.me',
-    addressAddressCity: 'Mc Lean',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/id.me',
+    name: 'Kohinoor Estate Advisors 474',
+    domainNamePrimaryLinkUrl: 'kohinoorestateadvisors474.in',
+    addressAddressCity: 'Nagpur',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/kohinoorestateadvisors474',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -6408,9 +6408,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_476,
-    name: 'SymphonyAI Retail CPG',
-    domainNamePrimaryLinkUrl: 'symphonyretailai.com',
-    addressAddressCity: 'Frisco',
+    name: 'Lotus Properties LLP 475',
+    domainNamePrimaryLinkUrl: 'lotuspropertiesllp475.in',
+    addressAddressCity: 'Ahmedabad',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/symphonyretailcpg',
     createdBySource: 'MANUAL',
@@ -6421,10 +6421,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_477,
-    name: 'Unilog',
-    domainNamePrimaryLinkUrl: 'unilogcorp.com',
-    addressAddressCity: 'Wayne',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/unilog-inc',
+    name: 'Navkar Estate Advisors 476',
+    domainNamePrimaryLinkUrl: 'navkarestateadvisors476.in',
+    addressAddressCity: 'Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/navkarestateadvisors476',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -6433,10 +6433,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_478,
-    name: 'Teletrac Navman',
-    domainNamePrimaryLinkUrl: 'teletracnavman.com',
-    addressAddressCity: 'Irvine',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/teletrac',
+    name: 'Trimurti Estate Advisors 477',
+    domainNamePrimaryLinkUrl: 'trimurtiestateadvisors477.in',
+    addressAddressCity: 'Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/trimurtiestateadvisors477',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -6445,10 +6445,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_479,
-    name: 'Buildertrend',
-    domainNamePrimaryLinkUrl: 'buildertrend.com',
-    addressAddressCity: 'Omaha',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/buildertrend',
+    name: 'Bhumi Infra Partners 478',
+    domainNamePrimaryLinkUrl: 'bhumiinfrapartners478.in',
+    addressAddressCity: 'Thane',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/bhumiinfrapartners478',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -6457,10 +6457,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_480,
-    name: 'Tecsys Inc.',
-    domainNamePrimaryLinkUrl: 'tecsys.com',
-    addressAddressCity: 'Chicago',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/tecsys-inc',
+    name: 'Harmony Infra Partners 479',
+    domainNamePrimaryLinkUrl: 'harmonyinfrapartners479.in',
+    addressAddressCity: 'Bengaluru',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/harmonyinfrapartners479',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -6469,10 +6469,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_481,
-    name: 'ThousandEyes (part of Cisco)',
-    domainNamePrimaryLinkUrl: 'thousandeyes.com',
-    addressAddressCity: 'San Francisco',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/thousandeyes',
+    name: 'Skyline Investments 480',
+    domainNamePrimaryLinkUrl: 'skylineinvestments480.in',
+    addressAddressCity: 'Nagpur',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/skylineinvestments480',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -6481,10 +6481,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_482,
-    name: 'Greenhouse Software',
-    domainNamePrimaryLinkUrl: 'greenhouse.io',
-    addressAddressCity: 'New York',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/greenhouse-inc-',
+    name: 'Mahalaxmi Homes Associates 481',
+    domainNamePrimaryLinkUrl: 'mahalaxmihomesassociates481.in',
+    addressAddressCity: 'Pune',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/mahalaxmihomesassociates481',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -6493,10 +6493,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_483,
-    name: 'Exiger',
-    domainNamePrimaryLinkUrl: 'exiger.com',
-    addressAddressCity: 'New York',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/exiger',
+    name: 'Lotus Estate Advisors 482',
+    domainNamePrimaryLinkUrl: 'lotusestateadvisors482.in',
+    addressAddressCity: 'Pune',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/lotusestateadvisors482',
     createdBySource: 'SYSTEM',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -6505,10 +6505,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_484,
-    name: 'MBO Partners',
-    domainNamePrimaryLinkUrl: 'mbopartners.com',
-    addressAddressCity: 'Ashburn',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/mbo-partners',
+    name: 'Om Sai Investments 483',
+    domainNamePrimaryLinkUrl: 'omsaiinvestments483.in',
+    addressAddressCity: 'Hyderabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/omsaiinvestments483',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -6517,10 +6517,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_485,
-    name: 'Neo4j',
-    domainNamePrimaryLinkUrl: 'neo4j.com',
-    addressAddressCity: 'San Mateo',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/neo4j',
+    name: 'Kaveri Realtors 484',
+    domainNamePrimaryLinkUrl: 'kaverirealtors484.in',
+    addressAddressCity: 'Chennai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/kaverirealtors484',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -6529,10 +6529,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_486,
-    name: 'VTS',
-    domainNamePrimaryLinkUrl: 'vts.com',
-    addressAddressCity: 'New York',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/we-are-vts',
+    name: 'Arihant Investments 485',
+    domainNamePrimaryLinkUrl: 'arihantinvestments485.in',
+    addressAddressCity: 'Nagpur',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/arihantinvestments485',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -6541,10 +6541,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_487,
-    name: 'Slice',
-    domainNamePrimaryLinkUrl: 'slicelife.com',
-    addressAddressCity: 'New York',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/slice',
+    name: 'Orchid Estate Advisors 486',
+    domainNamePrimaryLinkUrl: 'orchidestateadvisors486.in',
+    addressAddressCity: 'Pune',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/orchidestateadvisors486',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -6553,9 +6553,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_488,
-    name: 'Amplitude',
-    domainNamePrimaryLinkUrl: 'amplitude.com',
-    addressAddressCity: 'San Francisco',
+    name: 'Sahyadri Realty 487',
+    domainNamePrimaryLinkUrl: 'sahyadrirealty487.in',
+    addressAddressCity: 'Kolkata',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/amplitude-analytics',
     createdBySource: 'EMAIL',
@@ -6566,10 +6566,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_489,
-    name: 'Daxko',
-    domainNamePrimaryLinkUrl: 'daxko.com',
-    addressAddressCity: 'Birmingham',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/daxko',
+    name: 'Raj Hans Realtors 488',
+    domainNamePrimaryLinkUrl: 'rajhansrealtors488.in',
+    addressAddressCity: 'Pune',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/rajhansrealtors488',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -6578,10 +6578,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_490,
-    name: 'AppLovin',
-    domainNamePrimaryLinkUrl: 'applovin.com',
-    addressAddressCity: 'Palo Alto',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/applovin',
+    name: 'Gateway Investments 489',
+    domainNamePrimaryLinkUrl: 'gatewayinvestments489.in',
+    addressAddressCity: 'Thane',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/gatewayinvestments489',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -6590,10 +6590,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_491,
-    name: 'Xometry',
-    domainNamePrimaryLinkUrl: 'xometry.com',
-    addressAddressCity: 'Rockville',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/xometry',
+    name: 'Shivam Infra Partners 490',
+    domainNamePrimaryLinkUrl: 'shivaminfrapartners490.in',
+    addressAddressCity: 'Gurugram',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/shivaminfrapartners490',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -6602,10 +6602,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_492,
-    name: 'Quickbase',
-    domainNamePrimaryLinkUrl: 'quickbase.com',
-    addressAddressCity: 'Boston',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/quickbase',
+    name: 'Raj Hans Infra Partners 491',
+    domainNamePrimaryLinkUrl: 'rajhansinfrapartners491.in',
+    addressAddressCity: 'Thane',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/rajhansinfrapartners491',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -6614,10 +6614,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_493,
-    name: 'Agora',
-    domainNamePrimaryLinkUrl: 'agora.io',
-    addressAddressCity: 'Santa Clara',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/agora-lab-inc',
+    name: 'Navkar Realty 492',
+    domainNamePrimaryLinkUrl: 'navkarrealty492.in',
+    addressAddressCity: 'Navi Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/navkarrealty492',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -6626,10 +6626,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_494,
-    name: 'InMoment',
-    domainNamePrimaryLinkUrl: 'inmoment.com',
-    addressAddressCity: 'South Jordan',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/weareinmoment',
+    name: 'Dwarka Estate Advisors 493',
+    domainNamePrimaryLinkUrl: 'dwarkaestateadvisors493.in',
+    addressAddressCity: 'Bengaluru',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/dwarkaestateadvisors493',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -6638,10 +6638,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_495,
-    name: 'PatientPoint\u00ae',
-    domainNamePrimaryLinkUrl: 'patientpoint.com',
-    addressAddressCity: 'Cincinnati',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/patientpoint',
+    name: 'Shivam Property Consultants 494',
+    domainNamePrimaryLinkUrl: 'shivampropertyconsultants494.in',
+    addressAddressCity: 'Kolkata',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/shivampropertyconsultants494',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -6650,10 +6650,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_496,
-    name: 'HHAeXchange',
-    domainNamePrimaryLinkUrl: 'hhaexchange.com',
-    addressAddressCity: 'New York',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/hhaexchange',
+    name: 'Evergreen Investments 495',
+    domainNamePrimaryLinkUrl: 'evergreeninvestments495.in',
+    addressAddressCity: 'Navi Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/evergreeninvestments495',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -6662,10 +6662,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_497,
-    name: 'NinjaOne',
-    domainNamePrimaryLinkUrl: 'ninjaone.com',
-    addressAddressCity: 'Austin',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/ninjaone',
+    name: 'Prestige Hills Homes Associates 496',
+    domainNamePrimaryLinkUrl: 'prestigehillshomesassociates496.in',
+    addressAddressCity: 'Pune',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/prestigehillshomesassociates496',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -6674,10 +6674,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_498,
-    name: 'Zywave',
-    domainNamePrimaryLinkUrl: 'zywave.com',
-    addressAddressCity: 'Milwaukee',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/zywave',
+    name: 'Arihant Properties LLP 497',
+    domainNamePrimaryLinkUrl: 'arihantpropertiesllp497.in',
+    addressAddressCity: 'Pune',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/arihantpropertiesllp497',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -6686,9 +6686,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_499,
-    name: 'Adobe Marketo',
-    domainNamePrimaryLinkUrl: 'marketo.com',
-    addressAddressCity: 'San Jose',
+    name: 'Mahalaxmi Homes Associates 498',
+    domainNamePrimaryLinkUrl: 'mahalaxmihomesassociates498.in',
+    addressAddressCity: 'Ahmedabad',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/adobemarketoengage',
     createdBySource: 'EMAIL',
@@ -6699,10 +6699,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_500,
-    name: 'MasterControl',
-    domainNamePrimaryLinkUrl: 'mastercontrol.com',
-    addressAddressCity: 'Salt Lake City',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/mastercontrol',
+    name: 'Navkar Land Brokers 499',
+    domainNamePrimaryLinkUrl: 'navkarlandbrokers499.in',
+    addressAddressCity: 'Pune',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/navkarlandbrokers499',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -6711,9 +6711,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_501,
-    name: 'Jumio Corporation',
-    domainNamePrimaryLinkUrl: 'jumio.com',
-    addressAddressCity: 'Sunnyvale',
+    name: 'Trimurti Land Brokers 500',
+    domainNamePrimaryLinkUrl: 'trimurtilandbrokers500.in',
+    addressAddressCity: 'Mumbai',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/jumio-corporation',
     createdBySource: 'EMAIL',
@@ -6724,10 +6724,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_502,
-    name: 'CRMNEXT',
-    domainNamePrimaryLinkUrl: 'crmnext.com',
-    addressAddressCity: 'Raleigh',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/crmnext',
+    name: 'Godavari Property Consultants 501',
+    domainNamePrimaryLinkUrl: 'godavaripropertyconsultants501.in',
+    addressAddressCity: 'Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/godavaripropertyconsultants501',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -6736,10 +6736,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_503,
-    name: 'ChannelAdvisor',
-    domainNamePrimaryLinkUrl: 'channeladvisor.com',
-    addressAddressCity: 'Morrisville',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/channeladvisor',
+    name: 'Deccan Land Brokers 502',
+    domainNamePrimaryLinkUrl: 'deccanlandbrokers502.in',
+    addressAddressCity: 'Nashik',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/deccanlandbrokers502',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -6748,10 +6748,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_504,
-    name: 'SumTotal Systems, LLC',
-    domainNamePrimaryLinkUrl: 'sumtotalsystems.com',
-    addressAddressCity: 'Gainesville',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/sumtotal-systems',
+    name: 'Mahalaxmi Land Brokers 503',
+    domainNamePrimaryLinkUrl: 'mahalaxmilandbrokers503.in',
+    addressAddressCity: 'Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/mahalaxmilandbrokers503',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -6760,10 +6760,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_505,
-    name: 'Payscale',
-    domainNamePrimaryLinkUrl: 'payscale.com',
-    addressAddressCity: 'Seattle',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/payscale',
+    name: 'Godavari Estate Advisors 504',
+    domainNamePrimaryLinkUrl: 'godavariestateadvisors504.in',
+    addressAddressCity: 'Chennai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/godavariestateadvisors504',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -6772,10 +6772,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_506,
-    name: 'Riskonnect, Inc.',
-    domainNamePrimaryLinkUrl: 'riskonnect.com',
-    addressAddressCity: 'Kennesaw',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/riskonnect-inc',
+    name: 'Nirmal Homes Associates 505',
+    domainNamePrimaryLinkUrl: 'nirmalhomesassociates505.in',
+    addressAddressCity: 'Ahmedabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/nirmalhomesassociates505',
     createdBySource: 'SYSTEM',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -6784,10 +6784,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_507,
-    name: 'Riskified',
-    domainNamePrimaryLinkUrl: 'riskified.com',
-    addressAddressCity: 'New York',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/riskified',
+    name: 'Sahyadri Properties LLP 506',
+    domainNamePrimaryLinkUrl: 'sahyadripropertiesllp506.in',
+    addressAddressCity: 'Hyderabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/sahyadripropertiesllp506',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -6796,10 +6796,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_508,
-    name: 'Shopkeeper',
-    domainNamePrimaryLinkUrl: 'shopkeeper.com',
-    addressAddressCity: 'Pompano Beach',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/shopkeeperapp',
+    name: 'Arihant Properties LLP 507',
+    domainNamePrimaryLinkUrl: 'arihantpropertiesllp507.in',
+    addressAddressCity: 'Gurugram',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/arihantpropertiesllp507',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -6808,10 +6808,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_509,
-    name: 'Stack Overflow',
-    domainNamePrimaryLinkUrl: 'stackoverflow.com',
-    addressAddressCity: 'New York',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/stack-overflow',
+    name: 'Lotus Homes Associates 508',
+    domainNamePrimaryLinkUrl: 'lotushomesassociates508.in',
+    addressAddressCity: 'Hyderabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/lotushomesassociates508',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -6820,9 +6820,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_510,
-    name: 'Netwrix Corporation',
-    domainNamePrimaryLinkUrl: 'netwrix.com',
-    addressAddressCity: 'Frisco',
+    name: 'Sunrise Realty 509',
+    domainNamePrimaryLinkUrl: 'sunriserealty509.in',
+    addressAddressCity: 'Gurugram',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/netwrix-corporation',
     createdBySource: 'EMAIL',
@@ -6833,10 +6833,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_511,
-    name: 'Securonix',
-    domainNamePrimaryLinkUrl: 'securonix.com',
-    addressAddressCity: 'Addison',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/securonix',
+    name: 'Aadhar Realtors 510',
+    domainNamePrimaryLinkUrl: 'aadharrealtors510.in',
+    addressAddressCity: 'Gurugram',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/aadharrealtors510',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -6845,10 +6845,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_512,
-    name: 'Draup',
-    domainNamePrimaryLinkUrl: 'draup.com',
-    addressAddressCity: 'Spring',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/draupplatform',
+    name: 'Om Sai Property Consultants 511',
+    domainNamePrimaryLinkUrl: 'omsaipropertyconsultants511.in',
+    addressAddressCity: 'Nagpur',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/omsaipropertyconsultants511',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -6857,10 +6857,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_513,
-    name: 'eQ Technologic',
-    domainNamePrimaryLinkUrl: '1eq.com',
-    addressAddressCity: 'Costa Mesa',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/eq-technologic',
+    name: 'Shivam Investments 512',
+    domainNamePrimaryLinkUrl: 'shivaminvestments512.in',
+    addressAddressCity: 'Kolkata',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/shivaminvestments512',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -6869,10 +6869,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_514,
-    name: 'Mindtickle',
-    domainNamePrimaryLinkUrl: 'mindtickle.com',
-    addressAddressCity: 'San Francisco',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/mindtickle',
+    name: 'Nirmal Infra Partners 513',
+    domainNamePrimaryLinkUrl: 'nirmalinfrapartners513.in',
+    addressAddressCity: 'Nashik',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/nirmalinfrapartners513',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -6881,10 +6881,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_515,
-    name: 'Omnitracs',
-    domainNamePrimaryLinkUrl: 'omnitracs.com',
-    addressAddressCity: 'Roanoke',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/omnitracs',
+    name: 'Trimurti Land Brokers 514',
+    domainNamePrimaryLinkUrl: 'trimurtilandbrokers514.in',
+    addressAddressCity: 'Thane',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/trimurtilandbrokers514',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -6893,10 +6893,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_516,
-    name: 'Programmer',
-    domainNamePrimaryLinkUrl: 'gregoryleroy.com',
-    addressAddressCity: 'Austin',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/programmer',
+    name: 'Konkan Estate Advisors 515',
+    domainNamePrimaryLinkUrl: 'konkanestateadvisors515.in',
+    addressAddressCity: 'Gurugram',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/konkanestateadvisors515',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -6905,10 +6905,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_517,
-    name: 'Navis',
-    domainNamePrimaryLinkUrl: 'navis.com',
-    addressAddressCity: 'Alpharetta',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/navis',
+    name: 'Orchid Infra Partners 516',
+    domainNamePrimaryLinkUrl: 'orchidinfrapartners516.in',
+    addressAddressCity: 'Nagpur',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/orchidinfrapartners516',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -6917,10 +6917,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_518,
-    name: 'AuditBoard',
-    domainNamePrimaryLinkUrl: 'auditboard.com',
-    addressAddressCity: 'Cerritos',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/auditboard',
+    name: 'Malabar Property Consultants 517',
+    domainNamePrimaryLinkUrl: 'malabarpropertyconsultants517.in',
+    addressAddressCity: 'Kolkata',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/malabarpropertyconsultants517',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -6929,10 +6929,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_519,
-    name: 'Algolia',
-    domainNamePrimaryLinkUrl: 'algolia.com',
-    addressAddressCity: 'San Francisco',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/algolia',
+    name: 'Maratha Investments 518',
+    domainNamePrimaryLinkUrl: 'marathainvestments518.in',
+    addressAddressCity: 'Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/marathainvestments518',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -6941,10 +6941,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_520,
-    name: 'YML',
-    domainNamePrimaryLinkUrl: 'yml.co',
-    addressAddressCity: 'Redwood City',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/ymlco',
+    name: 'Swastik Infra Partners 519',
+    domainNamePrimaryLinkUrl: 'swastikinfrapartners519.in',
+    addressAddressCity: 'Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/swastikinfrapartners519',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -6953,10 +6953,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_521,
-    name: 'Bolt',
-    domainNamePrimaryLinkUrl: 'bolt.com',
-    addressAddressCity: 'San Francisco',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/bolt-com',
+    name: 'Maratha Estate Advisors 520',
+    domainNamePrimaryLinkUrl: 'marathaestateadvisors520.in',
+    addressAddressCity: 'Ahmedabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/marathaestateadvisors520',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -6965,10 +6965,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_522,
-    name: 'Dandy',
-    domainNamePrimaryLinkUrl: 'meetdandy.com',
-    addressAddressCity: 'New York',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/dandyofficial',
+    name: 'Shree Ganesh Estate Advisors 521',
+    domainNamePrimaryLinkUrl: 'shreeganeshestateadvisors521.in',
+    addressAddressCity: 'Navi Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/shreeganeshestateadvisors521',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -6977,10 +6977,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_523,
-    name: 'Diverse Lynx',
-    domainNamePrimaryLinkUrl: 'diverselynx.com',
-    addressAddressCity: 'Princeton',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/diverselynx',
+    name: 'Maratha Property Consultants 522',
+    domainNamePrimaryLinkUrl: 'marathapropertyconsultants522.in',
+    addressAddressCity: 'Ahmedabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/marathapropertyconsultants522',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -6989,10 +6989,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_524,
-    name: 'JMP',
-    domainNamePrimaryLinkUrl: 'jmp.com',
-    addressAddressCity: 'Cary',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/jmp',
+    name: 'Om Sai Housing Services 523',
+    domainNamePrimaryLinkUrl: 'omsaihousingservices523.in',
+    addressAddressCity: 'Kolkata',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/omsaihousingservices523',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -7001,10 +7001,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_525,
-    name: 'ON24',
-    domainNamePrimaryLinkUrl: 'on24.com',
-    addressAddressCity: 'San Francisco',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/on24',
+    name: 'Metro Infra Partners 524',
+    domainNamePrimaryLinkUrl: 'metroinfrapartners524.in',
+    addressAddressCity: 'Chennai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/metroinfrapartners524',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -7013,10 +7013,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_526,
-    name: 'LabVantage Solutions, Inc',
-    domainNamePrimaryLinkUrl: 'labvantage.com',
-    addressAddressCity: 'Somerset',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/labvantage',
+    name: 'Gateway Estate Advisors 525',
+    domainNamePrimaryLinkUrl: 'gatewayestateadvisors525.in',
+    addressAddressCity: 'Thane',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/gatewayestateadvisors525',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -7025,10 +7025,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_527,
-    name: 'Exabeam',
-    domainNamePrimaryLinkUrl: 'exabeam.com',
-    addressAddressCity: 'San Mateo',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/exabeam',
+    name: 'Harmony Realtors 526',
+    domainNamePrimaryLinkUrl: 'harmonyrealtors526.in',
+    addressAddressCity: 'Nashik',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/harmonyrealtors526',
     createdBySource: 'SYSTEM',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -7037,10 +7037,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_528,
-    name: 'Iterable',
-    domainNamePrimaryLinkUrl: 'iterable.com',
-    addressAddressCity: 'San Francisco',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/iterable',
+    name: 'Gateway Housing Services 527',
+    domainNamePrimaryLinkUrl: 'gatewayhousingservices527.in',
+    addressAddressCity: 'Gurugram',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/gatewayhousingservices527',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -7049,10 +7049,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_529,
-    name: 'Clari',
-    domainNamePrimaryLinkUrl: 'clari.com',
-    addressAddressCity: 'Sunnyvale',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/clari',
+    name: 'Kalpavriksha Housing Services 528',
+    domainNamePrimaryLinkUrl: 'kalpavrikshahousingservices528.in',
+    addressAddressCity: 'Navi Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/kalpavrikshahousingservices528',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -7061,10 +7061,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_530,
-    name: 'Komodo Health',
-    domainNamePrimaryLinkUrl: 'komodohealth.com',
-    addressAddressCity: 'San Francisco',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/komodo-health',
+    name: 'Ashoka Homes Associates 529',
+    domainNamePrimaryLinkUrl: 'ashokahomesassociates529.in',
+    addressAddressCity: 'Pune',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/ashokahomesassociates529',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -7073,10 +7073,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_531,
-    name: 'Alation',
-    domainNamePrimaryLinkUrl: 'alation.com',
-    addressAddressCity: 'Redwood City',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/alation',
+    name: 'Dwarka Homes Associates 530',
+    domainNamePrimaryLinkUrl: 'dwarkahomesassociates530.in',
+    addressAddressCity: 'Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/dwarkahomesassociates530',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -7085,10 +7085,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_532,
-    name: 'Celigo',
-    domainNamePrimaryLinkUrl: 'celigo.com',
-    addressAddressCity: 'Redwood City',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/celigo-inc',
+    name: 'Orchid Land Brokers 531',
+    domainNamePrimaryLinkUrl: 'orchidlandbrokers531.in',
+    addressAddressCity: 'Kolkata',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/orchidlandbrokers531',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -7097,10 +7097,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_533,
-    name: 'Aptos Retail',
-    domainNamePrimaryLinkUrl: 'aptos.com',
-    addressAddressCity: 'Alpharetta',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/aptos-retail',
+    name: 'Mahalaxmi Infra Partners 532',
+    domainNamePrimaryLinkUrl: 'mahalaxmiinfrapartners532.in',
+    addressAddressCity: 'Nagpur',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/mahalaxmiinfrapartners532',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -7109,9 +7109,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_534,
-    name: 'WorkForce Software',
-    domainNamePrimaryLinkUrl: 'workforcesoftware.com',
-    addressAddressCity: 'Livonia',
+    name: 'Shree Ganesh Homes Associates 533',
+    domainNamePrimaryLinkUrl: 'shreeganeshhomesassociates533.in',
+    addressAddressCity: 'Mumbai',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/workforce-software',
     createdBySource: 'SYSTEM',
@@ -7122,9 +7122,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_535,
-    name: 'HPE Security - Data Security',
-    domainNamePrimaryLinkUrl: 'voltage.com',
-    addressAddressCity: 'Sunnyvale',
+    name: 'Lotus Property Consultants 534',
+    domainNamePrimaryLinkUrl: 'lotuspropertyconsultants534.in',
+    addressAddressCity: 'Kolkata',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/hpe-security-data-security',
     createdBySource: 'MANUAL',
@@ -7135,10 +7135,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_536,
-    name: 'DDN Storage',
-    domainNamePrimaryLinkUrl: 'ddn.com',
-    addressAddressCity: 'Chatsworth',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/ddn-storage',
+    name: 'Malabar Infra Partners 535',
+    domainNamePrimaryLinkUrl: 'malabarinfrapartners535.in',
+    addressAddressCity: 'Kolkata',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/malabarinfrapartners535',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -7147,10 +7147,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_537,
-    name: 'KPA',
-    domainNamePrimaryLinkUrl: 'kpa.io',
-    addressAddressCity: 'Broomfield',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/kpa-llc',
+    name: 'Aadhar Property Consultants 536',
+    domainNamePrimaryLinkUrl: 'aadharpropertyconsultants536.in',
+    addressAddressCity: 'Pune',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/aadharpropertyconsultants536',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -7159,10 +7159,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_538,
-    name: 'Lohika',
-    domainNamePrimaryLinkUrl: 'lohika.com',
-    addressAddressCity: 'San Mateo',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/lohika',
+    name: 'Vastu Housing Services 537',
+    domainNamePrimaryLinkUrl: 'vastuhousingservices537.in',
+    addressAddressCity: 'Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/vastuhousingservices537',
     createdBySource: 'SYSTEM',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -7171,10 +7171,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_539,
-    name: 'Qualifacts',
-    domainNamePrimaryLinkUrl: 'qualifacts.com',
-    addressAddressCity: 'Nashville',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/qualifacts',
+    name: 'Sahyadri Realtors 538',
+    domainNamePrimaryLinkUrl: 'sahyadrirealtors538.in',
+    addressAddressCity: 'Thane',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/sahyadrirealtors538',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -7183,10 +7183,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_540,
-    name: 'Centric Software',
-    domainNamePrimaryLinkUrl: 'centricsoftware.com',
-    addressAddressCity: 'Campbell',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/centric-software',
+    name: 'Lotus Investments 539',
+    domainNamePrimaryLinkUrl: 'lotusinvestments539.in',
+    addressAddressCity: 'Nagpur',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/lotusinvestments539',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -7195,10 +7195,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_541,
-    name: 'Omdena',
-    domainNamePrimaryLinkUrl: 'omdena.com',
-    addressAddressCity: 'New York',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/omdena',
+    name: 'Silver Oak Realty 540',
+    domainNamePrimaryLinkUrl: 'silveroakrealty540.in',
+    addressAddressCity: 'Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/silveroakrealty540',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -7207,10 +7207,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_542,
-    name: 'AccountantsWorld',
-    domainNamePrimaryLinkUrl: 'accountantsworld.com',
-    addressAddressCity: 'Hauppauge',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/accountantsworld',
+    name: 'Sunrise Realty 541',
+    domainNamePrimaryLinkUrl: 'sunriserealty541.in',
+    addressAddressCity: 'Thane',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/sunriserealty541',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -7219,10 +7219,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_543,
-    name: 'Aderant',
-    domainNamePrimaryLinkUrl: 'aderant.com',
-    addressAddressCity: 'Atlanta',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/aderant',
+    name: 'Raj Hans Land Brokers 542',
+    domainNamePrimaryLinkUrl: 'rajhanslandbrokers542.in',
+    addressAddressCity: 'Navi Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/rajhanslandbrokers542',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -7231,9 +7231,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_544,
-    name: 'Python Software Foundation',
-    domainNamePrimaryLinkUrl: 'python.org',
-    addressAddressCity: 'Beaverton',
+    name: 'Godavari Property Consultants 543',
+    domainNamePrimaryLinkUrl: 'godavaripropertyconsultants543.in',
+    addressAddressCity: 'Bengaluru',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/python-software-foundation',
     createdBySource: 'WORKFLOW',
@@ -7244,10 +7244,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_545,
-    name: 'OpenGov Inc.',
-    domainNamePrimaryLinkUrl: 'opengov.com',
-    addressAddressCity: 'San Jose',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/opengov-inc',
+    name: 'Bhumi Infra Partners 544',
+    domainNamePrimaryLinkUrl: 'bhumiinfrapartners544.in',
+    addressAddressCity: 'Navi Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/bhumiinfrapartners544',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -7256,9 +7256,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_546,
-    name: 'Denodo',
-    domainNamePrimaryLinkUrl: 'denodo.com',
-    addressAddressCity: 'Palo Alto',
+    name: 'Bhumi Property Consultants 545',
+    domainNamePrimaryLinkUrl: 'bhumipropertyconsultants545.in',
+    addressAddressCity: 'Ahmedabad',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/denodo-technologies',
     createdBySource: 'CALENDAR',
@@ -7269,10 +7269,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_547,
-    name: 'NEOGOV',
-    domainNamePrimaryLinkUrl: 'neogov.com',
-    addressAddressCity: 'El Segundo',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/neogov',
+    name: 'Om Sai Homes Associates 546',
+    domainNamePrimaryLinkUrl: 'omsaihomesassociates546.in',
+    addressAddressCity: 'Bengaluru',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/omsaihomesassociates546',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -7281,10 +7281,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_548,
-    name: 'VertexOne',
-    domainNamePrimaryLinkUrl: 'vertexone.net',
-    addressAddressCity: 'Dallas',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/vertex-one',
+    name: 'Sunrise Realtors 547',
+    domainNamePrimaryLinkUrl: 'sunriserealtors547.in',
+    addressAddressCity: 'Pune',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/sunriserealtors547',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -7293,9 +7293,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_549,
-    name: 'The Linux Foundation',
-    domainNamePrimaryLinkUrl: 'linuxfoundation.org',
-    addressAddressCity: 'San Francisco',
+    name: 'Silver Oak Homes Associates 548',
+    domainNamePrimaryLinkUrl: 'silveroakhomesassociates548.in',
+    addressAddressCity: 'Hyderabad',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/the-linux-foundation',
     createdBySource: 'IMPORT',
@@ -7306,10 +7306,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_550,
-    name: 'Reputation',
-    domainNamePrimaryLinkUrl: 'reputation.com',
-    addressAddressCity: 'San Ramon',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/reputation-com',
+    name: 'Dwarka Land Brokers 549',
+    domainNamePrimaryLinkUrl: 'dwarkalandbrokers549.in',
+    addressAddressCity: 'Hyderabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/dwarkalandbrokers549',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -7318,10 +7318,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_551,
-    name: 'Relevantz ',
-    domainNamePrimaryLinkUrl: 'relevantz.com',
-    addressAddressCity: 'Alpharetta',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/relevantz',
+    name: 'Evergreen Infra Partners 550',
+    domainNamePrimaryLinkUrl: 'evergreeninfrapartners550.in',
+    addressAddressCity: 'Pune',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/evergreeninfrapartners550',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -7330,9 +7330,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_552,
-    name: 'M-Files',
-    domainNamePrimaryLinkUrl: 'm-files.com',
-    addressAddressCity: 'Austin',
+    name: 'Sahyadri Estate Advisors 551',
+    domainNamePrimaryLinkUrl: 'sahyadriestateadvisors551.in',
+    addressAddressCity: 'Kolkata',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/m-files-corporation',
     createdBySource: 'MANUAL',
@@ -7343,10 +7343,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_553,
-    name: 'Homebase',
-    domainNamePrimaryLinkUrl: 'joinhomebase.com',
-    addressAddressCity: 'San Francisco',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/homebase-app',
+    name: 'Dwarka Land Brokers 552',
+    domainNamePrimaryLinkUrl: 'dwarkalandbrokers552.in',
+    addressAddressCity: 'Hyderabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/dwarkalandbrokers552',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -7355,9 +7355,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_554,
-    name: 'Calypso Technology',
-    domainNamePrimaryLinkUrl: 'calypso.com',
-    addressAddressCity: 'San Francisco',
+    name: 'Sunrise Realty 553',
+    domainNamePrimaryLinkUrl: 'sunriserealty553.in',
+    addressAddressCity: 'Chennai',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/calypso-technology',
     createdBySource: 'EMAIL',
@@ -7368,9 +7368,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_555,
-    name: 'Viewpoint',
-    domainNamePrimaryLinkUrl: 'viewpoint.com',
-    addressAddressCity: 'Broomfield',
+    name: 'Shivam Housing Services 554',
+    domainNamePrimaryLinkUrl: 'shivamhousingservices554.in',
+    addressAddressCity: 'Mumbai',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/viewpoint-construction-software',
     createdBySource: 'API',
@@ -7381,10 +7381,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_556,
-    name: 'Devo',
-    domainNamePrimaryLinkUrl: 'devo.com',
-    addressAddressCity: 'Cambridge',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/devoinc',
+    name: 'Om Sai Housing Services 555',
+    domainNamePrimaryLinkUrl: 'omsaihousingservices555.in',
+    addressAddressCity: 'Ahmedabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/omsaihousingservices555',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -7393,10 +7393,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_557,
-    name: 'WebPT',
-    domainNamePrimaryLinkUrl: 'webpt.com',
-    addressAddressCity: 'Phoenix',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/webpt',
+    name: 'Skyline Estate Advisors 556',
+    domainNamePrimaryLinkUrl: 'skylineestateadvisors556.in',
+    addressAddressCity: 'Nashik',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/skylineestateadvisors556',
     createdBySource: 'SYSTEM',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -7405,10 +7405,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_558,
-    name: 'MatrixCare',
-    domainNamePrimaryLinkUrl: 'matrixcare.com',
-    addressAddressCity: 'Minneapolis',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/matrixcare',
+    name: 'Om Sai Housing Services 557',
+    domainNamePrimaryLinkUrl: 'omsaihousingservices557.in',
+    addressAddressCity: 'Chennai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/omsaihousingservices557',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -7417,10 +7417,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_559,
-    name: 'Sisense',
-    domainNamePrimaryLinkUrl: 'sisense.com',
-    addressAddressCity: 'New York',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/sisense',
+    name: 'Gateway Homes Associates 558',
+    domainNamePrimaryLinkUrl: 'gatewayhomesassociates558.in',
+    addressAddressCity: 'Nashik',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/gatewayhomesassociates558',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -7429,10 +7429,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_560,
-    name: 'Calendly',
-    domainNamePrimaryLinkUrl: 'calendly.com',
-    addressAddressCity: 'Atlanta',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/calendly',
+    name: 'Shivam Realty 559',
+    domainNamePrimaryLinkUrl: 'shivamrealty559.in',
+    addressAddressCity: 'Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/shivamrealty559',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -7441,10 +7441,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_561,
-    name: 'Placer.ai',
-    domainNamePrimaryLinkUrl: 'placer.io',
-    addressAddressCity: 'Los Altos',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/placer',
+    name: 'Heritage Estate Advisors 560',
+    domainNamePrimaryLinkUrl: 'heritageestateadvisors560.in',
+    addressAddressCity: 'Thane',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/heritageestateadvisors560',
     createdBySource: 'SYSTEM',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -7453,10 +7453,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_562,
-    name: 'MResult',
-    domainNamePrimaryLinkUrl: 'mresult.com',
-    addressAddressCity: 'Mystic',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/mresult',
+    name: 'Bhumi Housing Services 561',
+    domainNamePrimaryLinkUrl: 'bhumihousingservices561.in',
+    addressAddressCity: 'Chennai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/bhumihousingservices561',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -7465,9 +7465,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_563,
-    name: 'Coherent Solutions',
-    domainNamePrimaryLinkUrl: 'coherentsolutions.com',
-    addressAddressCity: 'Minneapolis',
+    name: 'Trimurti Land Brokers 562',
+    domainNamePrimaryLinkUrl: 'trimurtilandbrokers562.in',
+    addressAddressCity: 'Ahmedabad',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/coherent-solutions',
     createdBySource: 'SYSTEM',
@@ -7478,10 +7478,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_564,
-    name: 'Mirantis',
-    domainNamePrimaryLinkUrl: 'mirantis.com',
-    addressAddressCity: 'Campbell',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/mirantis',
+    name: 'Sahyadri Estate Advisors 563',
+    domainNamePrimaryLinkUrl: 'sahyadriestateadvisors563.in',
+    addressAddressCity: 'Ahmedabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/sahyadriestateadvisors563',
     createdBySource: 'SYSTEM',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -7490,9 +7490,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_565,
-    name: 'Simplify Healthcare',
-    domainNamePrimaryLinkUrl: 'simplifyhealthcare.com',
-    addressAddressCity: 'Aurora',
+    name: 'Silver Oak Housing Services 564',
+    domainNamePrimaryLinkUrl: 'silveroakhousingservices564.in',
+    addressAddressCity: 'Gurugram',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/simplifyhealthcare',
     createdBySource: 'EMAIL',
@@ -7503,10 +7503,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_566,
-    name: 'JumpCloud',
-    domainNamePrimaryLinkUrl: 'jumpcloud.com',
-    addressAddressCity: 'Louisville',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/jumpcloud',
+    name: 'Orchid Investments 565',
+    domainNamePrimaryLinkUrl: 'orchidinvestments565.in',
+    addressAddressCity: 'Nagpur',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/orchidinvestments565',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -7515,10 +7515,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_567,
-    name: 'ASAP',
-    domainNamePrimaryLinkUrl: 'asap.com',
-    addressAddressCity: 'Lafayette',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/asap',
+    name: 'Dwarka Estate Advisors 566',
+    domainNamePrimaryLinkUrl: 'dwarkaestateadvisors566.in',
+    addressAddressCity: 'Pune',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/dwarkaestateadvisors566',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -7527,10 +7527,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_568,
-    name: 'Xoxoday',
-    domainNamePrimaryLinkUrl: 'xoxoday.com',
-    addressAddressCity: 'Redwood City',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/xoxoday',
+    name: 'Kohinoor Properties LLP 567',
+    domainNamePrimaryLinkUrl: 'kohinoorpropertiesllp567.in',
+    addressAddressCity: 'Pune',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/kohinoorpropertiesllp567',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -7539,10 +7539,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_569,
-    name: 'DataStax',
-    domainNamePrimaryLinkUrl: 'datastax.com',
-    addressAddressCity: 'Santa Clara',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/datastax',
+    name: 'Trimurti Properties LLP 568',
+    domainNamePrimaryLinkUrl: 'trimurtipropertiesllp568.in',
+    addressAddressCity: 'Bengaluru',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/trimurtipropertiesllp568',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -7551,10 +7551,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_570,
-    name: 'Foursquare',
-    domainNamePrimaryLinkUrl: 'foursquare.com',
-    addressAddressCity: 'New York',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/foursquare',
+    name: 'Metro Land Brokers 569',
+    domainNamePrimaryLinkUrl: 'metrolandbrokers569.in',
+    addressAddressCity: 'Hyderabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/metrolandbrokers569',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -7563,10 +7563,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_571,
-    name: 'LastPass',
-    domainNamePrimaryLinkUrl: 'lastpass.com',
-    addressAddressCity: 'Boston',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/lastpass',
+    name: 'Kalpavriksha Estate Advisors 570',
+    domainNamePrimaryLinkUrl: 'kalpavrikshaestateadvisors570.in',
+    addressAddressCity: 'Chennai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/kalpavrikshaestateadvisors570',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -7575,10 +7575,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_572,
-    name: 'SOCi, Inc.',
-    domainNamePrimaryLinkUrl: 'meetsoci.com',
-    addressAddressCity: 'San Diego',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/soci-inc-',
+    name: 'Aadhar Housing Services 571',
+    domainNamePrimaryLinkUrl: 'aadharhousingservices571.in',
+    addressAddressCity: 'Chennai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/aadharhousingservices571',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -7587,9 +7587,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_573,
-    name: 'Stratus Technologies',
-    domainNamePrimaryLinkUrl: 'stratus.com',
-    addressAddressCity: 'Maynard',
+    name: 'Raj Hans Estate Advisors 572',
+    domainNamePrimaryLinkUrl: 'rajhansestateadvisors572.in',
+    addressAddressCity: 'Chennai',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/stratus-technologies',
     createdBySource: 'SYSTEM',
@@ -7600,10 +7600,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_574,
-    name: 'AdvancedMD',
-    domainNamePrimaryLinkUrl: 'advancedmd.com',
-    addressAddressCity: 'South Jordan',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/advancedmd',
+    name: 'Ashoka Estate Advisors 573',
+    domainNamePrimaryLinkUrl: 'ashokaestateadvisors573.in',
+    addressAddressCity: 'Hyderabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/ashokaestateadvisors573',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -7612,10 +7612,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_575,
-    name: 'Matterport',
-    domainNamePrimaryLinkUrl: 'matterport.com',
-    addressAddressCity: 'Sunnyvale',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/matterport',
+    name: 'Prestige Hills Land Brokers 574',
+    domainNamePrimaryLinkUrl: 'prestigehillslandbrokers574.in',
+    addressAddressCity: 'Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/prestigehillslandbrokers574',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -7624,9 +7624,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_576,
-    name: 'Samsung Research America (SRA)',
-    domainNamePrimaryLinkUrl: 'sra.samsung.com',
-    addressAddressCity: 'Mountain View',
+    name: 'Om Sai Housing Services 575',
+    domainNamePrimaryLinkUrl: 'omsaihousingservices575.in',
+    addressAddressCity: 'Chennai',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/sra-samsungreasearchamerica',
     createdBySource: 'EMAIL',
@@ -7637,10 +7637,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_577,
-    name: 'Creatio',
-    domainNamePrimaryLinkUrl: 'creatio.com',
-    addressAddressCity: 'Boston',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/creatioglobal',
+    name: 'Aadhar Property Consultants 576',
+    domainNamePrimaryLinkUrl: 'aadharpropertyconsultants576.in',
+    addressAddressCity: 'Ahmedabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/aadharpropertyconsultants576',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -7649,10 +7649,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_578,
-    name: 'Branch',
-    domainNamePrimaryLinkUrl: 'branch.io',
-    addressAddressCity: 'Palo Alto',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/branch-metrics',
+    name: 'Shree Ganesh Properties LLP 577',
+    domainNamePrimaryLinkUrl: 'shreeganeshpropertiesllp577.in',
+    addressAddressCity: 'Pune',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/shreeganeshpropertiesllp577',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -7661,10 +7661,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_579,
-    name: 'Versa Networks',
-    domainNamePrimaryLinkUrl: 'versa-networks.com',
-    addressAddressCity: 'Alviso',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/versa-networks',
+    name: 'Evergreen Realty 578',
+    domainNamePrimaryLinkUrl: 'evergreenrealty578.in',
+    addressAddressCity: 'Ahmedabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/evergreenrealty578',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -7673,10 +7673,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_580,
-    name: 'Mitek Systems',
-    domainNamePrimaryLinkUrl: 'miteksystems.com',
-    addressAddressCity: 'San Diego',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/miteksystems',
+    name: 'Silver Oak Housing Services 579',
+    domainNamePrimaryLinkUrl: 'silveroakhousingservices579.in',
+    addressAddressCity: 'Kolkata',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/silveroakhousingservices579',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -7685,10 +7685,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_581,
-    name: 'PDF Solutions',
-    domainNamePrimaryLinkUrl: 'pdf.com',
-    addressAddressCity: 'Santa Clara',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/pdf-solutions',
+    name: 'Western Ghats Property Consultants 580',
+    domainNamePrimaryLinkUrl: 'westernghatspropertyconsultants580.in',
+    addressAddressCity: 'Kolkata',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/westernghatspropertyconsultants580',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -7697,10 +7697,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_582,
-    name: 'ESO',
-    domainNamePrimaryLinkUrl: 'eso.com',
-    addressAddressCity: 'Austin',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/eso-solutions',
+    name: 'Bhumi Property Consultants 581',
+    domainNamePrimaryLinkUrl: 'bhumipropertyconsultants581.in',
+    addressAddressCity: 'Nashik',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/bhumipropertyconsultants581',
     createdBySource: 'SYSTEM',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -7709,10 +7709,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_583,
-    name: 'Mural',
-    domainNamePrimaryLinkUrl: 'mural.co',
-    addressAddressCity: 'San Francisco',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/mural.co',
+    name: 'Ashoka Realty 582',
+    domainNamePrimaryLinkUrl: 'ashokarealty582.in',
+    addressAddressCity: 'Navi Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/ashokarealty582',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -7721,10 +7721,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_584,
-    name: 'FourKites, Inc.',
-    domainNamePrimaryLinkUrl: 'fourkites.com',
-    addressAddressCity: 'Chicago',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/fourkites-inc',
+    name: 'Gateway Homes Associates 583',
+    domainNamePrimaryLinkUrl: 'gatewayhomesassociates583.in',
+    addressAddressCity: 'Pune',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/gatewayhomesassociates583',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -7733,10 +7733,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_585,
-    name: 'Aras Corporation',
-    domainNamePrimaryLinkUrl: 'aras.com',
-    addressAddressCity: 'Andover',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/aras-corporation',
+    name: 'Western Ghats Housing Services 584',
+    domainNamePrimaryLinkUrl: 'westernghatshousingservices584.in',
+    addressAddressCity: 'Gurugram',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/westernghatshousingservices584',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -7745,10 +7745,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_586,
-    name: 'Delphix',
-    domainNamePrimaryLinkUrl: 'delphix.com',
-    addressAddressCity: 'Redwood City',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/delphix',
+    name: 'Lotus Housing Services 585',
+    domainNamePrimaryLinkUrl: 'lotushousingservices585.in',
+    addressAddressCity: 'Hyderabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/lotushousingservices585',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -7757,10 +7757,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_587,
-    name: 'Wolfram',
-    domainNamePrimaryLinkUrl: 'wolfram.com',
-    addressAddressCity: 'Champaign',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/wolfram-research',
+    name: 'Deccan Infra Partners 586',
+    domainNamePrimaryLinkUrl: 'deccaninfrapartners586.in',
+    addressAddressCity: 'Chennai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/deccaninfrapartners586',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -7769,10 +7769,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_588,
-    name: 'Eightfold',
-    domainNamePrimaryLinkUrl: 'eightfold.ai',
-    addressAddressCity: 'Santa Clara',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/eightfoldai',
+    name: 'Raj Hans Homes Associates 587',
+    domainNamePrimaryLinkUrl: 'rajhanshomesassociates587.in',
+    addressAddressCity: 'Thane',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/rajhanshomesassociates587',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -7781,10 +7781,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_589,
-    name: 'Quark Software Inc.',
-    domainNamePrimaryLinkUrl: 'quark.com',
-    addressAddressCity: 'Grand Rapids',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/quark',
+    name: 'Ashoka Investments 588',
+    domainNamePrimaryLinkUrl: 'ashokainvestments588.in',
+    addressAddressCity: 'Hyderabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/ashokainvestments588',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -7793,10 +7793,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_590,
-    name: 'connectRN',
-    domainNamePrimaryLinkUrl: 'connectrn.com',
-    addressAddressCity: 'Waltham',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/connectrn',
+    name: 'Maratha Realtors 589',
+    domainNamePrimaryLinkUrl: 'maratharealtors589.in',
+    addressAddressCity: 'Pune',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/maratharealtors589',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -7805,9 +7805,9 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_591,
-    name: 'RSI',
-    domainNamePrimaryLinkUrl: 'rsidelivers.com',
-    addressAddressCity: 'Pembroke',
+    name: 'Nirmal Realty 590',
+    domainNamePrimaryLinkUrl: 'nirmalrealty590.in',
+    addressAddressCity: 'Navi Mumbai',
     linkedinLinkPrimaryLinkUrl:
       'https://linkedin.com/company/revenue-solutions-inc-',
     createdBySource: 'IMPORT',
@@ -7818,10 +7818,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_592,
-    name: 'Macrosoft',
-    domainNamePrimaryLinkUrl: 'macrosoftinc.com',
-    addressAddressCity: 'Parsippany',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/macrosoft',
+    name: 'Evergreen Homes Associates 591',
+    domainNamePrimaryLinkUrl: 'evergreenhomesassociates591.in',
+    addressAddressCity: 'Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/evergreenhomesassociates591',
     createdBySource: 'SYSTEM',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -7830,10 +7830,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_593,
-    name: 'Paradox',
-    domainNamePrimaryLinkUrl: 'paradox.ai',
-    addressAddressCity: 'Scottsdale',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/paradoxolivia',
+    name: 'Evergreen Land Brokers 592',
+    domainNamePrimaryLinkUrl: 'evergreenlandbrokers592.in',
+    addressAddressCity: 'Ahmedabad',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/evergreenlandbrokers592',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -7842,10 +7842,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_594,
-    name: 'SmartRecruiters',
-    domainNamePrimaryLinkUrl: 'smartrecruiters.com',
-    addressAddressCity: 'San Francisco',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/smartrecruiters',
+    name: 'Skyline Homes Associates 593',
+    domainNamePrimaryLinkUrl: 'skylinehomesassociates593.in',
+    addressAddressCity: 'Nagpur',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/skylinehomesassociates593',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -7854,10 +7854,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_595,
-    name: 'Tealium',
-    domainNamePrimaryLinkUrl: 'tealium.com',
-    addressAddressCity: 'San Diego',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/tealium',
+    name: 'Orchid Homes Associates 594',
+    domainNamePrimaryLinkUrl: 'orchidhomesassociates594.in',
+    addressAddressCity: 'Chennai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/orchidhomesassociates594',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -7866,10 +7866,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_596,
-    name: 'Securiti',
-    domainNamePrimaryLinkUrl: 'securiti.ai',
-    addressAddressCity: 'San Jose',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/securitiai',
+    name: 'Heritage Infra Partners 595',
+    domainNamePrimaryLinkUrl: 'heritageinfrapartners595.in',
+    addressAddressCity: 'Chennai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/heritageinfrapartners595',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -7878,10 +7878,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_597,
-    name: 'Lattice',
-    domainNamePrimaryLinkUrl: 'lattice.com',
-    addressAddressCity: 'San Francisco',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/lattice-hq',
+    name: 'Prestige Hills Homes Associates 596',
+    domainNamePrimaryLinkUrl: 'prestigehillshomesassociates596.in',
+    addressAddressCity: 'Navi Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/prestigehillshomesassociates596',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -7890,10 +7890,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_598,
-    name: 'TuSimple',
-    domainNamePrimaryLinkUrl: 'tusimple.com',
-    addressAddressCity: 'San Diego',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/tusimple',
+    name: 'Deccan Realtors 597',
+    domainNamePrimaryLinkUrl: 'deccanrealtors597.in',
+    addressAddressCity: 'Bengaluru',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/deccanrealtors597',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -7902,10 +7902,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_599,
-    name: 'Ceipal',
-    domainNamePrimaryLinkUrl: 'ceipal.com',
-    addressAddressCity: 'Rochester',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/ceipal',
+    name: 'Mahalaxmi Realtors 598',
+    domainNamePrimaryLinkUrl: 'mahalaxmirealtors598.in',
+    addressAddressCity: 'Kolkata',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/mahalaxmirealtors598',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',
@@ -7914,10 +7914,10 @@ const COMPANY_DATA_SEEDS_RAW = [
 
   {
     id: COMPANY_DATA_SEED_IDS.ID_599,
-    name: 'RSD',
-    domainNamePrimaryLinkUrl: 'rocketsoftware.com',
-    addressAddressCity: 'Waltham',
-    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/rsd',
+    name: 'Konkan Investments 599',
+    domainNamePrimaryLinkUrl: 'konkaninvestments599.in',
+    addressAddressCity: 'Navi Mumbai',
+    linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/konkaninvestments599',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
     createdByName: 'Tim A',

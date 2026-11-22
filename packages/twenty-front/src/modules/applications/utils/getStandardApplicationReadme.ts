@@ -1,7 +1,7 @@
 import { t } from '@lingui/core/macro';
 
 export const getStandardApplicationReadme =
-  (): string => t`Every Twenty workspace starts with this app. It defines the shape of your CRM: the core objects, how they relate to each other, and the views and record pages your team works in. Marketplace apps, AI agents and your own customizations all build on top of it.
+  (): string => t`Every Sterlitee workspace starts with this app. It defines the shape of your CRM: the core objects, how they relate to each other, and the views and record pages your team works in. Marketplace apps, AI agents and your own customizations all build on top of it.
 
 ## ✨ What you get
 
